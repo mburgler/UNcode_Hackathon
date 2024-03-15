@@ -1,0 +1,93 @@
+{
+    "project-id": 230112,
+    "project_description": "Liberian Food Safety Initiative # Enhancing food safety practices and compliance across selected value chains\nBased on UNIDO`s vast and long lasting experience in the country, the EUD Liberia invited UNIDO to develop a concept note on food safety.",
+    "project_start": "7/1/2023",
+    "project_end": "6/30/2028",
+    "project_title": "Liberian Food Safety Initiative # Enhancing food safety practices and compliance across selected value chains",
+    "sector": "Food safety and quality",
+    "project_category": "CreatingShared Prosperity",
+    "project_subcategory": " Agri. Busin. & Rural Dev.",
+    "total_budget": "7281242.35",
+    "total_expenditure": "19602.16",
+    "recipient_country_details": [
+        {
+            "recipient-country-code": "LR",
+            "recipient-country": "Liberia",
+            "ldc-indicator": "X",
+            "region": "AFRICA"
+        }
+    ],
+    "donor_details": [
+        {
+            "donor": "Regular Programme Of Technical Cooperati",
+            "donor-type": "RPTC and SRA",
+            "donor-country-code": "nan",
+            "donor-country": "nan"
+        }
+    ],
+    "classification_results": {
+        "ZeroShot": {
+            "UsedModel": "https://api-inference.huggingface.co/models/facebook/bart-large-mnli",
+            "SDGs": [
+                [
+                    "SDG 5: Gender equality: SDG 5 'Gender equality' aims to achieve gender equality and empower all women and girls. It aims to support women in acquiring skills and gaining access to productive and financial resources that allow them to compete effectively in the economic life of their communities. It aims to solve unequal access to education, healthcare, economic opportunities, and resources.",
+                    0.5757205486297607
+                ],
+                [
+                    "SDG 8: Decent work and economic growth: SDG8 \u201cDecent work and economic growth\u201d aims to promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all. It seeks to facilitate structural transformation and economic growth by increasing the capacities of local industries for value addition, economic diversification, and export promotion, as well as supports the creation of decent jobs in industry and industry-related services",
+                    0.13050732016563416
+                ],
+                [
+                    "SDG 9: Industry, innovation, and infrastructure: SDG 9 \u201cIndustry, innovation, and infrastructure\u201d aims to build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation. Building trade capacities in industries, ensuring all countries benefit from international trade and technological progress",
+                    0.08684051036834717
+                ],
+                [
+                    "SDG 14: Life below water: Conserve and sustainably use the oceans, seas and marine resources for sustainable development. Sound water management methodologies and system introduction, strategic partnerships protect coastal and marine habitats and ecosystems, and improve fisheries incomes.",
+                    0.07202057540416718
+                ],
+                [
+                    "SDG 15: Life on land: Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss. Sustainable management of the soils and the generation of highly productive renewable resources and support the adaptation and adoption of cleaner production methods, technologies and systems.",
+                    0.06969939917325974
+                ],
+                [
+                    "SDG 1: No poverty: SDG 1 'No Poverty' aims to end poverty in all its forms everywhere. It seeks to ensure that the benefits of industrialization are shared by all, that the living conditions of all are sustainably improved, and that no one is left behind.",
+                    0.0652116909623146
+                ]
+            ],
+            "Focus_Areas": [
+                [
+                    "Focus area 2: Innovation and Technology Absorption: Promoting technology adoption and innovative solutions across diverse areas such as smart energy and industrial resilience. This encompasses technology promotion, innovative financing, and developing quality infrastructure to tackle multifaceted development challenges and enhance global industrial competitiveness",
+                    0.4337572455406189
+                ],
+                [
+                    "Focus area 4: Climate Change Mitigation and Adaptation Industry: Accelerating the development of renewable energy and energy efficiency initiatives to decarbonize industrial activities and power low-carbon, resilient industrialization. It equips stakeholders with the knowledge to leverage digital technologies for sustainable industry and to develop climate-positive, resilient industrial systems across various sectors.",
+                    0.2841867506504059
+                ],
+                [
+                    "Focus area 3: Circularity, Waste and Pollutants Reduction: Promote the transition to circular economy models to minimize waste and pollutants across global and domestic value chains. This includes assisting countries in developing strategies to comply with environmental agreements and fostering innovation ecosystems that catalyze new industries focused on reducing the environmental footprint of industrial activities.",
+                    0.16392947733402252
+                ]
+            ],
+            "Priorities": [
+                [
+                    "Priority 3: Sustainable supply chains: Sustainable supply chains are systems of production and distribution that prioritize environmental, social, and economic responsibility throughout the entire process. This approach considers the impacts of sourcing, manufacturing, transportation, and consumption on people and the planet. It involves minimizing carbon emissions, reducing waste, conserving resources, and ensuring fair labor practices along. Sustainable supply chains prioritize ethical sourcing of materials, support local economies, and promote transparency and accountability among suppliers. Companies must identify, end, prevent and mitigate negative human rights and environmental impacts in the company\u2019s operations, those of their subsidiaries and their supply chains.",
+                    0.7451150417327881
+                ],
+                [
+                    "Priority 2: Climate Action: Climate action refers to efforts aimed at mitigating and adapting to the impacts of climate change. It involves taking proactive measures to reduce greenhouse gas emissions, strengthening resilience, transitioning towards renewable energy sources, and implementing policies to limit global warming including the reduction of ozone depleting substances (ODS) such as Hydrochlorofluorocarbons (HCFC) and Chlorofluorocarbons (CFC). Ultimately, climate action aims to minimize environmental degradation, and promoting conservation. Companies have the potential to become leading providers of technological solutions, business models and green jobs to influence consumer behavior and lifestyles to mitigate climate change and resource depletion.",
+                    0.19854719936847687
+                ],
+                [
+                    "Priority 1: Ending Hunger: Ending hunger means that all people should have physical, social, and economic access to sufficient, safe and nutritious food. Reducing post-harvest loss and reducing food waste means that more food and agricultural products will be available for consumption. Increased food safety, quality control, and better farming techniques are also importantt. This can be supported through agri-business development and upgrading agro-food value chains.",
+                    0.05633780360221863
+                ]
+            ]
+        },
+        "GenerativeAI": {
+            "UsedModel": "gpt-3.5-turbo",
+            "SDGs": "**Category Assignments:**\n1. SDG 2: Zero hunger\n2. SDG 12: Responsible consumption and production\n\n**Justification:**\n- **SDG 2: Zero hunger:** The text aligns with SDG 2 as it mentions the initiative's focus on enhancing food safety practices, which is crucial in achieving zero hunger by ensuring food security and improved nutrition.\n- **SDG 12: Responsible consumption and production:** The emphasis on compliance across value chains implies a commitment to responsible consumption and production practices, in line with SDG 12's objective of ensuring sustainable consumption and production patterns.\n\nThis initiative contributes to SDG 2 by addressing food safety for improved nutrition and aligns with SDG 12 by promoting responsible consumption and production practices.\n\n**Structured Format:**\nThe Liberian Food Safety Initiative aims to enhance food safety practices and compliance across selected value chains, contributing to SDG 2 'Zero hunger' by improving food security and nutrition. Additionally, the initiative aligns with SDG 12 'Responsible consumption and production' by emphasizing responsible practices in food production.",
+            "Focus_Areas": "**Category Assignments:**\n1. **Focus Area 1: Digital Transformation and 4IR**\n2. **Focus Area 2: Innovation and Technology Absorption**\n\n**Justification:**\n1. The text mentions UNIDO's involvement in developing a concept note on food safety in Liberia, reflecting efforts to enhance practices in selected value chains. This aligns with the focus on harnessing rapid digital advances to revolutionize manufacturing and global value chains, as stated in Focus Area 1.\n   \n2. The text highlights the promotion of food safety practices and compliance, indicating a push towards technology adoption and innovative solutions in the realm of ensuring safety standards. This corresponds to the theme of promoting technology adoption and innovative solutions across diverse areas, as outlined in Focus Area 2.\n\nBy focusing on digital advancement and innovation in improving food safety practices within value chains, the text fits into both Focus Area 1 and Focus Area 2.",
+            "Priorities": "**Classification:**\n- **Category:** Priority 1: Ending Hunger\n- **Justification:** The text aligns with Priority 1 as it touches on enhancing food safety practices and compliance across selected value chains, which contributes to ensuring safe and nutritious food availability for all people. The mention of developing a concept note on food safety indicates a step towards improving food safety standards, which is crucial in addressing hunger by ensuring access to safe food.\n- **Category:** Priority 3: Sustainable Supply Chains\n- **Justification:** The text also falls under Priority 3 as it discusses improving food safety practices within value chains, emphasizing the importance of responsible production and distribution processes. By enhancing food safety practices, the initiative aims to prioritize environmental, social, and economic responsibility in the food supply chain, which is a core aspect of sustainable supply chains.\n\nThis text primarily aligns with Priority 1: Ending Hunger and also corresponds to Priority 3: Sustainable Supply Chains based on the outlined criteria."
+        }
+    }
+}

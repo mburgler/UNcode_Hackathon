@@ -1,0 +1,64 @@
+
+# **************************************************************************** #
+#                                                                              #
+#    888     888 8888b   888                       888                         #
+#    888     888 88888b  888                       888                         #
+#    888     888 888Y88b 888  .d8888b .d88b.   .d88888  .d88b.                 #
+#    888     888 888 Y88b888 d88P"   d88""88b d88" 888 d8P  Y8b                #
+#    Y88b. .d88P 888   Y8888 Y88b.   Y88..88P Y88b 888 Y8PPPP                  #
+#     "Y88888P"  888    Y888  "Y8888P "Y88P"   "Y88888  "Ybbbb.                #
+#                                                                              #
+#   By: UNexpectedOutput                                                       #
+#       Franziska Adler, Clemens Bene, Matteo Buergler and Benjamin Michel     #
+#   Contribution Dates: 2024/03/13 - 2024/03/14                                #
+#                                                                              #
+# **************************************************************************** #
+
+Internet connection successfully established ...
+All Files successfully retrieved ...
+
+***
+["6626.pdf:\nSummary:\nThe detailed framework provided for monitoring and supporting Algeria's HCFC phase-out under the HPMP emphasizes the critical roles of various entities, including the National Ozone Unit (NOU), the Lead Implementing Agency (IA), and independent technical experts. The NOU is tasked with monitoring the HPMP's activities and reporting progress annually, while the Lead IA is responsible for a broad range of activities including ensuring performance and financial verification, assisting with the preparation and reporting of implementation plans, and verifying targets. It will also manage technical reviews, supervision missions, transparent data reporting, and provide necessary policy, management, and technical support. There is also a procedure in place for reducing funding if the country fails to meet its consumption reduction targets, with penalties specified per ODP kg of excess consumption. This comprehensive approach underscores the structured and collaborative efforts towards achieving HCFC phase-out goals in Algeria, ensuring both accountability and support in meeting their environmental commitments.", '66th_ExCom_-_Decision_66.pdf:\nThe document outlines decisions regarding the phase-out management plans (HPMPs) for hydrochlorofluorocarbons (HCFCs) in Nicaragua, Niger, Algeria, and Argentina under the Montreal Protocol, focusing on reducing HCFC consumption to protect the ozone layer.\n\nFor Nicaragua, it urges government ratification of the Beijing Amendment to the Montreal Protocol as soon as possible. \n\nFor Niger, the Executive Committee approves, in principle, stage I of its HPMP (2012 to 2020) with a budget of US $617,125 to reduce HCFC consumption by 35%. The agreement includes establishing a baseline for HCFC consumption reduction and approves the first tranche and implementation plan totaling US $301,125.\n\nFor Algeria, stage I of its HPMP (2010 to 2017) aims to reduce HCFC consumption by 20% with a total funding of US $1,993,331, including plans for phasing out HCFC-141b. The decisions also address adjustments based on baseline revisions and outline commitments by the Government of Algeria, including a potential ban on HCFC-141b imports by 2016.\n\nFor Argentina, stage I of its HPMP (2010 to 2017) seeks a 17.5% reduction in HCFC consumption with a proposed budget of US $2,192,583. Despite discussions on adjusting the starting point based on newer consumption data, approval was given in principle, noting a previous project to phase out HCFC-22 in air conditioning was included within this stage.\n\nEach section highlights approval processes, funding allocations, and nation-specific commitments toward HCFC consumption reduction, demonstrating international efforts to manage and mitigate ozone-depleting substances.', '66 meeting - HPMP Stage I - agreement.pdf:\nThe document outlines an agreement between the Government of Algeria and the Executive Committee of the Multilateral Fund regarding the reduction in consumption of Hydrochlorofluorocarbons (HCFCs) in line with the Montreal Protocol schedules. The agreement specifies a target to reduce the usage of HCFCs to 24.16 ODP tonnes by January 1, 2017, with potential adjustments based on updated data. Algeria commits to following specified annual consumption limits and implementing HCFC phase-out plans. Funding and support from the Executive Committee are contingent on Algeria adhering to agreed targets and conditions, including the implementation of a national system for HCFC management and providing annual reports on progress. The agreement allows for some flexibility in reallocating funds to meet objectives and emphasizes monitoring and independent verification of progress. Failure to meet targets can result in funding adjustments. The completion of the agreement is marked by the meeting of the final consumption level and the execution of all planned activities.']
+***
+#api ------------------------------------
+Project ID: 120383
+Title: Algeria HPMP stage I (first tranche)
+Country: DZ
+Description: HCFC phase-out management plan (stage I) for the activities in the refrigeration servicing sector including phase-out of HCFC-141b used for flushing and project monitoring.
+
+The objective of stage I of the HPMP for Algeria is to meet the Montreal Protocol’s HCFC control targets, up to and including the reduction in 2015, resulting in the phase-out of 14.48 ODP tonnes  of HCFCs. In line with the overarching strategy, the Government of Algeria proposes to issue import quotas on a yearly basis in accordance with the phase-out schedule of the Montreal Protocol; ban imports of HCFC-141b in bulk, and freeze the import of HCFC-141b-based pre-blended polyols used in manufacturing of foam; prohibit venting off HCFC-22 during servicing and ban the import of new HCFC-22-based refrigeration and air-conditioning equipment. Stage I of the HPMP includes conversion of one foam manufacturing enterprise and one assembler of air-conditioning equipment, the phase-out of HCFC-141b used for servicing refrigeration equipment, enforcement and public awareness activities.
+Start Date: 2012-12-03T23:00:00.000Z - End Date: 1970-01-01T00:00:00.000Z
+KPI missing: False
+#PData ------------------------------------
+Project ID: HCFC phase-out management plan (stage I)
+#pDoc ------------------------------------
+Document URLs:
+*** URL ***
+https://downloads.unido.org/ot/22/87/2287664/6626.pdf
+False
+*** URL ***
+https://downloads.unido.org/ot/22/88/2288841/66th_ExCom_-_Decision_66.pdf
+False
+*** URL ***
+https://downloads.unido.org/ot/20/36/20369830/66 meeting - HPMP Stage I - agreement.pdf
+False
+------------------------------------
+SUMMARY:  The documents cover the approaches and decisions regarding the phase-out management plans (HPMPs) for hydrochlorofluorocarbons (HCFCs) in Algeria, Nicaragua, Niger, and Argentina, under the global effort to protect the ozone layer as part of the Montreal Protocol. For Algeria, a detailed framework involves the National Ozone Unit (NOU), the Lead Implementing Agency (IA), and technical experts to monitor and support the HCFC phase-out, emphasizing annual progress reporting, technical and policy support, and financial verification. Failure to meet consumption reduction targets may lead to reduced funding. Specifically, Algeria aims to reduce HCFC consumption by 20% by 2017 with an agreement on funding and targets with the Executive Committee of the Multilateral Fund, including potential adjustments and penalties for not meeting goals.
+
+Nicaragua is urged to ratify the Beijing Amendment, enhancing global commitments under the Montreal Protocol. Niger's HPMP focuses on a 35% reduction by 2020 with approved funding and baseline consumption establishment. Argentina seeks a 17.5% reduction by 2017 with discussions on adjusting baseline consumption data and a confirmed budget.
+
+Each country's plan demonstrates a tailored approach to reducing HCFC consumption with international financial and technical support, illustrating the collective effort to mitigate ozone-depleting substances globally.
+
+dP                         dP                         
+88                         88                         
+88d888b. dP    dP .d8888b. 88d888b. dP    dP .d8888b. 
+88"  "88 88    88 88ooood8 88"  "88 88    88 88ooood8 
+88.  .88 88.  .88 88.  ... 88.  .88 88.  .88 88.  ... 
+88Y8888" "8888P88 "88888P" 88Y8888" "8888P88 "88888P" 
+              .88                        .88          
+          d8888P                     d8888P
+
+*   By: UNexpectedOutput
+*      Franziska Adler, Clemens Bene, Matteo Buergler and Benjamin Michel
+*   Contribution Dates: 2024/03/13 - 2024/03/14
+

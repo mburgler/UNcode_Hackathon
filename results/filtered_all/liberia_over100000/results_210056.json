@@ -1,0 +1,93 @@
+{
+    "project-id": 210056,
+    "project_description": "**Priorities:**\n- **Ending Hunger**\n- **Climate Action**\n- **Sustainable Supply Chains**\n\n**Focus Areas of Expertise:**\n- **Digital Transformation and 4IR**\n- **Innovation and Technology Absorption**\n- **Circularity, Waste, and Pollutants Reduction**\n- **Climate Change Mitigation and Adaptation Industry**\n\n**Sustainable Development Goals (SDGs):**\n1. **SDG 13: Climate Action**\n2. **SDG 8: Decent Work and Economic Growth**\n3. **SDG 9: Industry, Innovation, and Infrastructure**\n4. **SDG 5: Gender Equality**\n5. **SDG 1: No Poverty**\n6. **SDG 12: Responsible Consumption and Production**\n7. **SDG 7: Affordable and Clean Energy**\n8. **SDG 15: Life on Land**\n\nThe text delves into Operational Safeguards (OS) provided by UNIDO to ensure ethical practices during project implementation. These safeguards encompass various elements such as respecting indigenous rights, labor conditions, pollution prevention, and accountability. Projects are classified based on their potential environmental and social impacts, ensuring responsible execution aligned with sustainability goals.\n\n**Priority:** Sustainable Supply Chains\n**Focus Area of Expertise:** Circularity, Waste, and Pollutants Reduction\n\n**Relevant SDGs:**\n1. **SDG 8: Decent Work and Economic Growth** - Upheld through labor rights protection.\n2. **SDG 9: Industry, Innovation, and Infrastructure** - Addressed within infrastructure impact assessment.\n3. **SDG 13: Climate Action** - Focused on pollution prevention and resource efficiency.\n4. **SDG 15: Life on Land** - Emphasized through heritage preservation and land impact mitigation.\n\nBy integrating ethical and environmental considerations, UNIDO aligns its projects with sustainable development goals, fostering inclusive growth while ensuring responsible resource management and environmental protection.",
+    "project_start": "6/1/2021",
+    "project_end": "11/30/2027",
+    "project_title": "Promoting MSME development and employment opportunities in Liberia through a market system and cluster development approach in agro-industry value chains (GROW 2)",
+    "sector": "Agro-industries",
+    "project_category": "CreatingShared Prosperity",
+    "project_subcategory": " Agri. Busin. & Rural Dev.",
+    "total_budget": "7327082.66",
+    "total_expenditure": "1915252.39",
+    "recipient_country_details": [
+        {
+            "recipient-country-code": "LR",
+            "recipient-country": "Liberia",
+            "ldc-indicator": "X",
+            "region": "AFRICA"
+        }
+    ],
+    "donor_details": [
+        {
+            "donor": "Sweden",
+            "donor-type": "Member States",
+            "donor-country-code": "SE",
+            "donor-country": "Sweden"
+        }
+    ],
+    "classification_results": {
+        "ZeroShot": {
+            "UsedModel": "https://api-inference.huggingface.co/models/facebook/bart-large-mnli",
+            "SDGs": [
+                [
+                    "SDG 5: Gender equality: SDG 5 'Gender equality' aims to achieve gender equality and empower all women and girls. It aims to support women in acquiring skills and gaining access to productive and financial resources that allow them to compete effectively in the economic life of their communities. It aims to solve unequal access to education, healthcare, economic opportunities, and resources.",
+                    0.2590635418891907
+                ],
+                [
+                    "SDG 13: Climate action: Take urgent action to combat climate change and its impacts. Reducing industrial CO2 and other greenhouse gas emissions, cleaner industrial production processes, and implementing policies to limit global warming including the reduction of ozone depleting substances (ODS).",
+                    0.167316272854805
+                ],
+                [
+                    "SDG 7: Affordable and clean energy: SDG7 \u201cAffordable and clean energy\u201d aims to ensure access to affordable, reliable, sustainable and modern energy for all. It includes promoting energy efficiency policies, technologies and practices, as well as access to affordable renewable sources of energy for the facilitation of productive activities.",
+                    0.14671218395233154
+                ],
+                [
+                    "SDG 12: Responsible consumption and production: Ensure sustainable consumption and production patterns. Promote green industries, resource efficient management, cleaner production, and introduce environmental sustainability policies.",
+                    0.14622782170772552
+                ],
+                [
+                    "SDG 8: Decent work and economic growth: SDG8 \u201cDecent work and economic growth\u201d aims to promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all. It seeks to facilitate structural transformation and economic growth by increasing the capacities of local industries for value addition, economic diversification, and export promotion, as well as supports the creation of decent jobs in industry and industry-related services",
+                    0.14381158351898193
+                ],
+                [
+                    "SDG 15: Life on land: Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss. Sustainable management of the soils and the generation of highly productive renewable resources and support the adaptation and adoption of cleaner production methods, technologies and systems.",
+                    0.13686861097812653
+                ]
+            ],
+            "Focus_Areas": [
+                [
+                    "Focus area 2: Innovation and Technology Absorption: Promoting technology adoption and innovative solutions across diverse areas such as smart energy and industrial resilience. This encompasses technology promotion, innovative financing, and developing quality infrastructure to tackle multifaceted development challenges and enhance global industrial competitiveness",
+                    0.4249524772167206
+                ],
+                [
+                    "Focus area 3: Circularity, Waste and Pollutants Reduction: Promote the transition to circular economy models to minimize waste and pollutants across global and domestic value chains. This includes assisting countries in developing strategies to comply with environmental agreements and fostering innovation ecosystems that catalyze new industries focused on reducing the environmental footprint of industrial activities.",
+                    0.2769675552845001
+                ],
+                [
+                    "Focus area 4: Climate Change Mitigation and Adaptation Industry: Accelerating the development of renewable energy and energy efficiency initiatives to decarbonize industrial activities and power low-carbon, resilient industrialization. It equips stakeholders with the knowledge to leverage digital technologies for sustainable industry and to develop climate-positive, resilient industrial systems across various sectors.",
+                    0.17114326357841492
+                ]
+            ],
+            "Priorities": [
+                [
+                    "Priority 3: Sustainable supply chains: Sustainable supply chains are systems of production and distribution that prioritize environmental, social, and economic responsibility throughout the entire process. This approach considers the impacts of sourcing, manufacturing, transportation, and consumption on people and the planet. It involves minimizing carbon emissions, reducing waste, conserving resources, and ensuring fair labor practices along. Sustainable supply chains prioritize ethical sourcing of materials, support local economies, and promote transparency and accountability among suppliers. Companies must identify, end, prevent and mitigate negative human rights and environmental impacts in the company\u2019s operations, those of their subsidiaries and their supply chains.",
+                    0.5290003418922424
+                ],
+                [
+                    "Priority 2: Climate Action: Climate action refers to efforts aimed at mitigating and adapting to the impacts of climate change. It involves taking proactive measures to reduce greenhouse gas emissions, strengthening resilience, transitioning towards renewable energy sources, and implementing policies to limit global warming including the reduction of ozone depleting substances (ODS) such as Hydrochlorofluorocarbons (HCFC) and Chlorofluorocarbons (CFC). Ultimately, climate action aims to minimize environmental degradation, and promoting conservation. Companies have the potential to become leading providers of technological solutions, business models and green jobs to influence consumer behavior and lifestyles to mitigate climate change and resource depletion.",
+                    0.28941941261291504
+                ],
+                [
+                    "Priority 1: Ending Hunger: Ending hunger means that all people should have physical, social, and economic access to sufficient, safe and nutritious food. Reducing post-harvest loss and reducing food waste means that more food and agricultural products will be available for consumption. Increased food safety, quality control, and better farming techniques are also importantt. This can be supported through agri-business development and upgrading agro-food value chains.",
+                    0.18158023059368134
+                ]
+            ]
+        },
+        "GenerativeAI": {
+            "UsedModel": "gpt-3.5-turbo",
+            "SDGs": "**Category Assignments:**\n1. **SDG 13: Climate Action**\n2. **SDG 8: Decent Work and Economic Growth**\n3. **SDG 9: Industry, Innovation, and Infrastructure**\n4. **SDG 15: Life on Land**\n5. **Priority: Sustainable Supply Chains**\n6. **Focus Area of Expertise: Circularity, Waste, and Pollutants Reduction**\n\n**Justification:**\n- The text mentions a strong emphasis on climate action, pollution prevention, and resource efficiency, aligning with **SDG 13: Climate Action**.\n- References to decent work, economic growth, labor rights protection, and infrastructure impact assessment support the classification under **SDG 8: Decent Work and Economic Growth** and **SDG 9: Industry, Innovation, and Infrastructure**.\n- Emphasis on heritage preservation, land impact mitigation, and responsible resource management justifies the association with **SDG 15: Life on Land**.\n- The text highlights prioritizing sustainable supply chains and expertise in circularity, waste, and pollutants reduction, fitting into the categories of **Priority: Sustainable Supply Chains** and **Focus Area of Expertise: Circularity, Waste, and Pollutants Reduction**.\n\nThis categorization showcases how the text's content directly corresponds to the Sustainable Development Goals mentioned and emphasizes the importance of ethical and environmental considerations in project implementation for sustainable development.",
+            "Focus_Areas": "**Category Assignments:**\n1. **Text belongs to Focus Area 3: Circularity, Waste, and Pollutants Reduction**  \n2. **Text relates to Sustainable Development Goals (SDGs) 12: Responsible Consumption and Production, and 15: Life on Land**  \n\n**Justification:**\n\n1. The text mentions a **Priority: Sustainable Supply Chains** which aligns with the **Focus Area of Expertise: Circularity, Waste, and Pollutants Reduction** as it emphasizes reducing waste and pollutants across supply chains.\n   \n2. The text explicitly references **SDG 12: Responsible Consumption and Production** which focuses on sustainable management and efficiency in use of natural resources, directly related to reducing waste and pollutants. Additionally, the emphasis on **SDG 15: Life on Land** highlights the importance of preserving land resources and mitigating impacts, which ties into the goal of reducing pollutants and promoting sustainable practices within industrial activities.\n\nThis categorization is supported through the mention of operational safeguards to ensure environmental and social responsibility, and the emphasis on aligning projects with sustainable development goals, corroborating the text's focus on Circularity, Waste, and Pollutants Reduction.",
+            "Priorities": "**Category Assignments:**\n\n1. **Priority 1: Ending Hunger**\n2. **Priority 2: Climate Action**\n3. **Priority 3: Sustainable Supply Chains**\n\n**Justification:**\n\n1. The text directly mentions \"Ending Hunger\" as one of the priorities, emphasizing access to sufficient, safe, and nutritious food, reducing food waste, enhancing food safety, quality control, and promoting better farming techniques. These align with the criteria for Priority 1: Ending Hunger outlined in the criteria section.\n\n2. The text discusses \"Climate Action,\" including efforts to mitigate climate change impacts, reduce greenhouse gas emissions, transition to renewable energy sources, and promote conservation. These actions correspond to the criteria for Priority 2: Climate Action as described in the criteria section.\n\n3. The text focuses on \"Sustainable Supply Chains,\" highlighting the importance of responsible environmental, social, and economic considerations throughout the production and distribution processes. It emphasizes minimizing carbon emissions, reducing waste, supporting ethical sourcing, and promoting transparency and accountability among suppliers, in line with the criteria for Priority 3: Sustainable Supply Chains provided in the criteria section.\n\nThis categorization is based on a direct alignment of the text with the specified criteria for each priority area."
+        }
+    }
+}

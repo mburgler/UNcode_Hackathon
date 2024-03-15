@@ -1,0 +1,641 @@
+
+# **************************************************************************** #
+#                                                                              #
+#    888     888 8888b   888                       888                         #
+#    888     888 88888b  888                       888                         #
+#    888     888 888Y88b 888  .d8888b .d88b.   .d88888  .d88b.                 #
+#    888     888 888 Y88b888 d88P"   d88""88b d88" 888 d8P  Y8b                #
+#    Y88b. .d88P 888   Y8888 Y88b.   Y88..88P Y88b 888 Y8PPPP                  #
+#     "Y88888P"  888    Y888  "Y8888P "Y88P"   "Y88888  "Ybbbb.                #
+#                                                                              #
+#   By: UNexpectedOutput                                                       #
+#       Franziska Adler, Clemens Bene, Matteo Buergler and Benjamin Michel     #
+#   Contribution Dates: 2024/03/13 - 2024/03/14                                #
+#                                                                              #
+# **************************************************************************** #
+
+Internet connection successfully established ...
+All Files successfully retrieved ...
+
+***
+SYSTEMPROMPT You are a summarization tool and your main objective is to condense the content of the document into a concise summary, capturing the main points and themes.
+USER_PROMPT Please read the provided Original section to understand the context and content. Use this understanding to generate a summary of the Original section. Original:  Produced on 25.09.2017  at 
+,
+10:24:13  by 
+,
+Xingfei ZHONG
+  1 /   10 
+                                                             RBM Service Summary Sheet
+170162
+Project/Programme number:   
+14.08.2017
+Creation Date:
+Xingfei ZHONG
+Item Creator:
+Zhengyou PENG
+Item Responsible:
+BASIC INFORMATION
+Applying eco-effectiveness concept to industrial design in 2 pilot 
+areas in China
+Title of the programme/project:
+Asia and Pacific, China
+Country/Region/Global:
+The Centre for International Economic and Technological 
+Cooperation of the Ministry of Industry and Information 
+Technology requested UNIDO to provide advisory and technical 
+support in developing a capacity-building project to promote the 
+concept of “Eco-effectiveness” in industrial design in China, 
+primarily focusing on two pilot areas. 
+Description:
+GC3 Safeguarding the Environ.
+Thematic area and RBM codes:
+03 years 05 months 27 days
+Expected duration:
+Proposed main target groups:
+National policy-makers; 
+Local governments; 
+Interested industrial value chains and associated companies
+Expected counterpart:
+Ministry of Industry and Information Technology of China 
+China Industrial Design Association 
+Local governments in Liangzhu and Xiong’an 
+Pioneering regions in Europe, in particular Venlo municipality (the Netherlands) 
+Ministry of Environmental Protection of China 
+Ministry of Housing, Rural and Urban Development of China
+Total Budget (excl. support costs):
+EUR
+ 609,027
+Total PA amount requested:
+EUR
+ 20,000
+Expected duration of PA: 181
+Request of funds for preparatory assistance (PA):
+days
+BACKGROUND DESIGN ANALYSIS
+Baseline scenario:
+China was an early mover in advocating a circular economy policy. China's Circular Economy Promotion Law 
+came into force in January 2009 (the word "circular" in the title is essentially synonymous with 'sustainable'). The 
+Law is formulated for the purpose of facilitating circular economy, raising resources utilization rate, protecting and 
+improving environment and realizing sustained development. 
+ 
+The Circular Economy is the general term for the activities of decrement, recycling and resource recovery in 
+production, circulation and consumption: 
+ 
+- Decrement in this context means the reduction of the resource consumption and waste generation in 
+production, circulation and consumption; 
+- Recycling means the direct use of wastes as products, or the use of wastes as products after repair, renovation 
+or reproduction of them, or the use of wastes, wholly or partly, as parts of other products; 
+- Resource recovery means the direct use of wastes as raw material, or waste regeneration. 
+ 
+Although the circular economy concept has been incorporated as policy in the national law, and a wide range of 
+local laws in the form of regulations, decisions, orders and quality standards have been issued to support the 
+national law, the approaches taken by the national and local governments and the private sector toward the 
+circular economy lack an overarching anchor and systematic guidelines. Currently, programmes under the 
+Produced on 25.09.2017  at 
+,
+10:24:13  by 
+,
+Xingfei ZHONG
+  2 /   10 
+patronage of the circular economy aim to improve, but not change, the current industrial economic model and the 
+associated mindset by typically targeting resource savings and waste reduction. These programmes are 
+inherently self-limiting and therefore cannot achieve a thorough circular economy, because even if all refining 
+and improvements are made, there will still be environmental inefficiencies which cannot be addressed. 
+ 
+There is clearly a need for paradigm shifts, a need to upgrade the understandings of a circular economy in China 
+and its associated approaches. One of the internationally accepted paradigm that can contribute to the 
+achievement of a thorough circular economy is the Eco-effectiveness concept. 
+ 
+ 
+ 
+In 2014, the EU Commission initiated an enabling framework for a circular economy that “designs out” waste in a 
+process that involves innovative reimagining of the whole value chain rather than relying solely on solutions at 
+the end of life of a product. Such a framework places the principles of eco-effectiveness at the centre of powering 
+Europe’s circular economy. 
+ 
+Eco-effectiveness suggests that industry must protect and enrich ecosystems and nature's biological metabolism 
+while also maintaining a safe, productive technical metabolism for the high-quality use and circulation of organic 
+and technical nutrients. It is a holistic economic, industrial and social framework that seeks to create systems that 
+are not only efficient but also essentially waste free. The model is primarily applied in industrial design and 
+manufacturing, but in its broadest sense can also be applied to many aspects of human civilization such as urban 
+environment, buildings, economics and social systems. 
+ 
+ 
+The transformative process of reimaging and rethinking total value chains is labeled variously as Eco-effective 
+Management or ‘Cradle to Cradle’, a commercial copyrighted brand registered by William Mac Donough[1]. 
+ 
+At the forefront of this transformative process is the application of eco-effectiveness principles to industry design, 
+which requires the design of products and systems to be a biomimetic approach that models industry on nature's 
+processes and views materials as nutrients circulating in healthy, safe metabolisms. This renders a shift of 
+emphasis to upstream industrial design, which means designing products and systems with special 
+considerations for the environmental impacts during the whole life cycle.  
+ 
+Eco-effectiveness industrial design advocates sustainability in the use, reuse and continuous flows of materials 
+within and throughout the industrial life cycle without downgrading the materials. It demands a no-waste 
+philosophy in the very beginning of design of an industrial product, production system and service which looks to 
+the continuous reuse of materials and the nurturing of the supporting eco-system. 
+ 
+ 
+ 
+It is noteworthy to mention that the notion of “industrial design” here is used in its broad sense. Contrary to the 
+traditional understanding of the notion, which emphasizes the process of design applied to industrial products 
+only, industrial design in a broad sense is “a strategic problem-solving process that drives innovation, builds 
+business success and leads to a better quality of life through innovative products, systems, services and 
+experiences”, and “at its heart, industrial design links innovation, technology, research, business and customers 
+to provide new value and competitive advantage across economic, social and environmental spheres.”[2] 
+ 
+ 
+As such, applying eco-effectiveness principles to industrial design which takes a holistic approach and employs 
+innovative and future-proof technologies and concepts is vital to achieving economic, environmental and social 
+sustainability, and therefore inclusive and sustainable industrial development (ISID) in a country. 
+ 
+ 
+This transformative paradigm has been embraced in many parts of the European Union with illustrative examples 
+where municipalities have taken the lead to create the enabling environment for the reimaging of urban design, 
+living environment, public services and utilities, construction, industrial design of products and processes, 
+materials sourcing, manufacturing, logistics, distribution and consumption. The City of Venlo (The Netherland), 
+the cities of Bielefeld (Germany) and Emscher-Lippe (Germany) and the country of Luxembourg are among 
+many pioneering examples. A prime example of eco-effectiveness design in an urban setting is the Venlo City 
+Hall, a building that was designed and built using recovered material. The building is considered to be a “material 
+bank”, which enables the conservation of materials within the construct so that they create continuous life cycles 
+after the demolition of this building, and it uses passive heating, lighting and air purification, all of which 
+contribute to a comfortable and healthy working environment combined with innovative sustainability and added 
+value. 
+ 
+China has recently established two designated urban areas where new and innovative paths to sustainable 
+urban environments coupled with clusters of high-tech green industries and innovative businesses will be 
+Produced on 25.09.2017  at 
+,
+10:24:13  by 
+,
+Xingfei ZHONG
+  3 /   10 
+explored and developed. These two designated areas are Xiong’an New Area in Hebei Province and Liangzhu 
+New Town in Zhejiang Province. 
+ 
+Xiong’an New Area is situated 100 km southwest of Beijing. On April 1, 2017, China announced its decision to 
+establish Xiong'an New Area. This is a new area of national significance after the Shenzhen Special Economic 
+Zone and the Shanghai Pudong New Area. According to the announced national strategy, it will focus on building 
+clusters of high-tech and innovative businesses and take over some "non-capital functions" from Beijing. The 
+New Area will explore the path for sustainable urban development and strengthen the economic competitiveness 
+for China. The top priority for Xiongan's smooth start lies in sound environmental protection and early scientific 
+planning and regulation.[3] During his February visit, President Xi Jinping called for "world vision, international 
+standards, Chinese characteristics and high goals" in planning and construction of the New Area. The 
+establishment of Xiong'an New Area is a key move to boost the coordinated development of the Beijing, Tianjin 
+and Hebei region. This move is a national event and a crucial strategy for the coming millennium. The project will 
+therefore seize the opportunity and the special moment in which the planning of Xiong’an, including of 
+environment protection, social and economic development and industry layout is still under way, and contribute 
+to the building of an innovative mind-set of governmental stakeholders who are responsible for the development 
+of this New Area. 
+ 
+ 
+Liangzhu New Town is situated north-east of Hangzhou in Zhejiang province. The area has been a pioneer of 
+new town construction in China in the 2000s. The experimental venture provides a well-balanced system of 
+social, environmental, and lifestyle accommodations. That spirit of experimental venturing and openness to new 
+thinking persists in Liangzhu New Town. In 2016, the Chinese Ministry of Industry and Information Technology 
+(MIIT) and the Zhejiang provincial government signed a strategic cooperation agreement on the promotion of 
+industrial design in the province. With that, China's first industrial design innovation base was settled in Liangzhu 
+to promote an innovation-driven industrial design development strategy in China. The overarching cooperation 
+agreement aims to help push forward the "Made in China 2025 Action Plan", and accelerate the development of 
+technological innovation, product innovation, format innovation and business model innovation, focusing on 
+intelligent manufacturing, collaborative manufacturing, green manufacturing. In December 2016, the first World 
+Industrial Design Conference was held in Liangzhu, which brought together organizations and enterprises in the 
+field of industry design from 26 countries. Considering the strategic nature of the Liangzhu New Town as an 
+global industrial design platform, the project aiming to promote the eco-effectiveness concept in industrial design 
+will not only help change the mind-set of national stakeholders involved in industrial design, but also have a spill-
+over effect to international stakeholders. 
+ 
+ 
+From UNIDO’s perspective the opportunity presented by the national initiatives in Xiong’an and Liangzhu to 
+promote eco-effectiveness strategic thinking in terms of industrial design is consistent with the organization’s 
+mandate of facilitating inclusive and sustainable industrial development [ISID]. 
+ 
+Therefore UNIDO, in cooperation with the Ministry of Industry and Information Technology (MIIT) of China, and in 
+partnership with eco-effectiveness pioneering cities and regions in Europe (in particular Venlo in the 
+Netherlands), will promote eco-effectiveness principles in industrial design in China through demonstration in two 
+pilot areas, namely Xiong’an New Area in Hebei province and Liangzhu New Town in Zhejiang province. 
+ 
+In particular, the project will focus on 1) incorporating eco-effectiveness principles in municipality policies and 
+incentives to create an enabling environment to foster sustainable urban design, construction and management; 
+2) creating a supportive environment for eco-effectiveness industries and services; and 3) developing and 
+demonstrating live case studies where eco-effectiveness principles are applied to municipal design and services 
+delivery as well to industry and service value chains in the two pilot areas. 
+ 
+[1] McDonough has written and lectured extensively on design as the first signal of human intention. He was 
+commissioned in 1991 to write The Hannover Principles: Design for Sustainability as guidelines for the City of 
+Hannover’s EXPO 2000. In 2002 he co-authored Cradle to Cradle: Remaking the Way We Make Things, widely 
+acknowledged as a seminal text of the sustainability movement, which was followed by The Upcycle: Beyond 
+Sustainability— Designing for Abundance (2013).   
+[2] http://wdo.org/about/definition/  
+[3] http://news.xinhuanet.com/english/2017-05/01/c_136249093.htm  
+Institutional arrangements and coordination mechanism
+This project will be implemented and coordinated by a project team at UNIDO’s Department of Environment. In 
+China, it will work together with the Center for International Economic and Technological Cooperation of the 
+Ministry of Industry and Information Technology (CIETC-MIIT)  in China as the executing agency. The team at 
+the UNIDO Headquarters will coordinate with CIETC-MIIT and the European eco-effectiveness pioneering 
+regions, and CIETC-MIIT will coordinate the work with relevant national ministries and local governments in 
+Produced on 25.09.2017  at 
+,
+10:24:13  by 
+,
+Xingfei ZHONG
+  4 /   10 
+Liangzhu and Xiong’an, and actively engage them in the implementation of relevant activities in a timely and 
+efficient manner. 
+Synergies with other projects:  An eco-effectiveness centre is expected to be established under UNIDO’s 
+ ongoing “POPs and chemical pollution solutions through area-based eco-effectiveness management” project. 
+Once established, the centre can serve as a resource aggregation and knowledge sharing platform for the eco-
+effectiveness concept. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Funding strategy:
+The project is expected to be funded by UNIDO’s Industrial Development Funds, converted from funds from the 
+Department of International Trade and Economic Affairs of the Ministry of Commerce of China (MOFCOM). 
+Co-financing is to be mobilized in further consultation with project’s counterparts 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PA phase (USA 30,000) is expected to be funded by UNIDO. 
+Produced on 25.09.2017  at 
+,
+10:24:13  by 
+,
+Xingfei ZHONG
+  5 /   10 
+Total
+2018
+2019
+2020
+2021
+ Budget line
+EUR
+EUR
+EUR
+EUR
+EUR
+1100  Internat. Cons/Staff
+ 249,600
+ 74,880
+ 74,880
+ 74,880
+ 24,960
+1500  Local Travel
+ 83,200
+ 24,960
+ 24,960
+ 16,640
+ 16,640
+1700  Nat. Consult./Staff
+ 74,880
+ 24,960
+ 24,960
+ 24,960
+ 0
+2100  Contractual Services
+ 91,520
+ 33,280
+ 33,280
+ 24,960
+ 0
+3000  Train/Fellowsh/Study
+ 83,200
+ 33,280
+ 24,960
+ 24,960
+ 0
+5100  Other Direct Costs
+ 6,627
+ 2,496
+ 2,496
+ 1,635
+ 0
+SC-Support Costs
+ 0
+ 0
+ 0
+ 0
+ 0
+Total
+ 589,027
+ 193,856
+ 185,536
+ 168,035
+ 41,600
+Produced on 25.09.2017  at 
+,
+10:24:13  by 
+,
+Xingfei ZHONG
+  6 /   10 
+RESULT ORIENTED PROJECT DESIGN : LOGIC OF INTERVENTION
+Project (Development/Overall) Objective:
+The overall objective of the project is to promote the eco-effectiveness concept in the field of industrial design in China, thereby contributing to the achievement of 
+ISID and a circular economy in China. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Produced on 25.09.2017  at 
+,
+10:24:13  by 
+,
+Xingfei ZHONG
+  7 /   10 
+ Project Logical Framework
+            Results        
+Base Line  
+Target  
+Outcome
+Output
+Activity
+Estimated  
+Completion 
+Date
+KPI' s / Indicators 
+ 
+Total
+Female
+Total
+Female
+Outcome 1 
+Eco-effectiveness concept promoted and incorporated in municipal policies and its applications to 
+industrial design demonstrated in selected industrial value chains in two pilot areas in China
+28.02.2021
+Output 1.1 
+Awareness raising of national government and local governments on eco-
+effectiveness concept
+28.02.2021
+Activity 1.1.1 
+Training materials developed to facilitate dissemination 
+of eco-effectiveness concept in industrial design to 
+national and local government stakeholders;
+28.02.2021
+Activity 1.1.2 
+Enhance understanding of eco-effectiveness concept 
+technologies and practices  developed through 
+knowledge exchange via study tours to Venlo city, the 
+Netherlands and other cities pioneering eco-
+effectiveness concept applications on a municipal level;
+28.02.2021
+Activity 1.1.3 
+Organize workshops on applying eco-effectiveness 
+concept to industrial design for policy-makers and city-
+planners.
+28.02.2021
+Ouput 1.2 
+Formulation of plans and policies to incorporate eco-effectiveness concept in 
+industrial design in two pilot areas
+28.02.2021
+Activity 1.2.1 
+Formulate strategy paper to incorporate eco-
+effectiveness concept into urban policy planning;
+28.02.2021
+Activity 1.2.2 
+Support the incorporation of eco-effectiveness 
+approach into the forth coming Local Government Five-
+Year Plans (14th Five-Year Plan);
+28.02.2021
+Output 1.3 
+Demonstration of eco-effectiveness design integration in pilot value chains in 
+two pilot areas and dissemination of project results
+28.02.2021
+Activity 1.3.1 
+Identify specific eco-effectiveness design solutions and 
+select demonstration value chains in two pilot regions 
+in consultation with international experts and local 
+governments;
+28.02.2021
+Produced on 25.09.2017  at 
+,
+10:24:13  by 
+,
+Xingfei ZHONG
+  8 /   10 
+Outcome
+Output
+Activity
+Estimated  
+Completion 
+Date
+KPI' s / Indicators 
+ 
+Total
+Female
+Total
+Female
+Activity 1.3.2 
+Develop appropriate eco-effectiveness design 
+sketches and organize technical workshops preparing 
+the redesign of  product line according to eco-
+effectiveness principles and requirements;
+28.02.2021
+Activity 1.3.3 
+Provide guidelines based on lessons learned from the 
+demonstration experience to streamline eco-
+effectiveness design solutions;
+28.02.2021
+Activity 1.3.4 
+Disseminate project experience via media channels.
+28.02.2021
+Output 1.4 
+Strengthened partnership between Chinese and European pioneering 
+municipalities and companies
+28.02.2021
+Activity 1.4.1 
+Facilitate international cooperation by establishing 
+sister- cities and other forms of partnership; 
+28.02.2021
+Activity1. 4.2 
+Foster eco-effectiveness knowledge integration at 
+Chinese pilot cities with consulting service support 
+provided by Venlo and other eco-effectiveness 
+pioneering cities in industrial design;
+28.02.2021
+Activity 1.4.3 
+Develop investment promotion platform for business 
+matching and create knowledge of investment criteria;
+28.02.2021
+Output 1.5 
+Monitoring and evaluation
+28.02.2021
+         REQUEST FOR FUNDING OF PREPARATORY ASSISTANCE RELATED TO 
+                      PROJECT DEVELOPMENT AND FORMULATION 
+ 
+Produced on 25.09.2017  at 
+,
+10:24:13  by 
+,
+Xingfei ZHONG
+  9 /   10 
+170162
+  Project ID:
+Industrial design in China
+  Project Title:
+  Description:
+Zhengyou PENG
+  Responsible PM:
+ TOR for mission / Expected outputs / Description of activities:
+            Results
+Base Line
+Target
+Outcome
+Output
+Activity
+Estimated  
+Completion 
+Date
+KPI' s / Indicators 
+ 
+Total
+Female
+Total
+Female
+PA Outcome 1 
+Establishment of concrete partnerships with national and municipal stakeholders.
+28.02.2018
+PA Output 1.1 
+Partnerships with national and municipal stakeholders forged and 
+commitment secured.
+28.02.2018
+PA Activity 1.1.1 
+Organize field trips to China for further 
+discussion and consultation, and to forge official 
+partnership with relevant national and municipal 
+stakeholders;
+28.02.2018
+PA Activity 1.1.2 
+Conduct workshops to promote eco-
+effectiveness concept to national and local 
+government officials
+28.02.2018
+PA Output 2 
+Full project document formulated with focused fields and actions 
+tailored to the special context of the 2 pilot areas
+28.02.2018
+Produced on 25.09.2017  at 
+,
+10:24:13  by 
+,
+Xingfei ZHONG
+  10 /   10 
+Budget line
+EUR
+1100  Internat. Cons/Staff
+ 8,500
+1500  Local Travel
+ 8,000
+1700  Nat. Consult./Staff
+ 3,000
+5100  Other Direct Costs
+ 500
+SC-Support Costs (0.00%)
+ 0
+Total
+ 20,000
+
+LEN TEXT 20792
+LEN CHUNK 20792
+LEN CHUNK 0
+CUMMULATIVE SUMMARY ### Summary
+
+The document outlines a project initiated by UNIDO in collaboration with China's Ministry of Industry and Information Technology, focusing on applying eco-effectiveness principles to industrial design in two pilot areas in China. The project, valued at EUR 609,027 with an additional EUR 20,000 requested for preparatory assistance, aims to promote sustainable urban design and industrial practices across the nation, contributing to China's circular economy efforts.
+
+China, having established a circular economy policy since 2009, faces challenges in creating a cohesive, systematic approach toward sustainability. The project seeks to address these issues by fostering a shift towards eco-effectiveness—where industrial processes mimic natural systems, emphasizing resource preservation and waste elimination.
+
+The EU, particularly through examples like the City of Venlo, provides a model for this transition, showcasing successful integration of eco-effectiveness in urban and industrial design. Similarly, China's Xiong’an New Area and Liangzhu New Town have been identified as prime locations for implementing innovative, sustainable design practices, serving as models for broader national and international application.
+
+Key components of the project involve raising awareness and understanding of eco-effectiveness among policymakers and planners, integrating these principles into local policies and industry practices, and promoting collaboration between Chinese cities and European counterparts experienced in eco-effective design.
+
+The project is organized into specific outputs and activities targeted at achieving these goals by February 2021, with funding expected from UNIDO, the Chinese Ministry of Commerce, and potential co-financing efforts.
+***
+***
+ALL SUMMARIES ["### Summary\n\nThe document outlines a project initiated by UNIDO in collaboration with China's Ministry of Industry and Information Technology, focusing on applying eco-effectiveness principles to industrial design in two pilot areas in China. The project, valued at EUR 609,027 with an additional EUR 20,000 requested for preparatory assistance, aims to promote sustainable urban design and industrial practices across the nation, contributing to China's circular economy efforts.\n\nChina, having established a circular economy policy since 2009, faces challenges in creating a cohesive, systematic approach toward sustainability. The project seeks to address these issues by fostering a shift towards eco-effectiveness—where industrial processes mimic natural systems, emphasizing resource preservation and waste elimination.\n\nThe EU, particularly through examples like the City of Venlo, provides a model for this transition, showcasing successful integration of eco-effectiveness in urban and industrial design. Similarly, China's Xiong’an New Area and Liangzhu New Town have been identified as prime locations for implementing innovative, sustainable design practices, serving as models for broader national and international application.\n\nKey components of the project involve raising awareness and understanding of eco-effectiveness among policymakers and planners, integrating these principles into local policies and industry practices, and promoting collaboration between Chinese cities and European counterparts experienced in eco-effective design.\n\nThe project is organized into specific outputs and activities targeted at achieving these goals by February 2021, with funding expected from UNIDO, the Chinese Ministry of Commerce, and potential co-financing efforts."]
+***
+#api ------------------------------------
+Project ID: 170162
+Title: Contribution to eco-design in China
+Country: CN
+Description: The purpose of the project is to promote the eco-design concepts in the field of industrial design in China, thereby contributing to the achievement of ISID, and the Circular Economy in China.
+Circular economy is based on the principle that industrial systems must create no waste and pollution, and maintain use and circulation of biological and technical nutrients at their highest possible value for as long as possible. Eco-design, a critical life stage of a product in a value chain, promotes sustainability, enables continuous reuse of products, components, and parts as well as materials. The implementation of eco-design principles and practices is vital to the application of circular economy practices.
+The project will achieve its objective by four outputs including:  1) Awareness of eco-design concepts and practices raised among government officials and the private sector; 2) Action plans on eco-design developed in selected industrial value chains in pilot cities; 3) Partnership between governments and enterprises in pilot Chinese cities and pioneering European cities forged or strengthened; 4) Support provided to the set-up of policy incentive schemes and formulation of eco-design standards in selected industrial value chains.
+
+CIETC/MIIT initially identified pilot sites as Nanhai District of Foshan City in Guangdong province Wujin Green Building Industry Cluster Demonstration Zone of Changzhou City in Jiangsu Province, and Huzhou in Zhejiang province. Of these, CIETC/MIIT, proposed to start with two value chains in this phase of the project: textile and textile machinery in Foshan City, and green buildings in Changzhou City.  The project is open to expand its scope to include other pilot cities whose industrial value chains have strategic relevance in phase 2, subject to availability of resources. This project’s duration is 36 months.
+Start Date: 2017-10-10T22:00:00.000Z - End Date: 1970-01-01T00:00:00.000Z
+KPI missing: False
+#PData ------------------------------------
+Project ID: Applying the eco-design principles to industrial design in China
+#pDoc ------------------------------------
+Document URLs:
+*** URL ***
+https://downloads.unido.org/ot/13/30/13308342/PA-SSS_170162_Industrial design_PA.pdf
+False
+*** URL ***
+https://downloads.unido.org/ot/21/47/21479155/170162 Project Document.pdf
+True
+------------------------------------
+SUMMARY:  ### Summary
+
+The document outlines a project initiated by UNIDO in collaboration with China's Ministry of Industry and Information Technology, focusing on applying eco-effectiveness principles to industrial design in two pilot areas in China. The project, valued at EUR 609,027 with an additional EUR 20,000 requested for preparatory assistance, aims to promote sustainable urban design and industrial practices across the nation, contributing to China's circular economy efforts.
+
+China, having established a circular economy policy since 2009, faces challenges in creating a cohesive, systematic approach toward sustainability. The project seeks to address these issues by fostering a shift towards eco-effectiveness—where industrial processes mimic natural systems, emphasizing resource preservation and waste elimination.
+
+The EU, particularly through examples like the City of Venlo, provides a model for this transition, showcasing successful integration of eco-effectiveness in urban and industrial design. Similarly, China's Xiong’an New Area and Liangzhu New Town have been identified as prime locations for implementing innovative, sustainable design practices, serving as models for broader national and international application.
+
+Key components of the project involve raising awareness and understanding of eco-effectiveness among policymakers and planners, integrating these principles into local policies and industry practices, and promoting collaboration between Chinese cities and European counterparts experienced in eco-effective design.
+
+The project is organized into specific outputs and activities targeted at achieving these goals by February 2021, with funding expected from UNIDO, the Chinese Ministry of Commerce, and potential co-financing efforts.
+
+dP                         dP                         
+88                         88                         
+88d888b. dP    dP .d8888b. 88d888b. dP    dP .d8888b. 
+88"  "88 88    88 88ooood8 88"  "88 88    88 88ooood8 
+88.  .88 88.  .88 88.  ... 88.  .88 88.  .88 88.  ... 
+88Y8888" "8888P88 "88888P" 88Y8888" "8888P88 "88888P" 
+              .88                        .88          
+          d8888P                     d8888P
+
+*   By: UNexpectedOutput
+*      Franziska Adler, Clemens Bene, Matteo Buergler and Benjamin Michel
+*   Contribution Dates: 2024/03/13 - 2024/03/14
+

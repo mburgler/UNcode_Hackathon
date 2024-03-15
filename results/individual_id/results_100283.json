@@ -1,0 +1,93 @@
+{
+    "project-id": 100283,
+    "project_description": "N/A",
+    "project_start": "10/14/2014",
+    "project_end": "7/31/2025",
+    "project_title": "Promoting Energy Efficiency in Industrial Heat Systems and High Energy-Consuming (HEC) Equipment",
+    "sector": "nan",
+    "project_category": "Safeguarding the Environ.",
+    "project_subcategory": " RECP & LowCarbonPrd",
+    "total_budget": "5375000.00",
+    "total_expenditure": "5131718.68",
+    "recipient_country_details": [
+        {
+            "recipient-country-code": "CN",
+            "recipient-country": "China",
+            "ldc-indicator": "-",
+            "region": "ASIA AND PACIFIC"
+        }
+    ],
+    "donor_details": [
+        {
+            "donor": "GEF - Global Environment Facility",
+            "donor-type": "Global Environment Facility (GEF)",
+            "donor-country-code": "nan",
+            "donor-country": "nan"
+        }
+    ],
+    "classification_results": {
+        "ZeroShot": {
+            "UsedModel": "https://api-inference.huggingface.co/models/facebook/bart-large-mnli",
+            "SDGs": [
+                [
+                    "SDG 5: Gender equality: SDG 5 'Gender equality' aims to achieve gender equality and empower all women and girls. It aims to support women in acquiring skills and gaining access to productive and financial resources that allow them to compete effectively in the economic life of their communities. It aims to solve unequal access to education, healthcare, economic opportunities, and resources.",
+                    0.6495931148529053
+                ],
+                [
+                    "SDG 8: Decent work and economic growth: SDG8 \u201cDecent work and economic growth\u201d aims to promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all. It seeks to facilitate structural transformation and economic growth by increasing the capacities of local industries for value addition, economic diversification, and export promotion, as well as supports the creation of decent jobs in industry and industry-related services",
+                    0.17908357083797455
+                ],
+                [
+                    "SDG 9: Industry, innovation, and infrastructure: SDG 9 \u201cIndustry, innovation, and infrastructure\u201d aims to build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation. Building trade capacities in industries, ensuring all countries benefit from international trade and technological progress",
+                    0.045748233795166016
+                ],
+                [
+                    "SDG 15: Life on land: Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss. Sustainable management of the soils and the generation of highly productive renewable resources and support the adaptation and adoption of cleaner production methods, technologies and systems.",
+                    0.043532244861125946
+                ],
+                [
+                    "SDG 7: Affordable and clean energy: SDG7 \u201cAffordable and clean energy\u201d aims to ensure access to affordable, reliable, sustainable and modern energy for all. It includes promoting energy efficiency policies, technologies and practices, as well as access to affordable renewable sources of energy for the facilitation of productive activities.",
+                    0.04246155545115471
+                ],
+                [
+                    "SDG 14: Life below water: Conserve and sustainably use the oceans, seas and marine resources for sustainable development. Sound water management methodologies and system introduction, strategic partnerships protect coastal and marine habitats and ecosystems, and improve fisheries incomes.",
+                    0.03958122432231903
+                ]
+            ],
+            "Focus_Areas": [
+                [
+                    "Focus area 4: Climate Change Mitigation and Adaptation Industry: Accelerating the development of renewable energy and energy efficiency initiatives to decarbonize industrial activities and power low-carbon, resilient industrialization. It equips stakeholders with the knowledge to leverage digital technologies for sustainable industry and to develop climate-positive, resilient industrial systems across various sectors.",
+                    0.5999124050140381
+                ],
+                [
+                    "Focus area 2: Innovation and Technology Absorption: Promoting technology adoption and innovative solutions across diverse areas such as smart energy and industrial resilience. This encompasses technology promotion, innovative financing, and developing quality infrastructure to tackle multifaceted development challenges and enhance global industrial competitiveness",
+                    0.27340301871299744
+                ],
+                [
+                    "Focus area 3: Circularity, Waste and Pollutants Reduction: Promote the transition to circular economy models to minimize waste and pollutants across global and domestic value chains. This includes assisting countries in developing strategies to comply with environmental agreements and fostering innovation ecosystems that catalyze new industries focused on reducing the environmental footprint of industrial activities.",
+                    0.08901819586753845
+                ]
+            ],
+            "Priorities": [
+                [
+                    "Priority 3: Sustainable supply chains: Sustainable supply chains are systems of production and distribution that prioritize environmental, social, and economic responsibility throughout the entire process. This approach considers the impacts of sourcing, manufacturing, transportation, and consumption on people and the planet. It involves minimizing carbon emissions, reducing waste, conserving resources, and ensuring fair labor practices along. Sustainable supply chains prioritize ethical sourcing of materials, support local economies, and promote transparency and accountability among suppliers. Companies must identify, end, prevent and mitigate negative human rights and environmental impacts in the company\u2019s operations, those of their subsidiaries and their supply chains.",
+                    0.5356016159057617
+                ],
+                [
+                    "Priority 2: Climate Action: Climate action refers to efforts aimed at mitigating and adapting to the impacts of climate change. It involves taking proactive measures to reduce greenhouse gas emissions, strengthening resilience, transitioning towards renewable energy sources, and implementing policies to limit global warming including the reduction of ozone depleting substances (ODS) such as Hydrochlorofluorocarbons (HCFC) and Chlorofluorocarbons (CFC). Ultimately, climate action aims to minimize environmental degradation, and promoting conservation. Companies have the potential to become leading providers of technological solutions, business models and green jobs to influence consumer behavior and lifestyles to mitigate climate change and resource depletion.",
+                    0.41648802161216736
+                ],
+                [
+                    "Priority 1: Ending Hunger: Ending hunger means that all people should have physical, social, and economic access to sufficient, safe and nutritious food. Reducing post-harvest loss and reducing food waste means that more food and agricultural products will be available for consumption. Increased food safety, quality control, and better farming techniques are also importantt. This can be supported through agri-business development and upgrading agro-food value chains.",
+                    0.04791036620736122
+                ]
+            ]
+        },
+        "GenerativeAI": {
+            "UsedModel": "gpt-4-0125-preview",
+            "SDGs": "Given that the \"TEXT TO CLASSIFY\" is labeled as \"N/A,\" there is no applicable content to analyze or categorize according to the provided criteria relating to the Sustainable Development Goals (SDGs). Therefore, a categorization based on the SDGs cannot be performed without relevant text content.",
+            "Focus_Areas": "Given the input \"TEXT TO CLASSIFY: 'N/A'\", there is no text provided to analyze and categorize according to the specified criteria (Focus Area 1: Digital Transformation and 4IR, Focus Area 2: Innovation and Technology Absorption, Focus Area 3: Circularity, Waste and Pollutants Reduction, Focus Area 4: Climate Change Mitigation and Adaptation Industry). Therefore, a categorization cannot be performed without actual content to assess against the outlined criteria.",
+            "Priorities": "Based on the instructions and the lack of provided text under \"TEXT TO CLASSIFY,\" it's not possible to perform a categorization. Please provide the text intended for classification to proceed with the task."
+        }
+    }
+}

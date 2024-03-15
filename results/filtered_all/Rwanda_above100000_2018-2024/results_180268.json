@@ -1,0 +1,93 @@
+{
+    "project-id": 180268,
+    "project_description": "**Integrated Summary:**\n\n**Recap:** The project is a national action plan aimed at managing mercury in the artisanal and small-scale gold mining sector in Rwanda, focusing on reducing mercury use, developing a National Action Plan, and improving health awareness. Key stakeholders include UNIDO, UNITAR, Rwanda Environment Management Agency, and relevant government ministries, with a strong emphasis on gender equality and capacity building.\n\n**New Developments:**\n1. **Institutional Capacity Assessment:** Various activities, such as consulting stakeholders, identifying gaps, and conducting health assessments, are outlined. The rapid health situation assessment aims to draft a public health strategy for the ASGM sector.\n   \n2. **National Action Plan Drafting:** The NAP drafting process involves stakeholder consultations, finalization, and presentation for feedback. The plan aims to address mercury management in ASGM, considering gender vulnerabilities.\n\n3. **Mercury Inventory Analysis:** A Mercury Initial Assessment will establish baseline information on mercury use, emissions, and practices in the ASGM sector. This data will guide the NAP development and increase understanding of sector practices.\n\n4. **Cost-Effectiveness Consideration:** The project's cost effectiveness is ensured through utilizing GEF resources to minimize mercury use in ASGM, increase awareness, and build local capacity, thereby reducing costs associated with consultancy and travel.\n\n**Contextual Contribution:**\nThese new details enhance the project's overarching theme of reducing pollutants in the ASGM sector and align with the focus area of Circularity, Waste, and Pollutants Reduction. The emphasis on capacity building, stakeholder engagement, and gender considerations continues to support Sustainable Development Goals like SDG 3 (Good Health and Well-being), SDG 5 (Gender Equality), and SDG 12 (Responsible Consumption and Production).\n\n**Priority:** Sustainable Supply Chains  \n**Focus Area of Expertise:** Circularity, Waste, and Pollutants Reduction  \n**Sustainable Development Goals (SDGs):**  \n1. SDG 3: Good Health and Well-being  \n2. SDG 5: Gender Equality  \n3. SDG 12: Responsible Consumption and Production  ",
+    "project_start": "1/1/2019",
+    "project_end": "6/30/2024",
+    "project_title": "National action plan on mercury in the artisanal and small-scale gold mining sector in Rwanda",
+    "sector": "nan",
+    "project_category": "Safeguarding the Environ.",
+    "project_subcategory": " Implementation of MEA",
+    "total_budget": "500000.00",
+    "total_expenditure": "461851.87",
+    "recipient_country_details": [
+        {
+            "recipient-country-code": "RW",
+            "recipient-country": "Rwanda",
+            "ldc-indicator": "X",
+            "region": "AFRICA"
+        }
+    ],
+    "donor_details": [
+        {
+            "donor": "GEF - Global Environment Facility",
+            "donor-type": "Global Environment Facility (GEF)",
+            "donor-country-code": "nan",
+            "donor-country": "nan"
+        }
+    ],
+    "classification_results": {
+        "ZeroShot": {
+            "UsedModel": "https://api-inference.huggingface.co/models/facebook/bart-large-mnli",
+            "SDGs": [
+                [
+                    "SDG 5: Gender equality: SDG 5 'Gender equality' aims to achieve gender equality and empower all women and girls. It aims to support women in acquiring skills and gaining access to productive and financial resources that allow them to compete effectively in the economic life of their communities. It aims to solve unequal access to education, healthcare, economic opportunities, and resources.",
+                    0.5036612153053284
+                ],
+                [
+                    "SDG 3: Good health and well-being: SDG 3 \u201cGood Health and Well-being\u201d aims to ensure healthy lives and promote well-being for all at all age. It encompasses he need for investments in health infrastructure, workforce training, disease prevention, health education and the development and upgrading of the pharmaceutical industry in developing countries for the local production of essential generic drugs and the provision of necessary appliances to the health industry.",
+                    0.12763617932796478
+                ],
+                [
+                    "SDG 7: Affordable and clean energy: SDG7 \u201cAffordable and clean energy\u201d aims to ensure access to affordable, reliable, sustainable and modern energy for all. It includes promoting energy efficiency policies, technologies and practices, as well as access to affordable renewable sources of energy for the facilitation of productive activities.",
+                    0.10683868825435638
+                ],
+                [
+                    "SDG 9: Industry, innovation, and infrastructure: SDG 9 \u201cIndustry, innovation, and infrastructure\u201d aims to build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation. Building trade capacities in industries, ensuring all countries benefit from international trade and technological progress",
+                    0.09378491342067719
+                ],
+                [
+                    "SDG 12: Responsible consumption and production: Ensure sustainable consumption and production patterns. Promote green industries, resource efficient management, cleaner production, and introduce environmental sustainability policies.",
+                    0.08877746015787125
+                ],
+                [
+                    "SDG 15: Life on land: Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss. Sustainable management of the soils and the generation of highly productive renewable resources and support the adaptation and adoption of cleaner production methods, technologies and systems.",
+                    0.07930149137973785
+                ]
+            ],
+            "Focus_Areas": [
+                [
+                    "Focus area 4: Climate Change Mitigation and Adaptation Industry: Accelerating the development of renewable energy and energy efficiency initiatives to decarbonize industrial activities and power low-carbon, resilient industrialization. It equips stakeholders with the knowledge to leverage digital technologies for sustainable industry and to develop climate-positive, resilient industrial systems across various sectors.",
+                    0.33768874406814575
+                ],
+                [
+                    "Focus area 3: Circularity, Waste and Pollutants Reduction: Promote the transition to circular economy models to minimize waste and pollutants across global and domestic value chains. This includes assisting countries in developing strategies to comply with environmental agreements and fostering innovation ecosystems that catalyze new industries focused on reducing the environmental footprint of industrial activities.",
+                    0.33419063687324524
+                ],
+                [
+                    "Focus area 2: Innovation and Technology Absorption: Promoting technology adoption and innovative solutions across diverse areas such as smart energy and industrial resilience. This encompasses technology promotion, innovative financing, and developing quality infrastructure to tackle multifaceted development challenges and enhance global industrial competitiveness",
+                    0.20776750147342682
+                ]
+            ],
+            "Priorities": [
+                [
+                    "Priority 3: Sustainable supply chains: Sustainable supply chains are systems of production and distribution that prioritize environmental, social, and economic responsibility throughout the entire process. This approach considers the impacts of sourcing, manufacturing, transportation, and consumption on people and the planet. It involves minimizing carbon emissions, reducing waste, conserving resources, and ensuring fair labor practices along. Sustainable supply chains prioritize ethical sourcing of materials, support local economies, and promote transparency and accountability among suppliers. Companies must identify, end, prevent and mitigate negative human rights and environmental impacts in the company\u2019s operations, those of their subsidiaries and their supply chains.",
+                    0.6622546315193176
+                ],
+                [
+                    "Priority 2: Climate Action: Climate action refers to efforts aimed at mitigating and adapting to the impacts of climate change. It involves taking proactive measures to reduce greenhouse gas emissions, strengthening resilience, transitioning towards renewable energy sources, and implementing policies to limit global warming including the reduction of ozone depleting substances (ODS) such as Hydrochlorofluorocarbons (HCFC) and Chlorofluorocarbons (CFC). Ultimately, climate action aims to minimize environmental degradation, and promoting conservation. Companies have the potential to become leading providers of technological solutions, business models and green jobs to influence consumer behavior and lifestyles to mitigate climate change and resource depletion.",
+                    0.2277204692363739
+                ],
+                [
+                    "Priority 1: Ending Hunger: Ending hunger means that all people should have physical, social, and economic access to sufficient, safe and nutritious food. Reducing post-harvest loss and reducing food waste means that more food and agricultural products will be available for consumption. Increased food safety, quality control, and better farming techniques are also importantt. This can be supported through agri-business development and upgrading agro-food value chains.",
+                    0.11002496629953384
+                ]
+            ]
+        },
+        "GenerativeAI": {
+            "UsedModel": "gpt-3.5-turbo",
+            "SDGs": "**Category Assignments:**\n1. **SDG 3: Good Health and Well-being**\n2. **SDG 5: Gender Equality**\n3. **SDG 12: Responsible Consumption and Production**\n\n**Justification:**\n1. The text aligns with **SDG 3: Good Health and Well-being** as it emphasizes activities like conducting health assessments and drafting a public health strategy for the ASGM sector to improve health awareness and reduce mercury use, contributing to ensuring healthy lives and well-being for all.\n   \n2. The emphasis on **gender equality** in the project, mentioning gender vulnerabilities and stakeholders like UNIDO and UNITAR, directly relates to **SDG 5: Gender Equality**, aiming to empower women and support equal access to resources and opportunities.\n   \n3. By outlining initiatives to minimize mercury use, increase awareness, and build local capacity in the ASGM sector, the text supports **SDG 12: Responsible Consumption and Production** by promoting sustainable consumption patterns and reducing pollutants, in line with the goal of ensuring sustainable production practices.\n\nThis categorization is based on the text's explicit references to these Sustainable Development Goals and the activities described that correspond directly to the objectives outlined in SDG 3, SDG 5, and SDG 12.",
+            "Focus_Areas": "**Category Assignments:**\n\n1. **Focus Area of Expertise: Circularity, Waste, and Pollutants Reduction**\n\n**Justification:**\n\nThe text aligns with the focus area of Circularity, Waste, and Pollutants Reduction as it describes a national action plan in Rwanda aimed at managing mercury in artisanal and small-scale gold mining. This project focuses on reducing pollutants in the ASGM sector by addressing mercury use, drafting a National Action Plan, and emphasizing health awareness. The activities mentioned, such as the Institutional Capacity Assessment, National Action Plan Drafting, and Mercury Inventory Analysis, all contribute to the goal of reducing waste and pollutants in the sector by promoting sustainable practices. The text also mentions the project's reliance on GEF resources to minimize mercury use, which further supports the emphasis on waste and pollutants reduction.\n\nThe mention of stakeholder consultations, gender vulnerabilities consideration, and the overarching theme of reducing pollutants in the ASGM sector all fall under the Circularity, Waste, and Pollutants Reduction focus area. Additionally, the connection made to Sustainable Development Goals (SDG 3, SDG 5, and SDG 12) further solidifies the categorization under this focus area, specifically in terms of fostering responsible consumption and production, gender equality, and promoting good health and well-being.",
+            "Priorities": "**Category Assignments:**\n\n1. **Priority 3: Sustainable supply chains**\n2. **Focus Area of Expertise: Circularity, Waste, and Pollutants Reduction**\n3. **Sustainable Development Goals (SDGs):**\n   - SDG 3: Good Health and Well-being\n   - SDG 5: Gender Equality\n   - SDG 12: Responsible Consumption and Production\n\n**Justification:**\n\nThe provided text fits within the category of **Priority 3: Sustainable supply chains** as it focuses on sustainable practices in the artisanal and small-scale gold mining (ASGM) sector in Rwanda. The text highlights key aspects of sustainable supply chains such as minimizing waste, reducing pollutants, and ensuring responsible production processes. By emphasizing factors like ethical sourcing, reducing environmental impacts, and supporting local economies, the text aligns well with the criteria outlined for sustainable supply chains.\n\nMoreover, the text specifically mentions the **Focus Area of Expertise: Circularity, Waste, and Pollutants Reduction**, showcasing a clear connection to managing mercury use, reducing emissions, and improving health awareness in the ASGM sector. These efforts directly contribute to reducing waste and pollutants, demonstrating a commitment to sustainable practices within the supply chain.\n\nFurthermore, the text mentions the alignment with **Sustainable Development Goals (SDGs)**, including SDG 3 (Good Health and Well-being), SDG 5 (Gender Equality), and SDG 12 (Responsible Consumption and Production). By addressing health concerns related to mercury exposure, promoting gender equality in ASGM activities, and aiming for responsible consumption and production practices, the text underscores its adherence to the specified SDGs, supporting the focus on sustainable development.\n\nTherefore, based on the content provided, the text is appropriately categorized under **Priority 3: Sustainable supply chains**, focusing on Circularity, Waste, and Pollutants Reduction, and contributing to Sustainable Development Goals such as Good Health and Well-being, Gender Equality, and Responsible Consumption and Production."
+        }
+    }
+}

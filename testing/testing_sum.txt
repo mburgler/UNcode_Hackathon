@@ -1,0 +1,2524 @@
+
+# **************************************************************************** #
+#                                                                              #
+#    888     888 8888b   888                       888                         #
+#    888     888 88888b  888                       888                         #
+#    888     888 888Y88b 888  .d8888b .d88b.   .d88888  .d88b.                 #
+#    888     888 888 Y88b888 d88P"   d88""88b d88" 888 d8P  Y8b                #
+#    Y88b. .d88P 888   Y8888 Y88b.   Y88..88P Y88b 888 Y8PPPP                  #
+#     "Y88888P"  888    Y888  "Y8888P "Y88P"   "Y88888  "Ybbbb.                #
+#                                                                              #
+#   By: UNexpectedOutput                                                       #
+#       Franziska Adler, Clemens Bene, Matteo Buergler and Benjamin Michel     #
+#   Contribution Dates: 2024/03/13 - 2024/03/14                                #
+#                                                                              #
+# **************************************************************************** #
+
+Internet connection successfully established ...
+All Files successfully retrieved ...
+
+***
+SYSTEMPROMPT You are a summarization tool and your main objective is to condense the content of the document into a concise summary, capturing the main points and themes.
+USER_PROMPT Please read the provided Original section to understand the context and content. Use this understanding to generate a summary of the Original section. Original:   
+ 
+Project Document 
+ 
+Project number: 
+200322 
+Project title: 
+Member States Engagement Initiative (MSEI) 
+Relationship to 
+integrated programme: 
+n/a 
+Thematic area code: 
+IA2 and IA20 
+Starting date: 
+15 February 2021 
+Duration: 
+12 months 
+Project site: 
+Vienna, Austria 
+Government  
+Coordinating agency: 
+n/a 
+Counterparts: 
+n/a 
+Executive 
+agency/cooperating 
+agency: 
+UNIDO 
+ 
+ 
+Budget: 
+€ 160,500 
+Brief description:  
+ 
+The effective pursuit of UNIDO’s mandate has in recent years been subject to a number of challenges 
+which have resulted in the Organization delivering a greater volume of services in spite of a dwindling 
+pool of regular budgetary resources.  
+ 
+Systematizing and upgrading UNIDO’s mechanisms for engagement with its Member States through the 
+proposed project is thus necessary to better showcase its added value for countries in advancing ISID, 
+stimulate greater engagement in UNIDO’s work amongst its membership, and secure the necessary 
+resources to effectively deliver its global mandate. The proposed approach responds to Member States’ 
+requests made in the Abu Dhabi Declaration, and capitalizes on their continued support for the 
+Organization’s mandate to reach the objectives of the 2030 Agenda for Sustainable Development. 
+ 
+A comprehensive, yet tailored engagement approach, which puts forward the entire array of UNIDO 
+services as applied to global development challenges and national development priorities, provides the 
+means to structure, coordinate and ensure consistency in interactions with Member States to achieve 
+this objective. This is what the Member States Engagement Initiative (MSEI) proposes. 
+ 
+The immediate objective of the MSEI is to ensure Member States remain committed to UNIDO and 
+systematically engage with the Organization on a number of priority themes, including climate change, 
+the Fourth Industrial Revolution, the Sustainable Development Goals (SDGs) and the Decade of Action, 
+and building back better from COVID-19. The Initiative aims to develop and harness the synergies 
+between UNIDO’s key areas of work, Member States’ development strategies and the global 
+development landscape to strengthen relations with, and expand the membership of, the Organization, 
+thereby increasing its political, technical and financial support to accelerate ISID around the world. 
+ 
+Building on the Organization’s strengths – including its normative role, convening power and technical 
+assistance capacities – the MSEI puts forward an integrated system of (re-)engagement revolving around 
+three interconnected components: 
+ 
+The “Development Dialogues” (Output 1), which are a series of interactive dialogues with Member 
+States, aiming to foster two-way exchanges on ongoing and planned activities to further tailor the 
+Organization’s services in line with countries’ stated interests and needs. 
+ 
+The “Consultative Sessions” (Output 2), which are a new forum for in-depth discussions on 
+selected technical and policy issues to help propel the work of UNIDO and its Member States into 
+2 
+ 
+intergovernmental processes or bodies of relevance to ISID. 
+ 
+A “Member States relationship management” approach (Output 3), which is a multifaceted 
+stakeholder management methodology to strengthen engagement founded, among others, on the 
+identification of key national stakeholders; the synergies between UNIDO’s work and countries’ 
+relevant priorities, policies and strategies; and the joint elaboration of cooperation roadmaps. 
+ 
+Member States engagement constitutes long-term commitments by the Secretariat and MSEI provides 
+a system which can support the Organization in delivering on its mandate and which can offer consistency 
+in Member States relationship management through time, while at the same time being adaptable to the 
+evolving development landscape and needs of countries, as well as to the Organization’s vision and 
+priorities. 
+ 
+MSEI foresees the active and coordinated involvement and participation of all relevant UNIDO actors – 
+including, but not limited to, the Directorates of External Relations and Policy Research (EPR); of 
+Programme, Partnerships and Field Coordination (PFC) (including the Regional Coordination Divisions 
+and Field Offices); of Digitalization, Technology and Agribusiness (DTA); and of Environment and Energy 
+(EAE); as well as the Offices of the Director General; and of Strategic Planning, Coordination and Quality 
+Monitoring – to maximize efficiency, avoid possible overlaps and harness the potential of each interaction 
+for strengthened Member States support and increased cooperation. The roles and responsibilities of the 
+Directorates and Divisions within each output and their activities will be agreed upon in advance through 
+an inclusive consultative process. The principle of subsidiarity will be applied, with due consideration for 
+the official functions of the various Directorates and Divisions (as updated following the changes in the 
+Secretariat structure in 2020), as to complement and create synergies with other ongoing engagement 
+efforts and initiatives, and therefore increase efficiency, ensure coherence and avoid duplication. 
+ 
+A successful execution of the project will ensure that Member States remain committed to the 
+Organization and systematically engage with it in key focal areas, thereby contributing to securing the 
+delivery of its mandate and helping the proliferation of ISID, in particular in the framework of the 2030 
+Agenda. 
+ 
+ 
+Approved: 
+ 
+Signature: 
+Date: 
+Name and title:  
+ 
+On behalf of     
+……………..: 
+___________________ 
+__________ 
+____________________ 
+ 
+ 
+On behalf of  
+UNIDO:    
+ ___________________ 
+__________ 
+___________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+ 
+Table of Contents 
+ 
+A. 
+Context ..................................................................................................................................... 4 
+B. 
+Reasons for UNIDO assistance .................................................................................................. 6 
+C. 
+The project ................................................................................................................................ 7 
+C.1. 
+Objective ........................................................................................................................... 7 
+C.2. 
+The UNIDO approach ......................................................................................................... 8 
+C.3. 
+RBM code and thematic area code .................................................................................. 24 
+C.4. 
+Expected outcomes ......................................................................................................... 24 
+C.5. 
+Outputs and activities ..................................................................................................... 24 
+C.6. 
+Timeline of the activities ................................................................................................. 25 
+C.7. 
+Risks ................................................................................................................................ 26 
+C.8. 
+Gender mainstreaming .................................................................................................... 26 
+C.9. 
+Environmental and social screening ................................................................................ 27 
+D. 
+Inputs ...................................................................................................................................... 27 
+D.1. 
+Counterpart inputs .......................................................................................................... 27 
+D.2. 
+UNIDO inputs .................................................................................................................. 27 
+E. 
+Budget..................................................................................................................................... 28 
+F. 
+Monitoring, reporting and evaluation ..................................................................................... 29 
+F.1. 
+Monitoring ...................................................................................................................... 29 
+F.2. 
+Reporting ......................................................................................................................... 29 
+F.3.  
+Evaluation........................................................................................................................ 30 
+F.4. 
+Monitoring and Evaluation Plan ...................................................................................... 30 
+G. 
+Prior obligations and prerequisites ......................................................................................... 30 
+H. 
+Legal context ........................................................................................................................... 31 
+Annex I: Project Logical Framework ................................................................................................ 32 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4 
+ 
+A. Context 
+ 
+The situation at UNIDO 
+ 
+The UNIDO Constitution spells out the Organization’s dual role to serve as a global forum for industrial 
+policy debates and as a channel for technical assistance in industrial development. However, the 
+Organization has over the last years faced a series of challenges – including related to the payment of 
+assessed contributions, financing the reform of the United Nations development system (UNDS), 
+bridging the budget gap and more – which have placed UNIDO in a situation of delivering a greater 
+volume of services with a dwindling pool of financial and human resources. 
+ 
+The Joint Inspection Unit “Review of management and administration in UNIDO” (JIU/REP/2017/1) 
+notes that the Organization’s finances have recently exhibited two parallel trends, namely a decline in 
+the regular budget and a rise in earmarked voluntary contributions, resulting in an organizational 
+model with a predominant technical assistance function: “The resources to finance the management 
+structures through the regular budget have been shrinking and are often seen as diverting funds from 
+technical assistance programmes. The financial strain restricts the Organization’s ability to commit 
+resources to core functions, and leads to the prioritization of technical cooperation at the expense of 
+activities such as research and standard-setting. This model carries risks in terms of governance, 
+financial sustainability and management capacity.” 
+ 
+UNIDO has since been successfully pursuing a transformative agenda that sets a promising direction 
+for the Organization’s future, including a move towards enhanced results-based management (RBM), 
+among others, through the implementation of the new integrated results and performance 
+framework (IRPF); the adoption of a results-based budget; enhancement of the Organization’s risk 
+management function; updating the UNIDO Secretariat structure; and full integration with the UNDS 
+reform, all of which speak to the Organization’s commitment to address challenges and seize 
+opportunities to bolster its support to Member States in achieving inclusive and sustainable industrial 
+development (ISID). 
+ 
+The transformation would not be complete without reconsidering the way UNIDO engages with its 
+Member States in order to reinforce its ability to promote both its normative and technical assistance 
+functions, as well as its added value for all Member States in advancing ISID in support of the 2030 
+Agenda for Sustainable Development and its Sustainable Development Goals (SDGs). 
+ 
+UNIDO’s Member States have requested the Organization to strengthen its engagement with all 
+relevant stakeholders in order to advance ISID to address countries’ development objectives. Most 
+recently, they have encouraged the Organization, through the Abu Dhabi Declaration, to “continue 
+supporting Member States, cognizant of the diverse and specific needs and challenges they each face, 
+by facilitating the adoption of best policies, practices, and technologies on favourable terms as 
+mutually agreed, and unlocking appropriate resources in developing countries, as well as addressing 
+the specific challenges facing middle-income countries.” In that regard, they also “welcome that 
+UNIDO supports the inclusion, participation, and contribution of all stakeholders in the economic 
+development of Member States.” 
+ 
+They additionally “call upon all Member States to ensure adequate funding for UNIDO in order to meet 
+the full level of the Organization’s core and operational activities”, and “invite all Member States of 
+the United Nations to join UNIDO”1. 
+ 
+                                                             
+1 UNIDO Abu Dhabi Declaration 
+5 
+ 
+Similarly, in GC.18/Res.5 on “Accelerating UNIDO’s activities of inclusive and sustainable industrial 
+development and the effective transfer of industrial development experiences”, Member States 
+welcome “the continued efforts of the Secretariat to find, in consultation with Member States, new 
+approaches to delivering UNIDO’s technical assistance in a way that creates synergies with other 
+public and private sector organizations with a view to maximizing the positive impact and contributing 
+to ISID in developing countries and least developed countries”. They also request “the Director 
+General and UNIDO to continue to sensitize and engage with policy makers, the public and private 
+sectors and academia to scale up the transfer of knowledge, experiences and best practices that exist 
+in successful industrial development models to developing countries, through the holding of seminars 
+and workshops in the context of the South-South, North-South and triangular cooperation 
+frameworks, within existing resources”. 
+ 
+Related achievements and lessons learned 
+ 
+Since 2017, the Department of External Relations (ETR) has been implementing the Countries 
+Engagement Strategy (CES) (Project ID 180076) in view of increasing UNIDO’s membership – more 
+precisely to mirror the UN membership by 2030 – as well as to strengthen relations with selected 
+Member States, in particular following the departure of a number of countries from the Organization. 
+ 
+To achieve this, the project has developed processes and tools to systematize the engagement 
+function of the Organization. These have been implemented to, among others, strengthen relations 
+with Ireland and the Netherlands, to support to the elaboration of cooperation roadmaps as part of 
+the strategic dialogues initiated with Germany and Switzerland, as well as to pursue (re-)engagement 
+with a number of non-Member States, including Canada, France, Portugal and more. Engagement was 
+also extended to Small Island Developing States (SIDS) – namely Singapore and Solomon Islands – on 
+the basis of opportunities identified through the monitoring of developments at the national, regional 
+and global levels. 
+ 
+Recognizing the value of the tools developed to further engagement with key donors of the 
+Organization, “Alignment Documents” showcasing synergies between UNIDO’s work and a number of 
+donor-countries’ relevant development strategies and policies were prepared to support the 
+elaboration of cooperation roadmaps as part of the strategic dialogues initiated with each country. In 
+this context, CES was called upon to support Regional Coordination Divisions in their engagement with 
+a number of Member States, including Costa Rica, Croatia and Kazakhstan. Importantly, most, if not 
+all, engagement activities benefitted from effective collaboration between relevant Directorates and 
+Divisions, most notably the Regional Coordination Divisions and Field Offices. 
+ 
+As evidenced through the fruitful application of these tools and approaches in a variety of instances, 
+the Organization will benefit from a broader application of a comprehensive engagement approach to 
+guide its relations with Member States and non-Member States alike in order to further showcase its 
+added value for addressing development challenges. 
+ 
+Key role of ISID to the achievement of the SDGs 
+ 
+UNIDO’s mandate to advance ISID enjoys strong support from its Member States and has been highly 
+commended by the development community at large. This support has increased over the years, as 
+evidenced by the guidance and strategic vision provided in the resolutions adopted at the 18th session 
+of the UNIDO General Conference in 2019. Notably, through the Abu Dhabi Declaration, Member 
+States “recognize the importance of enhancing the efforts of UNIDO in achieving the Sustainable 
+Development Goals through all its mandated functions”. 
+ 
+6 
+ 
+The international community is striving to realize the 2030 Agenda, but much still needs to be done. 
+With just ten years remaining to reach the global goals, UN agencies are joining forces across the globe 
+for a “Decade of Action” to implement solutions to some of the world’s biggest challenges: ending 
+poverty, fighting inequality, addressing climate change and rebuilding from the COVID-19 pandemic. 
+ 
+UNIDO’s ISID mandate provides the tools to tackle these challenges head-on. The Organization creates 
+jobs, growth, opportunities and prosperity, while implementing green industrial policies, innovative 
+technologies and production processes to help build resilient, inclusive, economies and mitigate the 
+effects of climate change. UNIDO’s quick response to support the socio-economic recovery of its 
+Member States in the context of the COVID-19 crisis also attests to the Organization’s efficiency in 
+adapting to a rapidly evolving economic landscape.  
+ 
+ 
+B. Reasons for UNIDO assistance 
+ 
+UNIDO needs to strengthen and streamline its system of engagement with Member States to ensure 
+their strong and active involvement in the Organization so that it can thoroughly fulfill its mandate 
+and achieve lasting development impact in the framework of the 2030 Agenda. Increasing the 
+membership base through (re-)engagement with non-Member States can also help provide the 
+resources and reach necessary for the Organization to better promote its normative function. 
+ 
+As a basis, a general distinction can be made between the different levels of engagement between 
+UNIDO and its Member States; from engagement through the funding and implementation of 
+technical assistance, to engagement primarily through the Organization’s global forum function. In 
+addition to this distinction, the development (cooperation) priorities of Member States also vary 
+according to a number of socio-economic and demographic factors, among others. 
+ 
+Maximizing Member States’ engagement with, and support for UNIDO therefore entails a need to 
+further develop the Organization’s knowledge and understanding of countries’ requirements and how 
+to address them; to know how to interact with each and every one of them; and to know how to build 
+mutual trust and cooperation. 
+ 
+A comprehensive, yet tailored engagement approach, which puts forward the entire array of UNIDO 
+services as applied to global development challenges and national development priorities, can provide 
+the means to structure, coordinate and ensure consistency in interactions with Member States to 
+achieve these objectives. This can also be enhanced by providing mechanisms and platforms – among 
+others, using new communication technologies – to engage on a variety of key national, regional and 
+international development issues in a multifaceted manner together with relevant stakeholders from 
+all countries. 
+ 
+Such an approach can also foster the increased creation of synergies with UNIDO’s ongoing 
+interactions with Member States and regional groups, as coordinated at various levels by different 
+Directorates and Divisions – including, in particular, by Regional Coordination Divisions and Field 
+Offices – and structured through various frameworks, such as the Programmes for Country 
+Partnership (PCP) and Country Programmes (CP), as well as various frameworks and initiatives, 
+including regional strategies (as developed by PFC); the Third Industrial Development Decade for 
+Africa (IDDA III); strategies for middle-income countries (MICs), for small island developing states 
+(SIDS), for least developed countries (LDCs) and for post-conflict/- crisis situations; and more. Working 
+in close coordination with the offices, which have established these many engagement tools and 
+communication channels, through a collaborative and organized effort founded on a clear delineation 
+of roles and responsibilities – bearing in mind the official work and mandate of the Organization’s 
+7 
+ 
+Directorates and Divisions – is vital to complement efforts, maximize efficiency and avoid any 
+overlapping and/or gap in the engagement, in particular given the Secretariat's limited resources. 
+ 
+As noted previously, UNIDO’s CES work has put forward a number of processes and tools, informed 
+by key achievements and lessons learned, which can facilitate this process. Their adoption can boost 
+the efficiency and relevance of each interaction for increased political, technical and financial support 
+for the Organization and thus help further solidify its positioning and relevance for the achievement 
+of the global development agenda. 
+ 
+ 
+C. The project 
+ 
+C.1. 
+Objective  
+ 
+The immediate objective of the project is to ensure Member States remain committed to UNIDO and 
+systematically engage with the Organization in its focal priorities, in particular in the framework of the 
+2030 Agenda. 
+ 
+The MSEI will aim to develop and harness the synergies between UNIDO’s key areas of work, Member 
+States’ development strategies and the global development landscape. These synergies will form the 
+foundation of the “First in mind” narrative that ensures consistency in messaging across the various 
+components of the Initiative. MSEI will aim to project UNIDO as being responsive to Member States’ 
+needs; provide them with exemplary customer-care; actively engage with target non-Member States 
+and therefore strengthen and expand the membership of the Organization. 
+ 
+As a result, UNIDO will receive stronger political, technical and financial support in order to accelerate 
+ISID globally in support of the Decade of Action. 
+ 
+Narrative: “First in mind” 
+ 
+To further anchor its role as a key actor in the multilateral system, UNIDO needs to more actively 
+engage with its Member States and to more clearly articulate the direct linkage between the economic 
+dimension of sustainable development and the Organization, as the main UN-system entity to advance 
+green industrialization and inclusive growth. 
+ 
+Given the central role of ISID to the economic dimension of sustainable development, UNIDO is 
+essential to achieving the SDGs. Its service portfolio – including its global forum, normative and 
+technical cooperation functions – therefore needs to be better promoted so that a wider range of 
+stakeholders can benefit from its experience and expertise. 
+ 
+By better showcasing its added value and relevance to support Member States in addressing rapidly 
+evolving global and national development challenges – including climate change, the Fourth Industrial 
+Revolution and the COVID-19 crisis – the MSEI will offer countries additional means to directly and 
+effectively interact with the Organization, allowing for the accelerated implementation of the Lima 
+and Abu Dhabi Declarations. 
+ 
+The MSEI proposes to embed this information into a narrative – i.e. a logically-sequenced series of 
+information that will practically and pragmatically show the specific benefits of greater interactions 
+with the Organization – which will connect all components of the Initiative together; ensure overall 
+coherence and consistency; and contribute to solidifying UNIDO’s positioning as an essential partner 
+8 
+ 
+and as the main policy advisor to governments and their private sector in a number of key themes, 
+including: 
+ 
+Climate change 
+ 
+Digital transformation and the Fourth Industrial Revolution  
+ 
+SDGs and the Decade of Action 
+ 
+Building back better from COVID-19 
+ 
+Other important areas and cross-cutting themes pertaining to the Organization’s mandate will 
+progressively be included around those main clusters, and will reflect challenges faced by developing 
+countries and the opportunities available to them, such as gender equality, youth employment, 
+circular economy, sustainable energy, industrial parks, the future of industry and more. 
+ 
+To be “First in mind”, UNIDO must become more vividly present both physically and virtually, and 
+must ensure that there is an immediate connection between certain questions and UNIDO as their 
+logical answer. By creating a direct linkage between Member States’ development challenges and the 
+solutions provided by UNIDO, the Initiative aims to create an understanding of the necessity and of 
+the immediate benefits of collaborating with the Organization. 
+ 
+C.2. 
+The UNIDO approach 
+ 
+The MSEI seeks to create the institutional framework to streamline UNIDO’s engagement function. It 
+proposes a comprehensive, multi-component approach, which redefines the way the Organization 
+interacts with Member States by better showcasing its value-added for addressing national and global 
+development challenges, and hence improve relations towards increased engagement and political, 
+technical and financial support. 
+ 
+Building on the Organization’s strengths – including the support of its ISID mandate, its normative role, 
+convening power and technical cooperation capacities – the Initiative puts forward an integrated 
+system of engagement revolving around three interconnected components, which will be described 
+in further detail below, namely the “Development Dialogues” (Output 1), the “Consultative Sessions” 
+(Output 2) and the “Member States relationship management” approach (Output 3). 
+ 
+ 
+ 
+Member States engagement constitutes long-term commitments by the Secretariat and MSEI 
+provides a system, which can support the Organization in delivering on its mandate and which can 
+9 
+ 
+offer consistency in Member States relationship management through time, while also being 
+adaptable to the evolving development landscape and needs of countries, as well as to the 
+Organization’s vision and priorities. It puts forward mechanisms through which the entire spectrum 
+of UNIDO’s activities can be projected against the global development agenda and Member States’ 
+development priorities. 
+ 
+In that regard, MSEI is a collective initiative and its success will be intrinsically linked to the ability of 
+various divisions in UNIDO to work together as one, guided by a clear understanding of engagement 
+mechanisms and of their related processes and tools. It foresees the active and coordinated 
+involvement and participation of all relevant UNIDO actors – including, but not limited to, the 
+Directorates of External Relations and Policy Research (EPR); of Programme, Partnerships and Field 
+Coordination (PFC) (including the Regional Coordination Divisions and Field Offices); of Digitalization, 
+Technology and Agribusiness (DTA); and of Environment and Energy (EAE); as well as the Offices of 
+the Director General; and of Strategic Planning, Coordination and Quality Monitoring – to maximize 
+efficiency, avoid possible overlaps and harness the potential of each interaction for strengthened 
+Member States support and increased cooperation. 
+ 
+The roles and responsibilities of the Directorates and Divisions within each output and 
+LEN TEXT 100277
+LEN CHUNK 27684
+LEN CHUNK 72593
+CUMMULATIVE SUMMARY The Member States Engagement Initiative (MSEI) is a project designed to enhance UNIDO's engagement with its Member States to advance Inclusive and Sustainable Industrial Development (ISID), in alignment with the Abu Dhabi Declaration and the 2030 Agenda for Sustainable Development. Set to commence on 15 February 2021 for a duration of 12 months with a budget of €160,500, the project is centered in Vienna, Austria, with UNIDO serving as the executive agency. 
+
+Facing challenges like dwindling budgetary resources and increasing demand for services, MSEI aims to showcase UNIDO's value, stimulate greater involvement in its work, and secure necessary resources. It intends to ensure continuous commitment from Member States by engaging them in key themes like climate change, the Fourth Industrial Revolution, the Sustainable Development Goals (SDGs), and COVID-19 recovery. The initiative proposes a comprehensive engagement approach, structured around three components: Development Dialogues, Consultative Sessions, and a Member States relationship management strategy. 
+
+This initiative is seen as vital for strengthening relations with Member States, thereby securing political, technical, and financial support essential for advancing ISID globally. Key to MSEI's success will be an integrated system of engagement that effectively utilizes UNIDO’s strengths, including its normative role, convening power, and technical cooperation capacities, to address global and national development challenges. Coordination and active participation from various UNIDO divisions are critical for avoiding overlaps, maximizing efficiency, and increasing support and cooperation from Member States.
+***
+***
+SYSTEMPROMPT You are a summarization tool and your main objective is to condense the content of the document into a concise summary, capturing the main points and themes.
+USER_PROMPT Please read the provided Original section to understand the context and content. Use this understanding to generate a summary of the Original section, incorporating relevant details and maintaining coherence with the Prior Summary. The Prior Summary was created from the chunk of the document directly preceding this chunk.
+Prior Summary: The Member States Engagement Initiative (MSEI) is a project designed to enhance UNIDO's engagement with its Member States to advance Inclusive and Sustainable Industrial Development (ISID), in alignment with the Abu Dhabi Declaration and the 2030 Agenda for Sustainable Development. Set to commence on 15 February 2021 for a duration of 12 months with a budget of €160,500, the project is centered in Vienna, Austria, with UNIDO serving as the executive agency. 
+
+Facing challenges like dwindling budgetary resources and increasing demand for services, MSEI aims to showcase UNIDO's value, stimulate greater involvement in its work, and secure necessary resources. It intends to ensure continuous commitment from Member States by engaging them in key themes like climate change, the Fourth Industrial Revolution, the Sustainable Development Goals (SDGs), and COVID-19 recovery. The initiative proposes a comprehensive engagement approach, structured around three components: Development Dialogues, Consultative Sessions, and a Member States relationship management strategy. 
+
+This initiative is seen as vital for strengthening relations with Member States, thereby securing political, technical, and financial support essential for advancing ISID globally. Key to MSEI's success will be an integrated system of engagement that effectively utilizes UNIDO’s strengths, including its normative role, convening power, and technical cooperation capacities, to address global and national development challenges. Coordination and active participation from various UNIDO divisions are critical for avoiding overlaps, maximizing efficiency, and increasing support and cooperation from Member States.
+Current Text: their activities 
+will be agreed upon in advance through an inclusive consultative process. The principle of subsidiarity 
+will be applied, with due consideration for the official functions of the various Directorates and 
+Divisions (as updated following the changes in the Secretariat structure in 2020), as to complement 
+and create synergies with other ongoing engagement efforts, initiatives and strategies (and their 
+related established communication channels across categories of stakeholders), and therefore 
+increase efficiency, ensure coherence and consistency, bridge potential gaps and avoid duplication. 
+ 
+1. Output 1: Development Dialogues 
+ 
+Purpose 
+ 
+The Development Dialogues are a series of interactive dialogues with Member States, aiming to 
+provide mandated or otherwise relevant updates on UNIDO’s work and receive active feedback from 
+delegates on ongoing and planned activities in order to further tailor its services and engagement at 
+multiple levels, in line with countries’ stated interests and needs. These will serve to replace traditional 
+briefings to Member States conducted by UNIDO with a more engaging and outcome-oriented 
+approach. 
+ 
+Rather than be structured as a unidirectional flow of information outward from the Secretariat, as 
+with past briefings to Member States, UNIDO’s Development Dialogues will seek to actively engage 
+delegates on pertinent and emerging topics central to promoting ISID. Using mechanisms such as 
+interactive discussion formats; link-ups with field networks (Field Offices, ITPOs, GN-SEC, etc.) and/or 
+beneficiaries and partners on the ground – including the private sector, academia, civil society and 
+others, whenever possible; and digital conferencing tools for online and real-time engagement, the 
+Dialogues will bring an added level of interactivity and proximity to UNIDO’s work on the ground.  
+ 
+In addition to fulfilling the periodic reporting requirements of the Secretariat to Member States 
+mandated by the policymaking organs, the Dialogues will serve to identify a set of individual priority 
+topics to be treated in greater depth through a programme of Consultative Sessions (Output 2). The 
+engagement with Member States representatives in this framework will also serve to inform the 
+relationship management approach (Output 3), which will in turn increase the visibility of the 
+Dialogues themselves and help ensure their attendance by relevant stakeholders. 
+ 
+10 
+ 
+The Dialogues will thus focus on showcasing UNIDO’s added value for Member States in addressing 
+current and emerging development challenges, in line with the strategic “First in mind” narrative and 
+the demands of Member States. Topics of discussion could therefore include: climate action; the 
+Fourth Industrial Revolution; the SDGs and the ‘Decade of Action’; building back better from COVID-
+19; gender equality; circular economy; youth employment and the like.  
+ 
+Synergies will also be created with UNIDO’s main global forum events, including the Vienna Energy 
+Forum (VEF), the Global Manufacturing and Industrialisation Summit (GMIS), Bridge for Cities, 
+Learning and Knowledge Development Facility (LKDF) and more to ensure consistency, coherence and 
+continuity in the key messages that are conveyed to stakeholders around focal thematic areas. 
+ 
+As the implementation of MSEI progresses, the holding of national and regional Development 
+Dialogues will also be considered in consultation with Member States and in coordination with 
+relevant Directorates and Divisions – in particular the Regional Coordination Divisions and Field Offices 
+in order to ensure alignment with national and regional organizational strategies, where applicable – 
+in order to provide a platform for discussing and identifying joint and coordinated solutions to 
+common development challenges. 
+ 
+Structure 
+ 
+The Development Dialogues will be designed so that they can be held either fully virtually, or in a 
+hybrid format also involving in-person participation, to help observe relevant health and safety 
+measures while simultaneously increasing the reach and cost efficiency of engagement efforts. In so 
+doing, the Dialogues will be able to involve not only representatives of Permanent Missions covering 
+UNIDO, whether located in Vienna or elsewhere, but also other relevant government stakeholders in 
+national capitals, as well as representatives of the private sector, academia and other partners. 
+ 
+The Development Dialogues will put forward a comprehensive, multifaceted framework for covering 
+each topic from various Organizational perspectives. This will be done through the provision of input 
+by, and participation of, UNIDO experts working in different spheres, including the IRPF, gender 
+mainstreaming, evaluation, Field/Regional Offices, etc. 
+ 
+As applicable, the Dialogues will also involve the participation of Member State representatives as 
+presenters within its programme, to provide their perspective on given topics and offer insights and 
+recommendations on their experiences working with UNIDO. 
+ 
+The schedule of Dialogues will be arrived at in consultation with Member States and with substantive 
+offices of UNIDO. An initial outline of the topics for discussion will be proposed by the Secretariat, and 
+adapted as appropriate based on the consultations held. 
+ 
+Participation 
+ 
+By involving government counterparts from Permanent Missions as well as from national capitals, the 
+Dialogues will foster increased engagement from Member States and trigger meaningful exchanges 
+by, for instance, permitting government experts to share their own approaches, strategies and 
+experiences – including the lessons learned and successes – in working with UNIDO. This will also help 
+to facilitate the decision-making process as relevant stakeholders are involved in the Dialogues from 
+the onset and have the ability to influence the discussions by highlighting their priorities. 
+ 
+11 
+ 
+Dedicated follow-up activities stemming from the Dialogues will provide opportunities for UNIDO to 
+respond directly to Member States’ needs, to foster stronger cooperation with target stakeholders 
+and to adapt the Dialogues and their topics, as needed. 
+ 
+Internal coordination 
+ 
+Similarly to the process which has been successfully applied in the preparation and holding of Member 
+States briefings, the Development Dialogues will be coordinated by ETR in close cooperation with 
+relevant substantive Directorates and Divisions. 
+ 
+The Regional Coordination Divisions and the network of Field Offices will be afforded an opportunity 
+to help promote the Dialogues as deemed relevant and appropriate in order to secure the 
+participation of key stakeholders in Member States as well as to facilitate follow up on the discussions 
+and agreements, thereby also providing an avenue to advance their respective engagement efforts in 
+line with their national and regional engagement strategies and other initiatives and frameworks, 
+where applicable. The potential holding of Dialogues at the regional and/or national levels, based on 
+the material prepared for the global Dialogues, shall also explored in coordination between ETR and 
+PFC. 
+ 
+2. Output 2: Programme of Consultative Sessions  
+ 
+Purpose 
+ 
+Through the establishment of a dedicated programme of Consultative Sessions, it is proposed to 
+provide a new platform for in-depth exchanges on selected technical and policy issues to arrive at 
+actionable policymaking organ decisions, which will help propel the work and/or perspective of UNIDO 
+and its Member States into intergovernmental processes or bodies of relevance to ISID. 
+ 
+The programme of Consultative Sessions builds on the System of Consultations launched by UNIDO in 
+1986 to provide a forum for developing and developed countries to enhance cooperation amongst 
+one another in the area of identifying problems and developing solutions, considering means to 
+accelerate industrialization and contribute to closer cooperation amongst countries in pursuit of 
+UNIDO’s mandate. 
+ 
+Adapting this approach, the Consultative Sessions will provide a more focused forum, involving in 
+particular topical experts at the national level, to develop and carry forward policy advice emanating 
+from UNIDO’s unique position and expertise in areas related to ISID.  
+ 
+In the context of this project, the Consultative Sessions will also serve to raise UNIDO’s profile within 
+national governments – and amongst additional stakeholder groups such as the private sector –
+helping to position the Organization as a thought leader and provider of tangible solutions in the 
+economic dimension of the 2030 Agenda. The Consultative Sessions will furthermore draw Member 
+States closer in to the work of UNIDO by offering a forum for exchange of expertise, solutions, 
+technologies, norms, standards and know-how to address pertinent industrial development 
+challenges. 
+ 
+The system is thereby expected to help create long-lasting multi-stakeholder cooperation 
+opportunities for development impact in accordance with the Lima and Abu Dhabi declarations. The 
+creation of linkages with the Member States relationship management component of MSEI will, on 
+the one hand facilitate the identification of relevant stakeholders for participation in the sessions and 
+12 
+ 
+on the other hand further promote their outcomes for increased political, technical and financial 
+support. 
+ 
+Similarly to the Development Dialogues, the holding of Consultative Sessions organized on a national 
+or regional basis, with the involvement of relevant actors in-house (including the Regional 
+Coordination Divisions and the Field Offices), shall also be considered, as needed. 
+ 
+Structure 
+ 
+Topics for treatment by the Consultative Sessions will be arrived at through the Development 
+Dialogues. While the Dialogues provide for an exchange on general topics and trends related to ISID, 
+the Consultative Sessions allow for a deep-dive approach to identifying opportunities and obstacles to 
+the promotion of ISID, and proposing solutions to advance progress on ISID and SDG 9. 
+ 
+The Consultative Sessions thereby offer a means by which to hold follow-up discussions on a topic or 
+sub-topic of particular interest to Member States treated in the Dialogues. These discussions would 
+take place at a more technical level and be strictly outcome-oriented. 
+ 
+The calendar of Consultative Sessions would be flexible and reactive, adapting to the outcomes of the 
+Development Dialogues and calling sessions on a per-need basis. Under this project, up to three 
+Consultative Sessions on various topics would be held in 2021, with each one of them expected to 
+require two to three meetings to arrive at the targeted policy recommendations. As of November 
+2020, the proposed approach is being piloted on the topic of Circular Economy in coordination with 
+the Directorate of EAE. 
+ 
+The format of the Sessions would loosely be modelled on UNIDO’s prior System of Consultations. 
+Preparatory meetings will be held at the regional level, as appropriate, to incorporate as large an 
+amount of stakeholders as possible, accurately capture Member States’ different approaches and 
+ensure the effective conduct of affairs and general consensus-building. 
+ 
+Based on the outcomes of the preparatory meetings, the Consultative Sessions will result in the 
+development of a set of policy and technical recommendations, as relevant, which will be submitted 
+to the General Conference, through the Industrial Development Board, for consideration and 
+adoption. This process will aim to arrive at actionable policymaking organ decisions that will advance 
+the work of UNIDO and its Member States in priority areas in intergovernmental processes, thereby 
+contributing to accelerating ISID in the framework of the Decade for Action. 
+ 
+Participation 
+ 
+The Consultative Sessions will be open to the participation of all Member States, including government 
+representatives (in particular topical experts), the private sector, academia and civil society. It is 
+envisioned that Consultative Sessions be chaired by Member State representatives to ensure their 
+ownership of the processes and outcomes. 
+ 
+The participation of a variety of other development stakeholders and partners, including UN sister 
+agencies, international organizations, development financial institutions and more, will help create 
+synergies between different development initiatives and foster new partnerships, which will serve to 
+further strengthen UNIDO’s role as a convener and mediator on issues relating to industrial 
+development. 
+ 
+13 
+ 
+Sessions will be held both in person and virtually, to increase the reach and cost efficiency of 
+engagement efforts and, if necessary, adapt to any restrictive measures in place on personal mobility. 
+ 
+Internal coordination 
+ 
+The Consultative Sessions will be coordinated by ETR in close cooperation with the lead substantive 
+Directorate or Department for a given topic. Special attention will be given to the involvement of 
+UNIDO’s Regional Coordination Divisions and Field Offices – including for the promotion of the 
+sessions and identification of participants amongst their respective stakeholders – and the 
+Department of Policy Research and Statistics, where relevant. Distribution of roles, responsibilities 
+and, where applicable, resources will be carried out amongst the various in-house counterparts in 
+advance. This will ensure the alignment of all activities under this output with ongoing policies, 
+regional strategies, programmes, projects and other frameworks and initiatives. 
+ 
+ETR shall be responsible for all necessary arrangements to ensure the effective, consistent and smooth 
+holding of sessions, including outreach to Member States at the Permanent Mission level, convening 
+and conducting sessions and the distribution of information and documents to participants. The lead 
+substantive office for each session will provide the substantive foundation for the consultations, 
+including – but not limited to – background papers, discussion papers, data sets, presentations, draft 
+outcomes and decisions, and summary reports, as well as the invitation of topical experts and other 
+relevant partners. 
+ 
+3. Output 3: Member States relationship management 
+ 
+ 
+ 
+While the Development Dialogues and the Consultative Sessions propose activities mostly targeted at 
+Member States in their entirety – or in groups according to geographic and/or thematic focus – all 
+Member States remain unique and strengthening their commitment to, and engagement with, UNIDO 
+requires tailored approaches. 
+ 
+The MSEI proposes to streamline and systematize the engagement with countries – both Member 
+States and non-Member States – through a multifaceted relationship management approach founded, 
+14 
+ 
+among others, on the identification of key national stakeholders; the synergies between UNIDO’s work 
+and countries’ relevant priorities, policies and strategies; and the joint elaboration of cooperation 
+roadmaps. 
+ 
+Anchored around a (A) country mapping exercise to prioritize engagement, the approach aims to (B) 
+solidify UNIDO’s membership, in particular in the framework of the COVID-19 pandemic; (C) gradually 
+strengthen relations with all Member States, among others by providing support to relevant 
+Directorates and Divisions; and (D) increase the Organization’s membership through (re-)engagement 
+with non-Member States. 
+ 
+The relationship management approach will foster synergies with the other components of MSEI at 
+multiple levels with the overall objective to ensure Member States remain committed to the 
+Organization and systematically engage in key focal areas. Ultimately, the shared aim is to secure the 
+delivery of UNIDO’s mandate, help the proliferation of ISID and solidify the Organization’s leading role 
+in the multilateral system, in particular in the framework of the Decade of Action. 
+ 
+This component of the MSEI builds on approaches and tools developed as part of CES, such as in-depth 
+background research of selected countries; the mapping of key stakeholders – including 
+representatives of the government, private sector, civil society and academia; the identification of 
+third-party supporters; the production of strategic engagement material based on the analysis of the 
+synergies between UNIDO’s work and the relevant industrial development strategies and policies of 
+target countries; and the planning of targeted communication activities; all of which serving to inform 
+strategic engagement activities guided by dedicated and tailored work plans. 
+ 
+Through the application of these approaches and tools, ETR further strengthened relations with a 
+number of priority Member States and made consistent progress in engagement with a select number 
+non-Member States. CES was also called upon to support Regional Coordination Divisions in their 
+engagement with a number of Member States. Importantly, most, if not all, engagement activities 
+benefitted from effective collaboration with relevant Directorates and Divisions to align with and 
+complement ongoing initiatives and, hence, harness the potential of engagement efforts for 
+maximizing support for the Organization and increasing development impact. 
+ 
+In that regard, MSEI foresees the full integration of CES within its system of engagement to promote 
+consistency in the approaches utilized at the organizational level in its relations with all countries. 
+ 
+Presenting UNIDO as one is central to the approach. It puts forward the Organization’s strengths and 
+value-added, encompassing its entire array of services as they apply to the advancement of the very 
+specific development objectives of individual countries. It is an integrated approach, which, to be truly 
+effective, banks on the active involvement and participation of relevant Directorates and Divisions – 
+including, but not limited to, EPR, PFC (in particular Regional Coordination Divisions and Field Offices), 
+DTA and EAE, as applicable. To that end, the roles and responsibilities in the various engagement 
+efforts and activities under this component will be discussed and agreed upon through an inclusive 
+consultative process, which considers the work and mandate of all UNIDO actors in order to promote 
+complementarity and improve efficiency. 
+ 
+The coordinated approach makes countries’ experience working with the Organization seamless and 
+relevant, and can lead to increased satisfaction because they are getting exactly what they want and 
+need. It can therefore generate greater political, technical and financial support for UNIDO. 
+ 
+The establishment of dedicated follow-up mechanisms will aim to deliver on agreements in an 
+effective and timely manner, and to keep countries actively engaged in the Organization. 
+15 
+ 
+ 
+Furthermore, internal workshops/briefings will be organized by ETR to present and promote the 
+relationship management approach and encourage and facilitate its application in view of increasing 
+the reach and efficiency of the Initiative so that it can eventually be applied consistently to an 
+increasing amount of Member States. Guiding documents on MSEI’s engagement approaches and 
+tools, together with associated templates and examples, will be developed and shared as part of this 
+effort, and ETR will provide support in their implementation upon request. 
+ 
+A. Mapping exercise 
+ 
+The first step in implementing the Member States relationship management component of MSEI will 
+be to carry out an in-depth mapping exercise of countries to prioritize engagement in order to 
+efficiently address countries’ needs and challenges, maximize support for the Organization and not 
+only help manage and mitigate membership risks efficiently, but also gain new members. 
+ 
+As noted previously, a general distinction can be made between the types of countries that are 
+member (and non-MS) of the Organization: 
+ 
+MS that fund UNIDO projects (donors) 
+ 
+MS where UNIDO projects and initiatives are implemented (beneficiaries/recipients) 
+ 
+MS with which engagement and cooperation is currently limited to the Organization’s global 
+forum function or non-existent 
+ 
+Non-MS which are members of the UN (some of which are also donors or recipients of UNIDO 
+technical assistance) 
+ 
+A proposed relationship management approach to be employed per country, or per category of 
+countries, will be defined according to the outcome of the mapping exercise and will fall under three 
+distinct engagement mechanisms, to be further developed below: 
+ 
+The “Building Back Better Together” campaign, which will be targeted, among others, at 
+countries with whom engagement is currently limited. 
+ 
+The “Comprehensive Member State relationship management”, which will initially be applied 
+to Member States with a perceived high-potential for increased cooperation based the close 
+alignment of development priorities and/or on the current level of engagement. 
+ 
+“Non-Member States engagement”, which will see a continuation and expansion of CES 
+activities, as appropriate. 
+ 
+The mapping exercise will be conducted in close coordination with relevant Directorates and Divisions 
+– including, but not limited to, the Strategic Relations and Resource Mobilization Division (SRM), the 
+Regional Coordination Divisions and the Field Offices. The roles and responsibilities in the 
+implementation of the three engagement mechanisms will be defined accordingly with due 
+consideration for the official functions of the various Directorates and Divisions, their regions and 
+countries of coverage, and ongoing initiatives, strategies (including at the regional level), frameworks, 
+programmes and projects, as to increase efficiency and avoid any overlapping and or gap in the 
+engagement. 
+ 
+The mapping and proactive monitoring of Member States and non-Member States can allow UNIDO 
+to remain informed and responsive to global, regional and national developments, as well as to tailor 
+its engagement strategies accordingly.  
+ 
+Detailed country profiles containing a number of variables pertinent to the capacity to assess the state 
+of the relationship with the Organization will be produced for selected countries under each category 
+described above. These will help the Organization to strategize its interactions and promptly evaluate 
+16 
+ 
+when and where to intensify engagement efforts – whether it is to act on opportunities for developing 
+new cooperation activities, to address specific needs and concerns or else. 
+ 
+These will be produced and updated regularly by ETR and other lead offices (in function of the official 
+regions and countries of coverage), as deemed appropriate, in coordination with relevant Directorates 
+and Divisions, including on the basis of developments in the selected countries. A complete update of 
+all profiles should be done annually, on the basis of which the prioritization of engagement with MS 
+and non-MS for the year ahead should be made. 
+ 
+B. “Building Back Better Together” campaign 
+ 
+The “Building Back Better Together” campaign has for core focus to strengthen relations with Member 
+States and address any needs or concerns they may have, in particular considering the major economic 
+and budgetary consequences inflicted by the COVID-19 pandemic. 
+ 
+Indeed, reducing revenues and major shifts in planned expenditures in order to respond to the crisis 
+have forced countries to re-evaluate their finances and, in some cases, to perform cost-benefit 
+assessments of their affiliation to international organizations. This is not only raising concerns about 
+certain country’s eventual ability to pay their assessed contributions to UNIDO in a timely manner, but 
+also about their long-term commitment to the Organization. 
+ 
+The campaign will be targeted at Member States identified through the mapping exercise, which, in 
+particular, are neither donors nor recipients of UNIDO technical assistance and with which the level 
+of engagement with the Organization is generally limited, or inexistent. 
+ 
+Through targeted, consistent outreach activities anchored around a strategic engagement plan, the 
+campaign will aim to foster the more active involvement of key national stakeholders in UNIDO by 
+providing information about the Organization’s mandate – in line with the “First in mind” narrative – 
+and by further highlighting the value-added of their membership to the Organization by presenting 
+the various services, opportunities and means of cooperation available to them. By the same token, it 
+provides a platform for the Organization to promote and cement its normative and global forum 
+functions. 
+ 
+To achieve this, a dedicated package of information will be prepared in close coordination with 
+relevant Directorates and Divisions, and communicated to all countries identified through the 
+mapping exercise. This will include, inter alia, the tools and policy advice services put forward by the 
+Department of Policy Research and Statistics; opportunities for the private sector to get involved in 
+UNIDO activities – including through procurement; the numerous global events, platforms and 
+webinars organized by UNIDO, such as the Global Manufacturing and Industrialization Summit (GMIS), 
+the Vienna Energy Forum (VEF) and the Bridge for Cities event; and technical cooperation project 
+development services. 
+ 
+The PFC Directorate (including, in particular, the Regional Coordination Divisions and Field Offices), is 
+to be closely involved in the development and roll-out of the campaign in order to maximize efficiency 
+and reach by ensuring that the campaign is conducted in line with existing efforts, strategies, 
+framewor
+LEN TEXT 100277
+LEN CHUNK 25800
+LEN CHUNK 46793
+CUMMULATIVE SUMMARY The Member States Engagement Initiative (MSEI) outlines a detailed strategy to improve UNIDO’s interaction with Member States to support Inclusive and Sustainable Industrial Development (ISID), focusing on three main outputs: Development Dialogues, Consultative Sessions, and Member States relationship management. Each output aims to foster active engagement, tailor UNIDO's services to the needs and priorities of Member States, and showcase the organization's value in addressing global development challenges such as climate action, the Fourth Industrial Revolution, and COVID-19 recovery.
+
+Development Dialogues are interactive sessions aimed at replacing traditional briefings, focusing on dynamic exchanges with Member States to explore needs and priorities more effectively, while also ensuring alignment with national and regional strategies. These dialogues are designed to be flexible, allowing virtual and hybrid formats to maximize participation and engagement from various stakeholders, including the private sector and academia.
+
+Consultative Sessions offer a platform for more in-depth discussions on specific technical and policy issues, aiming to produce actionable recommendations for policymaking organs. This mechanism builds on the legacy of the System of Consultations initiated by UNIDO in 1986, adapted to current challenges and aiming to engage a broader range of stakeholders, including government experts, the private sector, and civil society, to facilitate multi-stakeholder cooperation.
+
+The relationship management component seeks to systematize and streamline engagement with Member States through a comprehensive strategy that includes identifying key national stakeholders, aligning with countries' relevant priorities and strategies, and elaborating cooperation roadmaps. This approach involves a country mapping exercise to prioritize engagement, address specific needs, and potentially re-engage non-Member States, thus reinforcing UNIDO's overall membership and support base.
+
+Integrated within these three outputs is a focus on internal coordination and synergy across UNIDO, emphasizing an inclusive and consistent engagement approach that leverages the organization's strengths and aligns with ongoing initiatives and strategies to avoid duplication and maximize efficiency. The MSEI represents a strategic, coordinated effort to enhance UNIDO's relationship with Member States, ensuring their continued commitment and support for advancing ISID globally, particularly during the Decade of Action for the 2030 Agenda for Sustainable Development.
+***
+***
+SYSTEMPROMPT You are a summarization tool and your main objective is to condense the content of the document into a concise summary, capturing the main points and themes.
+USER_PROMPT Please read the provided Original section to understand the context and content. Use this understanding to generate a summary of the Original section, incorporating relevant details and maintaining coherence with the Prior Summary. The Prior Summary was created from the chunk of the document directly preceding this chunk.
+Prior Summary: The Member States Engagement Initiative (MSEI) outlines a detailed strategy to improve UNIDO’s interaction with Member States to support Inclusive and Sustainable Industrial Development (ISID), focusing on three main outputs: Development Dialogues, Consultative Sessions, and Member States relationship management. Each output aims to foster active engagement, tailor UNIDO's services to the needs and priorities of Member States, and showcase the organization's value in addressing global development challenges such as climate action, the Fourth Industrial Revolution, and COVID-19 recovery.
+
+Development Dialogues are interactive sessions aimed at replacing traditional briefings, focusing on dynamic exchanges with Member States to explore needs and priorities more effectively, while also ensuring alignment with national and regional strategies. These dialogues are designed to be flexible, allowing virtual and hybrid formats to maximize participation and engagement from various stakeholders, including the private sector and academia.
+
+Consultative Sessions offer a platform for more in-depth discussions on specific technical and policy issues, aiming to produce actionable recommendations for policymaking organs. This mechanism builds on the legacy of the System of Consultations initiated by UNIDO in 1986, adapted to current challenges and aiming to engage a broader range of stakeholders, including government experts, the private sector, and civil society, to facilitate multi-stakeholder cooperation.
+
+The relationship management component seeks to systematize and streamline engagement with Member States through a comprehensive strategy that includes identifying key national stakeholders, aligning with countries' relevant priorities and strategies, and elaborating cooperation roadmaps. This approach involves a country mapping exercise to prioritize engagement, address specific needs, and potentially re-engage non-Member States, thus reinforcing UNIDO's overall membership and support base.
+
+Integrated within these three outputs is a focus on internal coordination and synergy across UNIDO, emphasizing an inclusive and consistent engagement approach that leverages the organization's strengths and aligns with ongoing initiatives and strategies to avoid duplication and maximize efficiency. The MSEI represents a strategic, coordinated effort to enhance UNIDO's relationship with Member States, ensuring their continued commitment and support for advancing ISID globally, particularly during the Decade of Action for the 2030 Agenda for Sustainable Development.
+Current Text: ks and initiatives – such as the regional strategies; the strategies for MICs, for SIDS, for LDCs 
+and for post-conflict/- crisis situations; IDDA III; and more – as well as by harnessing the potential of 
+existing networks of stakeholders at all levels in its regions and countries of coverage. The various 
+steps and responsibilities will be agreed upon through an inclusive consultation process in which the 
+principle of subsidiarity will be applied, with due consideration for the official functions of the various 
+Directorates and Divisions. 
+17 
+ 
+ 
+Communication activities will be developed in coordination with the Advocacy and Media Relations 
+Division (AMR) to increase the reach of outreach efforts as well as to ensure that information is 
+channeled to target audiences in a consistent and efficient manner through various means of 
+communication.  
+ 
+The campaign will also seek to foster the participation of key stakeholders of Member States in the 
+activities proposed in the framework of the Development Dialogues and Consultative Sessions, as well 
+as in UNIDO’s policymaking organs. It will also directly feed into the “comprehensive Member States 
+relationship management” approach in order to ensure a continuity in engagement activities, as 
+applicable. 
+ 
+C. Comprehensive MS relationship management 
+ 
+Getting closer to Member States to strengthen relations, increase engagement in the Organization, 
+and develop new cooperation activities requires dedicated, tailored engagement strategies founded 
+on a thorough understanding of countries’ relevant stakeholders and systems and processes of 
+engagement, and on the alignment of priorities between the Organization’s work and relevant 
+national development strategies and policies. 
+ 
+The “Comprehensive Member States relationship management” component of MSEI calls for 
+attention to the specificities of each country and proposes a set of approaches and tools to guide the 
+engagement process. While the various steps and means of engagement can generally be defined and 
+applied with relative consistency, flexibility in engagement approaches should always be favoured in 
+order to accommodate each country’s requirements. 
+ 
+The implementation of the approach will be led by ETR in coordination with relevant Directorates and 
+Divisions with the selected number of Member States under its coverage, as identified through the 
+mapping exercise. Its implementation with countries under the coverage of PFC/RFC will be 
+encouraged and facilitated, as applicable, through the holding of a series of workshops/briefings and 
+by providing support in the implementation of the various tools and processes. This will provide the 
+means to ensure that the approach can be further extended to additional countries. 
+ 
+Key stakeholders mapping 
+ 
+A comprehensive mapping of national actors covering the wide spectrum of stakeholders relevant to 
+UNIDO’s mandate is an important step in understanding whom should be involved in the engagement 
+efforts. These generally include, but are not limited to, representatives of the government – including 
+from the Permanent Mission to UNIDO, from various ministries and from other institutions – private 
+sector and its associated institutions; civil society; academia; media; and more. 
+ 
+Setting up dedicated, open channels of communication to proactively engage with each category of 
+stakeholders, respond to their evolving needs and get them involved in UNIDO activities will be 
+fundamental in improving the efficiency and impact of engagement efforts towards increased buy-in 
+and cooperation activities. In this respect, official UNIDO communications, such as letters from UNIDO 
+officials, including the Director General as appropriate, can provide an efficient means to establish 
+contact – following the appointment of new governments, for example – and seek to foster 
+strengthened cooperation and mark and follow up on important milestones in the relationship. Usage 
+of this tool should be made consistently across Member States. 
+ 
+18 
+ 
+Engaging in consistent exchanges with the representatives of the countries’ Permanent Mission to 
+UNIDO is of primary importance given their role as principle governmental interlocutors for UNIDO 
+affairs. This provides a key platform for two-way exchanges to, among others, discuss day-to-day 
+affairs; efficiently address requests and concerns; coordinate (as applicable) the implementation of 
+the comprehensive relationship management approach; and facilitate interactions with key 
+stakeholders in the country across stakeholder categories identified above. Importantly, the 
+Permanent Mission should be kept informed of all developments in the engagement efforts, unless 
+agreed otherwise. 
+ 
+Furthermore, the involvement of the private sector in this approach, as an important contributor and 
+beneficiary of UNIDO activities, will be crucial to ensure that industry’s voice is funnelled into the 
+Organization’s technical assistance and normative interventions, in line with Abu Dhabi Declaration’s 
+emphasis of the importance of mobilizing the business sector to support the achievement of SDG 9 
+and ISID – in particular in the context of the Fourth Industrial Revolution. To that end, synergies with 
+the global alliance of private-sector manufacturers for ISID, which is currently being developed in the 
+context of implementing the Abu Dhabi declaration, will be created accordingly. Since the alliance will 
+be targeting the private sector, it is conceivable that it will facilitate and lead the systemized 
+engagement of the private sector in the Consultative Sessions. However, as the particular objectives, 
+outcomes and outputs of the alliance are currently under development, the detailed interrelation of 
+this output with the alliance is still to be determined. EPR/ETR is working in close coordination with 
+responsible Directorates and Divisions to increase synergies and avoid the duplication of efforts. 
+ 
+While exchanges should be maintained on a continuous basis, the frequency of interactions should be 
+determined with each category of stakeholders and be dependent on the progress made and on the 
+identification of potential cooperation opportunities. 
+ 
+The establishment of networks of key stakeholders in each country will also be beneficial to the 
+successful and fruitful organization of activities surrounding the Development Dialogues and 
+Consultative Sessions. 
+ 
+Alignment of priorities 
+ 
+The alignment of priorities aims to shed light on the synergies between UNIDO’s work to advance ISID 
+globally in support of the achievement of the 2030 Agenda, and countries’ development strategies 
+and objectives, including their topical priorities and geographical focus, as applicable. Simply put, it 
+aims to showcase the value-added of the Organization in addressing countries’ needs. 
+ 
+The production of “Alignment Documents” based on an in-depth research and analytical process to 
+identify the existing synergies is a key component of the comprehensive Member States relationship 
+management approach, as it provides the foundation for guiding and structuring the engagement 
+efforts; for identifying potential areas of interest across the spectrum of UNIDO services; and for 
+exploring cooperation opportunities, all of which can be formulated in a joint strategic engagement 
+roadmap, as described below. It therefore foresees close consultations with all relevant Directorates 
+and Divisions, in line with the thematic priorities and geographical focus of target Member States. 
+ 
+The alignment exercise can consider a number of resources, including: 
+ 
+Official national development (or development cooperation) strategies and policies pertaining 
+to UNIDO’s mandate (or other official governmental resources) 
+ 
+Review of the main industrial sectors and their attributes 
+ 
+Statements of government officials, including during and following national elections 
+19 
+ 
+ 
+Stated priorities and expectations vis-à-vis UNIDO, as expressed in official meetings and 
+events (including policymaking organs, for example) 
+ 
+Development objectives as stated in key global events, such as the United Nations General 
+Assembly 
+ 
+Strategies and priorities of all relevant stakeholders, including the private sector 
+ 
+Relevant global and regional development and cooperation frameworks, approaches, 
+mechanisms and platforms (in particular those put forward by UNIDO) 
+o Including UNIDO’s regional strategies (as developed by PFC); the PCPs and CPs; the 
+strategies for MICs, for SIDS, for LDCs, for post-conflict/- crisis situations, for gender 
+equality and women empowerment, and more; IDDA II; and others 
+ 
+Priorities identified under the United Nations Sustainable Development Cooperation 
+Framework (UNSDCF) formally United Nations Development Assistance Framework (UNDAF) 
+ 
+Etc. 
+ 
+A number of other variables can also be incorporated in the document, such as examples of projects 
+and flagship programmes, which are aligned with countries’ priorities and geographical focus 
+(including successful examples of cooperation), the means and mechanisms of collaboration and 
+information about the UNIDO project cycle. As appropriate, the analysis shall also take into 
+consideration other key partners of the countries with which cooperation could be explore in order to 
+create synergies between different development initiatives and therefore maximize impact. 
+ 
+This process should be done in close coordination with relevant national stakeholders, including the 
+Permanent Missions to UNIDO, to ensure it takes into consideration the right resources and addresses 
+their selected areas of interest. Doing so will also increase the efficiency of the exercise. 
+ 
+The format of “Alignment Documents” shall remain flexible (analytical document, brochure, 
+presentation, etc.) and consider, among others, the status of the engagement, the audience, the 
+expectations of Member States’ key stakeholders and how the documents will be used, presented 
+and/or communicated. The documents are to be reviewed/updated regularly in order to reflect 
+evolving development objectives, including following the publication of new strategies, changes of 
+governments and others.  
+ 
+As described above, this exercise is to be led by offices responsible for the countries selected through 
+the mapping exercise – in particular by ETR and by Regional Coordination Divisions and Field Offices 
+(on a recommendation basis) – in coordination with relevant Directorates and Divisions. Support will 
+be provided by ETR upon request. 
+ 
+Joint development of strategic engagement roadmaps 
+ 
+Strategic engagement roadmaps are action- and results-oriented tools to ensure coherence, 
+consistency, efficiency and impact of UNIDO’s engagement with its Member States. They are 
+developed and validated through a consultative process led by the responsible offices (i.e. ETR, 
+PFC/RFC, etc.) in coordination with all relevant UNIDO Directorates and Divisions, and together with 
+key national stakeholders, and take into consideration the alignment of priorities in order to 
+determine a course of action to guide the partnership. The development of various roadmaps for 
+different categories of stakeholders can also be considered. 
+ 
+It not only provides a structure and timeline to steer interactions and cooperation activities, it also is 
+a tool to facilitate and increase the efficiency of internal coordination efforts for the execution of 
+agreed steps. It can also help create synergies between the numerous development activities 
+undertaken by the Organization at various levels. 
+20 
+ 
+ 
+As appropriate, its wider dissemination at the national level – including to other development partners 
+present in the country, as applicable – and use by Field Offices serves to entice further adherence and 
+support, and to foster active contributions from other stakeholders to the joint policy and technical 
+cooperation efforts. It can provide a useful tool to facilitate the mobilization of funding and the 
+development of technical cooperation initiatives as well as to foster partnerships. 
+ 
+The structure and content of the roadmaps is to be determined together with the national 
+counterparts and will serve to guide interactions with Member States and partners. 
+ 
+The breadth and depth of the roadmaps is to depend on number of factors, such as the state of the 
+relation, the current level of engagement and the category of stakeholder. They can incorporate 
+information about next steps and opportunities for engagement, including, but not limited to: 
+ 
+Selected topics of interest and geographical focus for future cooperation activities 
+ 
+Calendar of interactions and joint activities, including: 
+o Technical consultations on specific topics with the participation of relevant experts from 
+both parties 
+o Participation of country representatives in MSEI’s Development Dialogues and 
+Consultative Sessions, in UNIDO’s global events and policymaking organs, and in other 
+initiatives 
+o Participation of UNIDO representatives and experts in events of Member States 
+o Capacity building and policy advice trainings and workshops at the national level 
+o Joint events at the national, regional and international levels 
+o Coordination meetings with relevant counterparts on both sides to review progress 
+made in the implementation of the roadmap and specific cooperation activities 
+(including technical cooperation projects), as well as to update the roadmap, as 
+appropriate 
+ 
+Information on concrete technical cooperation project opportunities in line with identified 
+topics and geographical focus 
+ 
+Status of ongoing cooperation activities 
+ 
+Other points as agreed upon in engagement activities with the various national stakeholders 
+ 
+The establishment of focal points within UNIDO and Member States for leading the implementation 
+of the roadmaps is crucial to the success of this exercise. This will, among others, also ensure that a 
+record of all interactions can be kept. 
+ 
+As with the ‘alignment of priorities’, the development and implementation of roadmaps is to be led 
+by offices responsible for the countries selected through the mapping exercise – in particular by ETR 
+and by Regional Coordination Divisions and Field Offices (on a recommendation basis) – in 
+coordination with relevant Directorates and Divisions. Support will be provided by ETR upon request. 
+ 
+Workshops and implementation support 
+ 
+The Initiative foresee the holding of briefings/workshops by ETR for interested Directorates and 
+Divisions – including EPR/ETR/SRM and PFC (in particular Regional Coordination Divisions and Field 
+Offices) – to present its multiple components, with a particular focus on the engagement processes 
+and tools proposed as part of the “comprehensive Member States relationship management” 
+approach, and encourage their application.  
+ 
+This will help ensure that the Organization can increasingly work as ONE in a consistent and 
+coordinated manner based on a shared understanding of the engagement mechanisms and of the 
+21 
+ 
+roles and responsibilities of participating Directorates and Divisions. It will also facilitate the 
+approach’s gradual application to an increasing number of Member States. Guidelines and templates 
+will be developed to support the holding of the workshops and ETR will also provide implementation 
+support, as necessary.  
+ 
+D. Non-MS engagement 
+ 
+As detailed previously, MSEI’s approach closely reflects CES’s vision and objectives to strengthen 
+relations with Member States and engage with non-Member States to mirror the membership of the 
+UN by 2030. The project’s achievements and lessons learned, as well as its processes and tools provide 
+a befitting template, which can be applied to inform the Organization’s relationship management 
+efforts with both Member States and non-Member States. 
+ 
+Incorporating CES within MSEI therefore provides an opportunity to uniformize and centralize the 
+engagement function of the Organization under one initiative for consistency in all interactions 
+undertaken by UNIDO and for facilitating internal coordination. In addition, it bolsters the ability of 
+the Organization to present itself as ONE through the utilization of the same tools and processes 
+guided by a strong narrative, and allows for the creation of synergies between engagement efforts 
+undertaken by various Directorates and Divisions, including by the Regional Coordination Divisions 
+and Field Offices. 
+ 
+It can also help ensure the smooth transition of countries from being non-Member States to Member 
+States, through the establishment of networks, channels of communication and strategic engagement 
+documents, which can form the basis for the development of cooperation activities. 
+ 
+MSEI will pursue the engagement efforts still underway with countries identified and endorsed by the 
+EB in the CES project development and validation process, namely Canada, France and Portugal. More 
+recently initiated or re-vitalized engagement efforts, including with SIDS – namely Singapore and 
+Solomon Islands – Belgium, the United Kingdom and more, will also be continued.  
+ 
+Relations with Ireland and Netherlands, two Member States covered, among others, through CES 
+activities, will be guided by the “comprehensive Member States relationship management” 
+component of the approach. 
+ 
+The country mapping exercise will serve to prioritize non-Member States engagement and, hence, to 
+confirm and/or update the countries with whom interactions are already ongoing through CES, as 
+necessary. Proactive monitoring of global, regional and national developments will ensure that UNIDO 
+can adapt its strategies and act efficiently on opportunities for (re-)engagement. 
+ 
+The processes and tools guiding non-Member States interactions are, with minor alterations, as 
+described in the CES strategy and as developed in sub-section “C. Comprehensive MS relationship 
+management”, including the “key stakeholders mapping”, the “alignment of priorities” and, once the 
+engagement processes reach this point, the “joint development of strategic engagement roadmaps”, 
+all of which is guided by country-specific engagement strategies and related work plans. 
+ 
+In line with ongoing efforts, and where applicable, strategies will aim to harness the potential of 
+successful instances of effective collaboration with non-Member States – including through 
+cooperation on the provision of technical assistance – in order to foster increased interactions towards 
+accession to the Organization. 
+ 
+22 
+ 
+Internal coordination towards one UNIDO 
+ 
+MSEI provides a platform for strengthening relations with Member States based on the Organization’s 
+global forum function and its entire array of technical assistance and policy advice services, as applied 
+to the very own development objectives of Member States. The Initiative therefore draws on the 
+expertise of relevant in-house units and those in the field, and calls for their active involvement – 
+either through the provision of inputs or direct participation in activities – in the coordination and 
+execution of its three components: the Development Dialogues, the Consultative Sessions and the 
+Member States relationship management. 
+ 
+As a combined effort, the success of this Initiative will require the coherence of UNIDO actors in 
+communicating and acting as one – guided by a clear understanding of the roles and responsibilities – 
+in interactions with key Member States stakeholders, recognizing that there are numerous 
+engagement efforts and open channels of communication and cooperation coordinated by various 
+Directorates and Directions based on their respective functions. 
+ 
+Strengthened internal coordination and knowledge sharing through MSEI’s system of engagement will 
+help present UNIDO in a more cohesive and consistent manner, and maximize the potential of each 
+interaction for increasing political, technical and financial support for the Organization. 
+ 
+In that regard, the development of country-specific engagement strategies, roadmaps and action 
+plans as part of the comprehensive Member States relationship management component of MSEI will 
+be crucial for providing internal guidance in engagement efforts based on concrete expectations and 
+agreements. To this end, the guiding strategic documents will be made available internally, as relevant 
+and appropriate, through Open Text, among others. Similarly, the workshops/briefing will help raise 
+awareness of the Initiative and of its different engagement mechanisms to ensure that they are 
+applied consistently, efficiently and in a coordinated manner throughout the Organization. 
+ 
+The process will be led by ETR in close coordination with relevant Directorates and Divisions – in 
+particular PFC (including Regional Coordination Divisions and Field Offices) as well as DTA and EAE –
+based on a clear definition of roles and responsibilities, which duly consider the principle of 
+subsidiarity and the spirit of collaboration. Hence, the Initiative will also aim to complement and 
+create linkages with other ongoing projects and platforms, which aim to strengthen relations with 
+Member States or which involve the contribution of non-Member States. 
+ 
+Working closely with AMR will be key to ensure enhanced advocacy and communication efforts, as 
+well as a clear and meaningful presentation of the Organization throughout all outreach activities. It 
+will also serve to increase the reach of the Initiative and promote its various components, as 
+applicable, in a targeted manner through selected channels of influence – including online tools. 
+Collaboration in the creation of outreach and engagement material will ensure consistency in 
+messaging and in branding, in line with the Organization’s visual guidelines and corporate identity. 
+ 
+Accordingly, UNIDO-wide advocacy efforts guided by MSEI and the “First in mind’ strategic narrative 
+will allow all colleagues to come together as ONE towards the same objective: getting closer to 
+Member States for strengthened support in order to secure the delivery of UNIDO’s mandate and help 
+the proliferation of ISID – in particular in the framework of the 2030 Agenda and the Decade of Action. 
+ 
+ 
+ 
+ 
+23 
+ 
+Summary of roles and responsibilities 
+ 
+MSEI Output 
+Coordination and 
+implementation lead 
+Inputs, participation, 
+identification of 
+stakeholders and 
+promotion of activities (as 
+applicable) 
+Comment 
+Development Dialogues 
+ETR 
+All relevant Directorates and 
+Divisions based on the 
+topic(s) addressed 
+Process similar to the 
+one utilized for the 
+holding of Member 
+States briefings, 
+requiring limited 
+resources from 
+participating UNIDO 
+actors. 
+Consultative Sessions 
+ETR 
+All relevant Directorates and 
+Divisions based on the 
+topic(s) addressed (to be 
+identified through the 
+Development Dialogues) 
+Requires more active 
+involvement/more 
+resources from 
+participating 
+Directorates and 
+Divisions as the 
+process of 
+consultation is held 
+over several weeks 
+and requires further 
+processing of 
+information and 
+preparation of 
+material (i.e. multiple 
+preparatory 
+meetings, etc.) 
+Member 
+States 
+relationship 
+management 
+A. Mapping 
+exercise 
+ETR 
+Relevant Directorates and 
+Divisions – in particular 
+Regional Coordination 
+Divisions and Field Offices 
+Identification of 
+relationship 
+management 
+approach per 
+Member States to be 
+closely coordinated 
+with PFC 
+B. “Building Back 
+Better Together” 
+Campaign 
+ETR 
+Relevant Directorates and 
+Divisions based on the 
+topic(s) addressed – in 
+particular Regional 
+Coordination Divisions and 
+Field Offices 
+Activities to be 
+closely coordinated 
+with PFC to maximize 
+efficiency through 
+alignment with 
+ongoing engagement 
+efforts and to boost 
+reach by utilizing 
+existing networks of 
+stakeholders  
+C. 
+Comprehensive 
+MS relationship 
+management 
+ETR (Countries under 
+its coverage) 
+ 
+Relevant Directorates and 
+Divisions based the topical 
+and geographical ‘alignment 
+Activities under this 
+component are to be 
+carried out by the 
+24 
+ 
+PFC on a 
+recommendation 
+basis (Countries 
+under its coverage)  
+of priorities’ with focus 
+countries 
+offices responsible 
+for the countries 
+identified through 
+the mapping 
+exercise. ETR to 
+provide support upon 
+request 
+D. Non-MS 
+engagement 
+ETR 
+Relevant Directorates and 
+Divisions based on the 
+topical and geographical 
+‘alignment of priorities’ with 
+selected focus countries 
+Continuation of CES 
+activities under MSEI 
+ 
+C.3. 
+RBM code and thematic area code 
+ 
+ 
+IA2 
+Policymaking Organs Secretariat and Relations with Member States 
+ 
+IA20 
+Policymaking Organs Secretariat and Relations with Member States 
+ 
+RBB results 
+ 
+ 
+Output 1: Result 1. Policies and Strategies for ISI
+LEN TEXT 100277
+LEN CHUNK 24904
+LEN CHUNK 21889
+CUMMULATIVE SUMMARY The Member States Engagement Initiative (MSEI) continues its strategic approach to enhance UNIDO's engagement with and support for Member States through targeted and coordinated activities. This involves leveraging various strategies, such as those for middle-income countries (MICs), Small Island Developing States (SIDS), Least Developed Countries (LDCs), and post-conflict and crisis situations, and utilizing existing networks and the principle of subsidiarity to ensure alignment with UNIDO's objectives and Member States' priorities.
+
+Key communication campaigns will be coordinated with the Advocacy and Media Relations Division (AMR) to enhance outreach and ensure consistent information flow. This aims to engage key stakeholders in Development Dialogues, Consultative Sessions, and UNIDO's policymaking organs, feeding into a comprehensive Member States relationship management approach.
+
+The "Comprehensive Member States relationship management" segment outlines tailored strategies based on a deep understanding of each country's stakeholders, engaging them through dedicated communication channels and identifying synergies with national development strategies. This involves a mapping exercise to identify key stakeholders, which include government officials, the private sector, civil society, academia, and media, amongst others. Official communications, consistent exchanges, and the involvement of the private sector are emphasized to ensure impactful engagement.
+
+Alignment of priorities is achieved through the production of "Alignment Documents," which guide engagement efforts by identifying potential cooperation areas following in-depth analysis of a country's development strategies and objectives. These documents facilitate the development of strategic engagement roadmaps, outlining coherent and efficient approaches for UNIDO’s engagement with its Member States.
+
+The MSEI also addresses the engagement of non-Member States, aiming to expand UNIDO’s reach by 2030 and facilitate transitions from non-Member to Member State status. This includes continuing engagement with specific countries and leveraging successful collaboration instances to foster increased interactions towards accession.
+
+Internal coordination within UNIDO is critical for the success of the MSEI, requiring a cohesive effort across all relevant Directorates and Divisions to communicate and operate as one unit, guided by clear roles and responsibilities. Workshops and implementation support will be provided to encourage the application of the engagement processes and tools proposed.
+
+Finally, the roles and responsibilities within the MSEI are outlined, specifying the coordination and implementation leads and the required inputs and participation from various UNIDO components, ensuring a collaborative approach towards achieving inclusive and sustainable industrial development (ISID) in alignment with the 2030 Agenda for Sustainable Development.
+***
+***
+SYSTEMPROMPT You are a summarization tool and your main objective is to condense the content of the document into a concise summary, capturing the main points and themes.
+USER_PROMPT Please read the provided Original section to understand the context and content. Use this understanding to generate a summary of the Original section, incorporating relevant details and maintaining coherence with the Prior Summary. The Prior Summary was created from the chunk of the document directly preceding this chunk.
+Prior Summary: The Member States Engagement Initiative (MSEI) continues its strategic approach to enhance UNIDO's engagement with and support for Member States through targeted and coordinated activities. This involves leveraging various strategies, such as those for middle-income countries (MICs), Small Island Developing States (SIDS), Least Developed Countries (LDCs), and post-conflict and crisis situations, and utilizing existing networks and the principle of subsidiarity to ensure alignment with UNIDO's objectives and Member States' priorities.
+
+Key communication campaigns will be coordinated with the Advocacy and Media Relations Division (AMR) to enhance outreach and ensure consistent information flow. This aims to engage key stakeholders in Development Dialogues, Consultative Sessions, and UNIDO's policymaking organs, feeding into a comprehensive Member States relationship management approach.
+
+The "Comprehensive Member States relationship management" segment outlines tailored strategies based on a deep understanding of each country's stakeholders, engaging them through dedicated communication channels and identifying synergies with national development strategies. This involves a mapping exercise to identify key stakeholders, which include government officials, the private sector, civil society, academia, and media, amongst others. Official communications, consistent exchanges, and the involvement of the private sector are emphasized to ensure impactful engagement.
+
+Alignment of priorities is achieved through the production of "Alignment Documents," which guide engagement efforts by identifying potential cooperation areas following in-depth analysis of a country's development strategies and objectives. These documents facilitate the development of strategic engagement roadmaps, outlining coherent and efficient approaches for UNIDO’s engagement with its Member States.
+
+The MSEI also addresses the engagement of non-Member States, aiming to expand UNIDO’s reach by 2030 and facilitate transitions from non-Member to Member State status. This includes continuing engagement with specific countries and leveraging successful collaboration instances to foster increased interactions towards accession.
+
+Internal coordination within UNIDO is critical for the success of the MSEI, requiring a cohesive effort across all relevant Directorates and Divisions to communicate and operate as one unit, guided by clear roles and responsibilities. Workshops and implementation support will be provided to encourage the application of the engagement processes and tools proposed.
+
+Finally, the roles and responsibilities within the MSEI are outlined, specifying the coordination and implementation leads and the required inputs and participation from various UNIDO components, ensuring a collaborative approach towards achieving inclusive and sustainable industrial development (ISID) in alignment with the 2030 Agenda for Sustainable Development.
+Current Text: D and the SDGs 
+ 
+Output 2: Result 1. Policies and Strategies for ISID and the SDGs 
+ 
+Output 3: Result 1. Policies and Strategies for ISID and the SDGs 
+ 
+C.4. 
+Expected outcomes 
+ 
+By ensuring the successful holding of a series of Development Dialogues; the delivery of a dedicated 
+programme of topical Consultative Sessions; and the development and implementation of a Member 
+State relationship management approach to strengthen and expand UNIDO’s membership, MSEI aims 
+to ensure that Member States remain committed to the Organization and systematically engage 
+with it in key focal areas, thereby contributing to securing the delivery of its mandate and helping the 
+proliferation of ISID, in particular in the framework of the 2030 Agenda. 
+ 
+Quantifying this outcome can be achieved, among others, by assessing the number of Member States 
+which send high-level (HoS/HoG) delegates to UNIDO global forum events/policymaking organ 
+sessions; the number of Member States which sponsor or provide financial contributions to UNIDO 
+global forum events/policymaking organ sessions; the average time taken by Member States to render 
+assessed contributions; the number of Member States which conclude long-term agreements, MoUs, 
+partnership agreements, etc. with UNIDO; the number of requests from Member States for technical 
+assistance; and the number of project/programme approvals with a minimum duration of two years. 
+ 
+C.5. 
+Outputs and activities 
+ 
+Output 1: Series of “Development Dialogues” successfully held 
+Activities 
+Primary Responsibility 
+1.1. Conceptualization of series of Development Dialogues 
+EPR/ETR 
+1.2. Review of the Member States briefings guidelines 
+EPR/ETR 
+1.3. Identification and invitation of relevant high-level participants 
+EPR/ETR 
+25 
+ 
+1.4. Execution of Dialogues, including on-site support for high-level 
+participants 
+EPR/ETR 
+1.5. Follow-up activities 
+EPR/ETR 
+Output 2: Dedicated programme of topical “Consultative Sessions” delivered 
+Activities 
+Primary Responsibility 
+2.1. Conceptualization of programme of topical “Consultative 
+Sessions” 
+EPR/ETR 
+2.2. Review of Rules of Procedures of the System of Consultations 
+and adaptation for Consultative Sessions 
+EPR/ETR 
+2.3. Piloting of format with first Consultative Session on circular 
+economy 
+EPR/ETR, with EAE 
+2.4. Invitation of relevant government/technical participants 
+EPR/ETR, with relevant divisions 
+2.5. Execution of Consultative Sessions, including on-site support 
+for high-level participants 
+EPR/ETR 
+2.6. Follow-up activities 
+EPR/ETR 
+Output 3: Comprehensive Member State relationship management approach developed and 
+implemented in order to strengthen and expand UNIDO’s membership 
+Activities 
+Primary Responsibility 
+3.1. Carry out a mapping of countries to prioritize engagement 
+EPR/ETR 
+3.2. Development of package for the “Building Back Better 
+Together” campaign 
+EPR/ETR 
+3.3. Roll out “Building Back Better Together” campaign 
+EPR/ETR 
+3.4. Implementation of MS relationship management approach to 
+selected Member States 
+EPR/ETR 
+3.5. Development of guidelines and templates on engagement tools 
+and approaches 
+EPR/ETR 
+3.6. Conduct workshops for relevant Directorates and Divisions 
+EPR/ETR 
+3.7. Continue implementation of CES under MSEI 
+EPR/ETR 
+ 
+C.6. 
+Timeline of the activities 
+Activ
+ity 
+Month (2021/22) 
+02 
+03 
+03 
+04 
+04 
+05 
+05 
+06 
+06 
+07 
+07 
+08 
+08 
+09 
+09 
+10 
+10 
+11 
+11 
+12 
+12 
+01 
+01 
+02 
+1.1. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.2. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.3. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.4. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.5. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.1. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.2. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.3. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.4. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.5. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.6. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.1. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.2. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.3. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.4. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+26 
+ 
+ 
+C.7. 
+Risks 
+ 
+In order for the project to achieve its objectives, it is assumed that: 
+ 
+ 
+The external policy environment and public discourse continues to value the key role of 
+economic development, and by the same token ISID, in accelerating the implementation of 
+the 2030 Agenda, and, in particular, for addressing rapidly evolving global development 
+challenges (including climate change, the Fourth Industrial Revolution, COVID-19, etc.) 
+o Means of mitigation: Continued participation by UNIDO in relevant global fora and 
+international mechanisms to advocate for the crucial role of ISID for the achievement of 
+the SDGs, in particular in the framework of the Decade of Action. 
+ 
+ 
+Representatives of Member States and non-Member States at an appropriate level of 
+seniority/technical expertise and decision makers will actively engage in the components of 
+the system of engagement: Development Dialogues, Consultative Sessions and Member 
+States (non-MS) relationship management. 
+o Means of mitigation: Ensure targeted outreach though the mapping of key national 
+stakeholders and by coordinating closely with appropriate Directorates and Divisions. 
+Ensure low barrier for entry and use of online platforms, such as by adopting a solution 
+already used by Vienna-based organizations and roll-out of timely targeted information 
+campaigns supported by relevant guidance material. 
+ 
+ 
+The compressed schedule of meetings with Member States in the framework of the COVID-
+19 pandemic does not keep relevant Member States and non-Member States representatives 
+from participating in MSEI activities. 
+o Means of mitigation: Ensure that the planning of Development Dialogues, Consultative 
+Sessions and Member States (non-MS) relationship management activities takes into 
+consideration the schedule of meetings put forward by UNIDO and, as appropriate, by 
+other Vienna-based international organizations.  
+ 
+ 
+Relevant information on Member States and non-Member States industrial development 
+strategies and priorities is available to UNIDO to proceed with the development of relevant 
+engagement material. 
+o Means of mitigation: Close engagement with Member States and non-Member States 
+representatives, in particular at the Permanent Mission level, to ensure that relevant 
+strategic and policy documents are communicated, or, in the absence of such 
+documents, that the priorities are identified. 
+ 
+C.8. 
+Gender mainstreaming 
+ 
+The activities coordinated through MSEI will be planned and organized with due consideration for 
+relevant organizational policies and strategies pertaining to gender equality and the empowerment of 
+women, including the “UNIDO Strategy for Gender Equality and the Empowerment of Women 2020-
+2023”.  
+ 
+All activities will ensure that women and men enjoy equal opportunities to access, participate in and 
+benefit from the project. In particular, MSEI will promote equal representation of male and female in 
+3.5. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.6. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.7. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+27 
+ 
+its activities – including as part of the Development Dialogues and Consultative Sessions – and will 
+ensure that the production of engagement, communication and other types of material takes into 
+consideration UNIDO’s work on gender equality and uses gender-neutral language. 
+ 
+C.9. 
+Environmental and social screening 
+ 
+As per UNIDO Environmental and Social Safeguards Policies and Procedures (ESSPP), the 
+Environmental and Social screening template has been completed and this project has been 
+categorized as ‘’C’’. Although no further specific environmental and/or social assessment is required 
+for category C projects, environmental and social aspects will be duly considered in all events. 
+ 
+ 
+D. Inputs 
+ 
+D.1. 
+Counterpart inputs 
+ 
+ 
+n/a 
+ 
+D.2. 
+UNIDO inputs 
+ 
+1. International staff 
+ 
+ 
+One senior international consultant hired for the duration of the project (12 months). 
+o Required to manage the coordination (in-house and with external counterparts) of all 
+activities related to the implementation of the Member States relationship management 
+output of MSEI. 
+o International staff needed on the basis of in-depth experience with managing high-level 
+UNIDO stakeholders and external counterparts; comprehensive knowledge of UNIDO’s 
+mandate and its contribution to global, regional and national development priorities; 
+extensive policy research and analytical skills; and proven ability to produce tailored 
+strategic material in support of high-level engagement activities. 
+ 
+ 
+One international consultant hired for the duration of the project (12 months). 
+o Required to support the coordination (in-house and with external counterparts) of all 
+activities related to the implementation of the Member States relationship management 
+output of MSEI. 
+o International staff needed on the basis of experience with managing high-level UNIDO 
+stakeholders and external counterparts; knowledge of UNIDO’s mandate and its 
+contribution to global, regional and national development priorities; policy research and 
+analytical skills; and ability to produce tailored strategic material in support of high-level 
+engagement activities. 
+ 
+ 
+One international consultant hired for the duration of the project (12 months). 
+o Required to support the implementation of the series of Development Dialogues and 
+dedicated programme of topical Consultative Sessions. 
+o International experts will be targeted for recruitment on the basis of in-depth experience 
+managing high-level UNIDO stakeholders as well as engagements with Member States 
+including briefings, consultations, working group meetings and policymaking organ 
+sessions in a United Nations setting. 
+ 
+28 
+ 
+2. National/local staff 
+ 
+ 
+n/a 
+ 
+3. Sub-contracts 
+ 
+ 
+Diverse sub-contracts may be necessary to implement the different components of MSEI, 
+including, but not limited to: 
+o Layout, formatting, production and circulation of communication materials in support of 
+activities in the framework of the MSEI’s Development Dialogues, Consultative Sessions 
+and strategic Member States (and non-MS) relationship management efforts. 
+o Development and implementation of software solutions, or extensions thereto, for 
+various facets of engaging with Member States and non-Member States online and 
+preparing and executing online Development Dialogues and Consultative Sessions. 
+ 
+4. Training 
+ 
+ 
+n/a 
+ 
+5. Equipment and supplies 
+ 
+ 
+n/a 
+ 
+ 
+E. Budget 
+ 
+Budget 
+Lines 
+Description 
+Total 
+(12-month 
+period) 
+Outcome 1: Member States remain committed to UNIDO and systematically engage with the 
+Organization in key focal areas 
+Output 1.1: Series of “Development Dialogues” successfully held 
+1100 
+Staff & Intern Consultants  
+                  6,000  
+5100 
+Other Direct Costs 
+1,500  
+Sub-Total Output 1.1 
+                  7,500  
+Output 1.2:  Dedicated programme of topical “Consultative Sessions” delivered 
+1100 
+Staff & Intern Consultants  
+                30,000  
+5100 
+Other Direct Costs 
+3,000  
+Sub-Total Output 1.2 
+                33,000  
+Output 1.3: Comprehensive Member State relationship management approach developed 
+and implemented in order to strengthen and expand UNIDO’s membership 
+1100 
+Staff & Intern Consultants  
+                90,000  
+1500 
+Local travel 
+                10,000  
+1600 
+Staff Travel 
+                10,000  
+2100 
+Contractual Services 
+5,000  
+5100 
+Other Direct Costs 
+5,000  
+Sub-Total Output 1.3 
+              120,000  
+GRAND TOTAL 
+              160,500  
+ 
+29 
+ 
+It is expected that the project will be funded from XP/RPTC funds. Furthermore, in addition to the 
+funds hereby mentioned, a number of activities under Outputs 1 and 2 will be partially covered by 
+existing resources under EPR/ETR/PMO. 
+ 
+ 
+F. Monitoring, reporting and evaluation 
+ 
+F.1. 
+Monitoring 
+ 
+As part of the standard monitoring set up by EPR/ETR, regular meetings with all UNIDO staff directly 
+involved in the planning, coordination and execution of the various components of MSEI will be held 
+on an ongoing basis together with relevant Directorates and Divisions, as appropriate, in order to pre-
+empt and resolve any issues related to the Initiative. 
+ 
+Further to the internal consultations held in preparation for MSEI’s outline and project proposal, 
+additional meetings will be held with UNIDO staff. The number of these meetings increasing and their 
+intervals diminishing, as the date of key activities of the various components of MSEI draws nearer – 
+such as the holding of Development Dialogues and Consultative Sessions, as well as of high-level 
+engagement activities with representatives of Member States and non-Member States. 
+ 
+The Project Manager and responsible personnel will monitor the progress of the Initiative’s 
+components on a continuous basis. For an overview of the results, indicators and means of verification 
+proposed under this project, please refer to Annex I: Project Logical Framework. 
+ 
+F.2. 
+Reporting 
+ 
+Development Dialogues 
+ 
+Each Development Dialogue is followed up by an internal summary report prepared by EPR/ETR/PMO 
+and circulated internally to members of UNIDO’s Executive Board, as well as substantive officers 
+directly involved in the preparation, execution and follow-up of the respective Dialogues. 
+ 
+Consultative Sessions 
+ 
+Substantive offices leading the preparation, execution and follow-up of the session will prepare an 
+outcome document/report for each session and shall coordinate any other relevant reporting 
+activities to ensure effective and continuous progress towards expected session outcomes. 
+Deliberations in subsequent Consultative Sessions, as well as informal consultations, as applicable, 
+would be based on these reports. 
+ 
+Member States relationship management 
+ 
+A report on the results of the Mapping Exercise and on related prioritization of engagement for each 
+components of the Member States relationship management is prepared by EPR/ETR together with 
+colleagues of relevant Directorates and Divisions, and circulated internally to members of UNIDO’s 
+Executive Board. 
+ 
+A report on the implementation of the “Building Back Better Together” campaign and related follow 
+up actions is prepared by EPR/ETR together with colleagues of relevant Directorates and Divisions, 
+and circulated internally to members of UNIDO’s Executive Board. 
+30 
+ 
+ 
+Reports on the implementation, results and follow-up actions of the comprehensive MS relationship 
+management with each selected countries is prepared by EPR/ETR and relevant Directorates and 
+Divisions on an annual basis and circulated internally to members of UNIDO’s Executive Board. 
+ 
+Reports on the implementation, results and follow-up actions of non-Member States engagement is 
+prepared by EPR/ETR on an annual basis and circulated internally to members of UNIDO’s Executive 
+Board. 
+ 
+F.3.  
+Evaluation 
+ 
+Evaluation of the project will be carried out in accordance with UNIDO’s Evaluation Policy. Additional 
+evaluations can be performed if and when required. 
+ 
+F.4. 
+Monitoring and Evaluation Plan 
+ 
+Type of M&E activity 
+Responsible Parties 
+Budget 
+EUR 
+Timeframe 
+Kick-off meeting 
+UNIDO Project Manager and 
+responsible personnel 
+(EPR/ETR) 
+0 
+Immediately 
+following project 
+start 
+Mid-term review  
+UNIDO Project Manager and 
+responsible personnel 
+(EPR/ETR) 
+0 
+July 2021 
+Preparation of summaries for 
+Development Dialogues 
+UNIDO Project Manager and 
+responsible personnel 
+(EPR/ETR) in coordination with 
+relevant Directorates and 
+Divisions 
+0 
+After each 
+Development 
+Dialogue 
+Preparation of final reports for 
+Consultative Sessions  
+Relevant Directorates and 
+Divisions in coordination with 
+UNIDO Project Manager and 
+responsible personnel 
+(EPR/ETR) 
+0 
+After each 
+Consultative 
+Session 
+Preparation of country-specific 
+engagement reports in the framework of 
+the implementation of the Member 
+States relationship management 
+approach 
+UNIDO Project Manager and 
+responsible personnel 
+(EPR/ETR) in coordination with 
+relevant Directorates and 
+Divisions 
+0 
+At end of project 
+(or on a needs 
+basis) 
+Terminal Project Evaluation (self-
+evaluation), including lessons learned 
+UNIDO Project Manager and 
+responsible personnel 
+(EPR/ETR) 
+0 
+At end of project 
+TOTAL indicative cost 
+Excludes project team staff time and UNIDO staff and travel expenses 
+0 
+  
+ 
+ 
+G. Prior obligations and prerequisites 
+ 
+This project document has been prepared upon a request from the Director General to develop an 
+initiative to get “closer to Member States”, as well as the EB decisions following the presentations of 
+the original and updated concepts on 18 June 2020 and 3 November 2020 respectively. 
+31 
+ 
+ 
+The MSEI also foresees the integration of CES, as described previously in this document. CES was 
+initially approved in principle by the EB on 3 April 2017 and has since been implemented by EPR/ETR 
+(formerly EFR/ETR). The project was, until November 2020, operating on the basis of the CES Update 
+2019, which had been approved by the EB in March 2019 and which built on the Update 2018 
+approved in March 2018. 
+ 
+No further prior obligations and prerequisites are required. 
+ 
+ 
+H. Legal context 
+ 
+All planned activities are in line with UNIDO’s mandate. 
+ 
+Any set of activities to be implemented in any target country will be governed by the provisions of the 
+Standard Basic Cooperation Agreement concluded between the Government of the recipient country 
+concerned and UNIDO or – in the absence of such an agreement – by one of the following: (i) the 
+Standard Basic Assistance Agreement concluded between the recipient country and UNDP, (ii) the 
+Technical Assistance Agreements concluded between the recipient country and the United Nations 
+and specialized agencies, or (iii) the Basic Terms and Conditions Governing UNIDO Projects. 
+Annex I: Project Logical Framework 
+ 
+  
+Intervention logic 
+Objectively verifiable indicators 
+Sources of verification 
+Assumptions 
+Development goal/impact 
+What the target group 
+achieves (benefit) 
+To secure the delivery of UNIDO’s mandate 
+and help the proliferation of ISID, in the 
+framework of the 2030 Agenda for 
+Sustainable Development 
+ 
+ 
+ 
+Outcome(s)/immediate 
+objective(s) 
+What the target group does 
+differently (change in 
+behaviour) 
+Member States remain committed to 
+UNIDO and systematically engage with 
+the Organization in key focal areas 
+≥ 3 national policies or strategies adopted to further ISID 
+ 
+ 
+≥ 173 government bodies (all UNIDO Member States [170] and targeted 
+non-Member States [3]) gained awareness/knowledge on UNIDO through 
+the Development Dialogues, Consultative Sessions and/or Comprehensive 
+Member States relationship management approach 
+ 
+Government policies/legislative 
+documents 
+ 
+Project reports, surveys and/or other 
+reporting sources 
+Macroeconomic factors do not inhibit active 
+membership of UNIDO, or participation in, 
+and/or funding of, its programme of work or 
+activities 
+ 
+Domestic political conditions are favourable 
+toward multilateral (re-) engagement 
+Outputs (results) 
+What the project achieves 
+(create a potential) 
+ 
+ 
+ 
+ 
+Series of “Development Dialogues” 
+successfully held 
+ 
+≥ 4 Development Dialogues organized on topics central to promoting ISID 
+ 
+Development Dialogues 
+reports/summaries, surveys and/or other 
+reporting sources 
+Member State representatives are able and 
+willing to take part in engagements  
+Dedicated programme of topical 
+“Consultative Sessions” delivered 
+ 
+≥ 4 Consultative Sessions organized on technical topics central to 
+promoting ISID 
+ 
+≥ 2 UNIDO policymaking organ inputs supporting UNIDO’s mandate 
+prepared for submission to intergovernmental processes or bodies beyond 
+UNIDO’s policymaking organs 
+ 
+Consultative Sessions reports, surveys 
+and/or other reporting sources 
+ 
+PMO session reports 
+Member State representatives are able and 
+willing to take part in engagements at an 
+appropriate level of seniority/technical 
+expertise 
+Comprehensive Member State relationship 
+management approach developed and 
+implemented in order to strengthen and 
+expand UNIDO’s membership 
+ 
+(To carry out a mapping of countries to identify 
+‘high-risk’ MS and prioritize engagement based, 
+among others, on 3 principle categories: donor 
+countries, recipient countries and not a donor nor a 
+recipient.) 
+≥ 1 package of information is developed and communicated to targeted 
+Member States as part of the outreach campaign on “Building back better 
+together” 
+ 
+≥ 6 strategic engagement documents (alignment documents) developed 
+and shared to strengthen relations with high priority Member States 
+ 
+ 
+≥ 3 strategic engagement documents (alignment documents) developed 
+and shared to support engagement with target non-Member States 
+Campaign report(s), survey(s) or other 
+reporting sources 
+ 
+ 
+Strategic engagement documents 
+developed and shared with high priority 
+Member States 
+ 
+Strategic engagement documents 
+developed and shared with target non-
+Member States 
+ 
+Project reports, surveys and/or other 
+reporting sources 
+Information is communicated to appropriate 
+level of seniority/technical expertise and 
+decision makers 
+ 
+Relevant information on national development 
+priorities is available to UNIDO 
+ 
+Representatives of priority Member States are 
+willing and have the capacity to engage on the 
+basis of the new engagement approach 
+ 
+Non-Member State governments are willing to 
+engage in discussions with UNIDO 
+ 
+
+LEN TEXT 100277
+LEN CHUNK 21889
+LEN CHUNK 0
+CUMMULATIVE SUMMARY The Member States Engagement Initiative (MSEI) aims to reinforce UNIDO's relationship with Member States to ensure their continued commitment and engagement in key areas, contributing positively towards inclusive and sustainable industrial development (ISID) and the 2030 Agenda's goals. MSEI's activities, organized into a clear timeline for 2021/22, focus on executing Development Dialogues, topical Consultative Sessions, and implementing a comprehensive Member State relationship management approach to broaden and strengthen UNIDO's membership and support. The initiative's expected outcomes include increased participation and technical assistance requests from Member States, underpinned by clear metrics for success. To address potential risks, strategies involve continued UNIDO advocacy, targeted engagement, and flexibility in event scheduling. Gender equality and environmental and social considerations are integrally planned within MSEI operations, adhering to UNIDO's policies.
+
+The project relies on significant inputs, including the hiring of international consultants with expertise in high-level engagement and strategic communications, alongside possible sub-contracts for producing and disseminating materials or developing software solutions for online engagement. No additional resources are allocated for national/local staff, training, or equipment and supplies, indicating a strategic focus on leveraging existing capacities and external expertise. The budget outlines a 12-month funding plan, totaling 160,500 EUR from existing UNIDO resources, indicating a well-resourced initiative designed to enhance UNIDO's engagement with Member States effectively.
+
+Monitoring and evaluation are structured to ensure the initiative's ongoing assessment and adaptation, including regular internal meetings, preparation of summary reports for Development Dialogues and Consultative Sessions, and annual reports on relationship management effectiveness with Member States and non-Member States. This structured approach ensures transparency, accountability, and the continuous improvement of the MSEI. The project's legal and operational framework aligns with UNIDO's mandate and standard agreements, affirming its commitment to enhancing member state engagement within the parameters of international law and UNIDO's operational guidelines.
+***
+#api ------------------------------------
+Project ID: 200322
+Title: Member States Engagement Initiative
+Country: M0
+Description: The Member States Engagement Initiative seeks to create the institutional framework to streamline UNIDO’s engagement function. It proposes a comprehensive, multi-component approach, which redefines the way the Organization interacts with Member States by better showcasing its value-added for addressing national and global development challenges, and hence improve relations towards increased engagement and support.
+Start Date: 2021-02-16T23:00:00.000Z - End Date: 1970-01-01T00:00:00.000Z
+KPI missing: False
+#PData ------------------------------------
+Project ID: Member States Engagement Initiative
+#pDoc ------------------------------------
+Document URLs:
+*** URL ***
+https://downloads.unido.org/ot/26/99/26999419/MSEI - Project Document.pdf
+False
+------------------------------------
+
+dP                         dP                         
+88                         88                         
+88d888b. dP    dP .d8888b. 88d888b. dP    dP .d8888b. 
+88"  "88 88    88 88ooood8 88"  "88 88    88 88ooood8 
+88.  .88 88.  .88 88.  ... 88.  .88 88.  .88 88.  ... 
+88Y8888" "8888P88 "88888P" 88Y8888" "8888P88 "88888P" 
+              .88                        .88          
+          d8888P                     d8888P
+
+*   By: UNexpectedOutput
+*      Franziska Adler, Clemens Bene, Matteo Buergler and Benjamin Michel
+*   Contribution Dates: 2024/03/13 - 2024/03/14
+

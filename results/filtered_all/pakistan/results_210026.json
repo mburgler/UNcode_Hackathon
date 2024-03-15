@@ -1,0 +1,93 @@
+{
+    "project-id": 210026,
+    "project_description": "**Priorities:** \nThe content aligns with **Ending Hunger** due to the focus on economic recovery post-pandemic and leveraging private sector engagement for sustainable solutions.\n\n**Focus Areas of Expertise:** \nThe main area of expertise highlighted in the text is **Innovation and Technology Absorption**, focusing on seizing opportunities from COVID-19 disruptions and promoting cleantech innovations for economic recovery.\n\n**Sustainable Development Goals (SDGs):**\n1. **SDG 9 - Industry, Innovation, and Infrastructure:** The text emphasizes fostering new business models and cleantech innovations post-pandemic, contributing to sustainable economic growth.\n2. **SDG 13 - Climate Action:** By promoting cleantech solutions and addressing environmental risks, the project aligns with climate action objectives.\n3. **SDG 5 - Gender Equality:** The inclusion of gender-responsive actions and empowerment efforts demonstrates a commitment to promoting gender equality and women's empowerment.\n\nThis analysis underscores the project's strategic focus on innovation and technology adoption for economic recovery, environmental protection, and gender inclusivity, contributing significantly to sustainable development goals related to industry, climate action, and gender equality.",
+    "project_start": "1/1/2022",
+    "project_end": "4/18/2024",
+    "project_title": "Accelerating low-carbon circular economy through cleantech innovation towards sustainable development in Pakistan",
+    "sector": "Energy generation, renewable sources - multiple technologies",
+    "project_category": "Safeguarding the Environ.",
+    "project_subcategory": " Clean energy access",
+    "total_budget": "1826484.00",
+    "total_expenditure": "42785.10",
+    "recipient_country_details": [
+        {
+            "recipient-country-code": "PK",
+            "recipient-country": "Pakistan",
+            "ldc-indicator": "-",
+            "region": "ASIA AND PACIFIC"
+        }
+    ],
+    "donor_details": [
+        {
+            "donor": "GEF - Global Environment Facility",
+            "donor-type": "Global Environment Facility (GEF)",
+            "donor-country-code": "nan",
+            "donor-country": "nan"
+        }
+    ],
+    "classification_results": {
+        "ZeroShot": {
+            "UsedModel": "https://api-inference.huggingface.co/models/facebook/bart-large-mnli",
+            "SDGs": [
+                [
+                    "SDG 5: Gender equality: SDG 5 'Gender equality' aims to achieve gender equality and empower all women and girls. It aims to support women in acquiring skills and gaining access to productive and financial resources that allow them to compete effectively in the economic life of their communities. It aims to solve unequal access to education, healthcare, economic opportunities, and resources.",
+                    0.5587210059165955
+                ],
+                [
+                    "SDG 13: Climate action: Take urgent action to combat climate change and its impacts. Reducing industrial CO2 and other greenhouse gas emissions, cleaner industrial production processes, and implementing policies to limit global warming including the reduction of ozone depleting substances (ODS).",
+                    0.15998244285583496
+                ],
+                [
+                    "SDG 8: Decent work and economic growth: SDG8 \u201cDecent work and economic growth\u201d aims to promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all. It seeks to facilitate structural transformation and economic growth by increasing the capacities of local industries for value addition, economic diversification, and export promotion, as well as supports the creation of decent jobs in industry and industry-related services",
+                    0.10383711010217667
+                ],
+                [
+                    "SDG 9: Industry, innovation, and infrastructure: SDG 9 \u201cIndustry, innovation, and infrastructure\u201d aims to build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation. Building trade capacities in industries, ensuring all countries benefit from international trade and technological progress",
+                    0.0745469182729721
+                ],
+                [
+                    "SDG 2: Zero hunger: SDG 2 'Zero hunger' aims to end hunger, achieve food security and improved nutrition and promote sustainable agriculture. It seeks to increase agricultural output and reduce post-harvest losses, while generating job opportunities for rural communities in agriculture, particularly through agri-business development and upgrading agro-food value chains",
+                    0.07036658376455307
+                ],
+                [
+                    "SDG 15: Life on land: Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss. Sustainable management of the soils and the generation of highly productive renewable resources and support the adaptation and adoption of cleaner production methods, technologies and systems.",
+                    0.032545920461416245
+                ]
+            ],
+            "Focus_Areas": [
+                [
+                    "Focus area 2: Innovation and Technology Absorption: Promoting technology adoption and innovative solutions across diverse areas such as smart energy and industrial resilience. This encompasses technology promotion, innovative financing, and developing quality infrastructure to tackle multifaceted development challenges and enhance global industrial competitiveness",
+                    0.5744433403015137
+                ],
+                [
+                    "Focus area 4: Climate Change Mitigation and Adaptation Industry: Accelerating the development of renewable energy and energy efficiency initiatives to decarbonize industrial activities and power low-carbon, resilient industrialization. It equips stakeholders with the knowledge to leverage digital technologies for sustainable industry and to develop climate-positive, resilient industrial systems across various sectors.",
+                    0.17270827293395996
+                ],
+                [
+                    "Focus area 3: Circularity, Waste and Pollutants Reduction: Promote the transition to circular economy models to minimize waste and pollutants across global and domestic value chains. This includes assisting countries in developing strategies to comply with environmental agreements and fostering innovation ecosystems that catalyze new industries focused on reducing the environmental footprint of industrial activities.",
+                    0.16962330043315887
+                ]
+            ],
+            "Priorities": [
+                [
+                    "Priority 2: Climate Action: Climate action refers to efforts aimed at mitigating and adapting to the impacts of climate change. It involves taking proactive measures to reduce greenhouse gas emissions, strengthening resilience, transitioning towards renewable energy sources, and implementing policies to limit global warming including the reduction of ozone depleting substances (ODS) such as Hydrochlorofluorocarbons (HCFC) and Chlorofluorocarbons (CFC). Ultimately, climate action aims to minimize environmental degradation, and promoting conservation. Companies have the potential to become leading providers of technological solutions, business models and green jobs to influence consumer behavior and lifestyles to mitigate climate change and resource depletion.",
+                    0.49597445130348206
+                ],
+                [
+                    "Priority 3: Sustainable supply chains: Sustainable supply chains are systems of production and distribution that prioritize environmental, social, and economic responsibility throughout the entire process. This approach considers the impacts of sourcing, manufacturing, transportation, and consumption on people and the planet. It involves minimizing carbon emissions, reducing waste, conserving resources, and ensuring fair labor practices along. Sustainable supply chains prioritize ethical sourcing of materials, support local economies, and promote transparency and accountability among suppliers. Companies must identify, end, prevent and mitigate negative human rights and environmental impacts in the company\u2019s operations, those of their subsidiaries and their supply chains.",
+                    0.4014435112476349
+                ],
+                [
+                    "Priority 1: Ending Hunger: Ending hunger means that all people should have physical, social, and economic access to sufficient, safe and nutritious food. Reducing post-harvest loss and reducing food waste means that more food and agricultural products will be available for consumption. Increased food safety, quality control, and better farming techniques are also importantt. This can be supported through agri-business development and upgrading agro-food value chains.",
+                    0.10258198529481888
+                ]
+            ]
+        },
+        "GenerativeAI": {
+            "UsedModel": "gpt-3.5-turbo",
+            "SDGs": "**Category Assignments:**\n1. SDG 9 - Industry, Innovation, and Infrastructure\n2. SDG 13 - Climate Action\n3. SDG 5 - Gender Equality\n\n**Justification:**\n1. **SDG 9 - Industry, Innovation, and Infrastructure:**\nThe text highlights the emphasis on fostering new business models and cleantech innovations post-pandemic. This aligns with SDG 9's goal of building resilient infrastructure, promoting sustainable industrialization, and fostering innovation. By focusing on innovation and technology absorption for economic recovery, the project contributes to sustainable economic growth, which is a core objective of SDG 9.\n\n2. **SDG 13 - Climate Action:**\nThe text mentions promoting cleantech solutions and addressing environmental risks, signaling a commitment to climate action. By advocating for cleantech innovations post-pandemic and emphasizing environmental protection, the project aligns with SDG 13's aim of taking urgent action to combat climate change and its impacts. The focus on leveraging technology for economic recovery contributes to aligning with climate action objectives.\n\n3. **SDG 5 - Gender Equality:**\nThe inclusion of gender-responsive actions and empowerment efforts in the text signifies a dedication to promoting gender equality and women's empowerment. This commitment resonates with SDG 5's goal of achieving gender equality and empowering all women and girls. By highlighting gender inclusivity and empowerment initiatives, the project contributes to addressing gender disparities and supporting women's participation in economic recovery efforts.\n\nThis analysis demonstrates how the project's strategic focus on innovation, technology absorption, environmental protection, and gender inclusivity directly aligns with Sustainable Development Goals 9, 13, and 5, thereby contributing significantly to advancing these specific SDGs through targeted actions and initiatives.",
+            "Focus_Areas": "**Category Assignments:**\n1. **Innovation and Technology Absorption**\n2. **Climate Change Mitigation and Adaptation Industry**\n3. **Gender Equality**\n\n**Justification:**\n1. **Innovation and Technology Absorption:** The text emphasizes seizing opportunities from COVID-19 disruptions and promoting cleantech innovations for economic recovery, aligning with the criterion of promoting technology adoption and innovative solutions, as outlined in the criteria.\n  \n2. **Climate Change Mitigation and Adaptation Industry:** By promoting cleantech solutions and addressing environmental risks, the project aligns with climate action objectives, fulfilling the criteria of accelerating the development of renewable energy and energy efficiency initiatives to decarbonize industrial activities.\n  \n3. **Gender Equality:** The inclusion of gender-responsive actions and empowerment efforts in the text demonstrates a commitment to promoting gender equality and women's empowerment, aligning with the criterion of focusing on ensuring inclusive participation for women and youth in the digital transformation efforts.\n\nThis categorization highlights how the text aligns with the specified criteria related to Innovation and Technology Absorption, Climate Change Mitigation and Adaptation Industry, and Gender Equality, showcasing the project's strategic focus on these areas for sustainable development goals.",
+            "Priorities": "**Category Assignments:**\n1. **Ending Hunger**\n\n**Justification:**\nThe text relates to the category of Ending Hunger as it mentions the focus on economic recovery post-pandemic and leveraging private sector engagement for sustainable solutions. This aligns with the criteria for Ending Hunger, particularly emphasizing access to sufficient, safe, and nutritious food, as well as promoting agri-business development and agro-food value chains. The mention of economic recovery in the context of addressing hunger links to the concept of ensuring access to food and agricultural products for consumption.\n\n**Structured Format:**\nThe text primarily falls under the category of Ending Hunger due to its emphasis on economic recovery post-pandemic and leveraging private sector engagement for sustainable solutions. This aligns with the criteria of ensuring access to sufficient, safe, and nutritious food and supporting agri-business development and agro-food value chains."
+        }
+    }
+}

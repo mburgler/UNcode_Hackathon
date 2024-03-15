@@ -1,0 +1,93 @@
+{
+    "project-id": 180167,
+    "project_description": "**Previous Summary Integration:**\n\nThe prior summary highlighted Argentina's efforts in transitioning to hydrocarbon refrigerants from HFC-134a in refrigerator manufacturing, focusing on sustainability, climate action, and technology absorption to adhere to Montreal Protocol regulations. Mabe-Kronen's role was emphasized, detailing its production capacities, historical HFC consumption, and future growth projections through cost optimization strategies. The segment provided insights into the current production processes, assembly line equipment, and project investments.\n\n**New Developments & Contextual Contributions:**\n\nThe current text elaborates on specific manufacturing details related to Mabe-Kronen's refrigerant conversion processes. It outlines equipment such as refrigerant tanks, pumps, charging machines, leak detectors, and vacuum pumps used in the conversion project. Cost data, production figures based on refrigerator models, and safety compliance protocols like leak testing procedures are also detailed.\n\n**Aim and Contextual Contributions:**\n\nThese developments deepen the understanding of Mabe-Kronen's transition to eco-friendly refrigerants, aligning with sustainability objectives and regulatory compliance. The focus on equipment, processes, and cost implications underscores the company's dedication to sustainable practices and technological advancements in the refrigeration sector.\n\n**Structured Output:**\n- **Priority:** Climate Action\n- **Focus Area of Expertise:** Climate Change Mitigation and Adaptation Industry\n- **Sustainable Development Goals (SDGs):**\n   1. SDG 13: Climate Action\n   2. SDG 12: Responsible Consumption and Production\n   3. SDG 7: Affordable and Clean Energy\n   4. SDG 9: Industry, Innovation, and Infrastructure",
+    "project_start": "7/18/2018",
+    "project_end": "6/30/2023",
+    "project_title": "Conversion project for replacement of HFC-134a with isobutane (R 600a)/propane (R-290)-based refrigerant in the manufacture of domestic and commercial refrigeration equipment",
+    "sector": "Chemicals",
+    "project_category": "Safeguarding the Environ.",
+    "project_subcategory": " Implementation of MEA",
+    "total_budget": "1840755.00",
+    "total_expenditure": "1838229.61",
+    "recipient_country_details": [
+        {
+            "recipient-country-code": "AR",
+            "recipient-country": "Argentina",
+            "ldc-indicator": "-",
+            "region": "THE AMERICAS"
+        }
+    ],
+    "donor_details": [
+        {
+            "donor": "Montreal Protocol HFC",
+            "donor-type": "Montreal Protocol (MLF)",
+            "donor-country-code": "nan",
+            "donor-country": "nan"
+        }
+    ],
+    "classification_results": {
+        "ZeroShot": {
+            "UsedModel": "https://api-inference.huggingface.co/models/facebook/bart-large-mnli",
+            "SDGs": [
+                [
+                    "SDG 5: Gender equality: SDG 5 'Gender equality' aims to achieve gender equality and empower all women and girls. It aims to support women in acquiring skills and gaining access to productive and financial resources that allow them to compete effectively in the economic life of their communities. It aims to solve unequal access to education, healthcare, economic opportunities, and resources.",
+                    0.34900617599487305
+                ],
+                [
+                    "SDG 7: Affordable and clean energy: SDG7 \u201cAffordable and clean energy\u201d aims to ensure access to affordable, reliable, sustainable and modern energy for all. It includes promoting energy efficiency policies, technologies and practices, as well as access to affordable renewable sources of energy for the facilitation of productive activities.",
+                    0.2232045829296112
+                ],
+                [
+                    "SDG 13: Climate action: Take urgent action to combat climate change and its impacts. Reducing industrial CO2 and other greenhouse gas emissions, cleaner industrial production processes, and implementing policies to limit global warming including the reduction of ozone depleting substances (ODS).",
+                    0.1309724897146225
+                ],
+                [
+                    "SDG 12: Responsible consumption and production: Ensure sustainable consumption and production patterns. Promote green industries, resource efficient management, cleaner production, and introduce environmental sustainability policies.",
+                    0.10932386666536331
+                ],
+                [
+                    "SDG 1: No poverty: SDG 1 'No Poverty' aims to end poverty in all its forms everywhere. It seeks to ensure that the benefits of industrialization are shared by all, that the living conditions of all are sustainably improved, and that no one is left behind.",
+                    0.10407502949237823
+                ],
+                [
+                    "SDG 9: Industry, innovation, and infrastructure: SDG 9 \u201cIndustry, innovation, and infrastructure\u201d aims to build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation. Building trade capacities in industries, ensuring all countries benefit from international trade and technological progress",
+                    0.08341783285140991
+                ]
+            ],
+            "Focus_Areas": [
+                [
+                    "Focus area 2: Innovation and Technology Absorption: Promoting technology adoption and innovative solutions across diverse areas such as smart energy and industrial resilience. This encompasses technology promotion, innovative financing, and developing quality infrastructure to tackle multifaceted development challenges and enhance global industrial competitiveness",
+                    0.42906004190444946
+                ],
+                [
+                    "Focus area 4: Climate Change Mitigation and Adaptation Industry: Accelerating the development of renewable energy and energy efficiency initiatives to decarbonize industrial activities and power low-carbon, resilient industrialization. It equips stakeholders with the knowledge to leverage digital technologies for sustainable industry and to develop climate-positive, resilient industrial systems across various sectors.",
+                    0.3464440107345581
+                ],
+                [
+                    "Focus area 3: Circularity, Waste and Pollutants Reduction: Promote the transition to circular economy models to minimize waste and pollutants across global and domestic value chains. This includes assisting countries in developing strategies to comply with environmental agreements and fostering innovation ecosystems that catalyze new industries focused on reducing the environmental footprint of industrial activities.",
+                    0.15555155277252197
+                ]
+            ],
+            "Priorities": [
+                [
+                    "Priority 2: Climate Action: Climate action refers to efforts aimed at mitigating and adapting to the impacts of climate change. It involves taking proactive measures to reduce greenhouse gas emissions, strengthening resilience, transitioning towards renewable energy sources, and implementing policies to limit global warming including the reduction of ozone depleting substances (ODS) such as Hydrochlorofluorocarbons (HCFC) and Chlorofluorocarbons (CFC). Ultimately, climate action aims to minimize environmental degradation, and promoting conservation. Companies have the potential to become leading providers of technological solutions, business models and green jobs to influence consumer behavior and lifestyles to mitigate climate change and resource depletion.",
+                    0.4960864186286926
+                ],
+                [
+                    "Priority 3: Sustainable supply chains: Sustainable supply chains are systems of production and distribution that prioritize environmental, social, and economic responsibility throughout the entire process. This approach considers the impacts of sourcing, manufacturing, transportation, and consumption on people and the planet. It involves minimizing carbon emissions, reducing waste, conserving resources, and ensuring fair labor practices along. Sustainable supply chains prioritize ethical sourcing of materials, support local economies, and promote transparency and accountability among suppliers. Companies must identify, end, prevent and mitigate negative human rights and environmental impacts in the company\u2019s operations, those of their subsidiaries and their supply chains.",
+                    0.4350161552429199
+                ],
+                [
+                    "Priority 1: Ending Hunger: Ending hunger means that all people should have physical, social, and economic access to sufficient, safe and nutritious food. Reducing post-harvest loss and reducing food waste means that more food and agricultural products will be available for consumption. Increased food safety, quality control, and better farming techniques are also importantt. This can be supported through agri-business development and upgrading agro-food value chains.",
+                    0.06889743357896805
+                ]
+            ]
+        },
+        "GenerativeAI": {
+            "UsedModel": "gpt-3.5-turbo",
+            "SDGs": "**Category Assignments:**\n- **Priority:** Climate Action\n- **Focus Area of Expertise:** Climate Change Mitigation and Adaptation Industry\n- **Sustainable Development Goals (SDGs):**\n   1. SDG 13: Climate Action\n   2. SDG 12: Responsible Consumption and Production\n   3. SDG 7: Affordable and Clean Energy\n   4. SDG 9: Industry, Innovation, and Infrastructure\n\n**Justification:**\nThe text emphasizes Mabe-Kronen's efforts in transitioning to eco-friendly refrigerants, focusing on sustainability, climate action, and technological advancements. It aligns with SDG 13: Climate Action by detailing the company's commitment to reducing greenhouse gas emissions, especially through the transition to hydrocarbon refrigerants. Additionally, the mention of equipment like refrigerant tanks and pumps for conversion processes connects to SDG 12: Responsible Consumption and Production, highlighting the company's move towards sustainable production practices. Furthermore, discussions on cost implications and safety compliance reflect aspects of SDG 7: Affordable and Clean Energy, showcasing Mabe-Kronen's focus on energy efficiency and sustainability. Lastly, the text's emphasis on equipment, processes, and cost implications ties well with SDG 9: Industry, Innovation, and Infrastructure, illustrating the company's dedication to innovation and infrastructure development in the refrigeration sector.\n\nThis categorization aligns with the provided criteria by highlighting how the text corresponds to specific Sustainable Development Goals related to climate action, responsible consumption, clean energy, and industry innovation.",
+            "Focus_Areas": "**Category Assignments:**\n- The text belongs to **Focus Area 4: Climate Change Mitigation and Adaptation Industry**.\n\n**Justification:**\nThe text extensively discusses Argentina's initiatives in transitioning to hydrocarbon refrigerants in refrigerator manufacturing to adhere to climate action goals and sustainability objectives. It specifically mentions Mabe-Kronen's role in this transition, detailing equipment used, cost considerations, production figures, and safety protocols related to the refrigerant conversion processes. These details directly align with the efforts in accelerating renewable energy adoption, decarbonizing industrial activities, and promoting low-carbon, resilient industrialization as outlined in Focus Area 4.\n\n**Structured Format:**\nThe text falls under **Focus Area 4: Climate Change Mitigation and Adaptation Industry** due to its emphasis on transitioning to eco-friendly refrigerants to address climate change, in line with sustainable development goals such as SDG 13 (Climate Action), SDG 12 (Responsible Consumption and Production), SDG 7 (Affordable and Clean Energy), and SDG 9 (Industry, Innovation, and Infrastructure).",
+            "Priorities": "**Category Assignments:**\n- **Priority:** Climate Action\n\n**Justification:**\nThe text is categorized under \"Climate Action\" as it discusses Argentina's efforts in transitioning to hydrocarbon refrigerants from HFC-134a in refrigerator manufacturing, focusing on sustainability, climate action, and technology absorption to adhere to Montreal Protocol regulations. It details Mabe-Kronen's role in this transition, discussing production capacities, historical HFC consumption, and future growth projections through cost optimization strategies. The text elaborates on specific manufacturing details related to Mabe-Kronen's refrigerant conversion processes, outlining equipment used, cost data, production figures, and safety compliance protocols. These developments highlight the company's dedication to sustainable practices, technological advancements, and regulatory compliance, aligning with climate change mitigation and adaptation efforts.\n\n**Structured Format:**\nThe text falls under the category of \"Climate Action\" due to its focus on Argentina's transition to eco-friendly refrigerants, aligning with sustainability objectives and regulations, emphasizing the technological advancements and dedication to sustainable practices within the refrigeration sector."
+        }
+    }
+}

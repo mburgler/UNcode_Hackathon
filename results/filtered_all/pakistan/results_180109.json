@@ -1,0 +1,93 @@
+{
+    "project-id": 180109,
+    "project_description": "**Prior Summary Recap:**\n\nThe prior summary highlighted a project focusing on Ending Hunger through Innovation and Technology Absorption to reduce hunger, promote gender equality, responsible consumption, and partnerships for goals.\n\n**Current Text Summary:**\n\nThe current text delves into agricultural challenges in specific regions of Pakistan and emphasizes initiatives aiming to enhance livestock farming and the apple value chain. It underlines a project concentrating on revitalizing these value chains through improved practices.\n\n**Integration and New Developments:**\n\nThe current text aligns with the theme of Ending Hunger by addressing agricultural hurdles and proposing solutions for economic growth through technological advancements. It resonates with SDGs related to hunger reduction and sustainable economic progress, further developing the narrative.\n\n**Relationship and Contextual Contribution:**\n\nBuilding on the Ending Hunger theme, this integration stresses the critical role of innovation, modernization, and capacity building in enhancing livelihoods. The emphasis on improving value chains connects to SDGs 2 and 12, linking food security, responsible consumption, and technology absorption.\n\n**Structured Output:**\n- **Priority:** Ending Hunger\n- **Focus Area of Expertise:** Innovation and Technology Absorption\n- **Sustainable Development Goals (SDGs):**\n   1. SDG 2: Zero Hunger\n   2. SDG 12: Responsible Consumption and Production\n   3. SDG 1: No Poverty\n   4. SDG 8: Decent Work and Economic Growth\n\nThe current text section aligns with the United Nations Sustainable Development Framework for Pakistan 2018-2022, particularly focusing on strengthening productive sectors for inclusive growth. It also links to the UNIDO Country Program framework aiming at inclusive and sustainable industrial development.\n\nMoreover, the project is strategically aligned with the Ministry of National Food Security & Research of Pakistan's vision to promote agricultural and agroindustry sectors, emphasizing sustainable development goals. Efforts are depicted to reduce environmental impacts and focus on establishing market linkages for sustainability.\n\nThis section emphasizes the importance of ownership transfer post-project completion and includes an initial assessment on value chain selection. The text stresses sustainable practices, ownership protocols, and market linkages for reducing environmental footprints and fostering economic growth.",
+    "project_start": "1/1/2019",
+    "project_end": "8/31/2024",
+    "project_title": "The Project for Agri-food and Agro-industry Development Assistance in Pakistan",
+    "sector": "Agro-industries",
+    "project_category": "CreatingShared Prosperity",
+    "project_subcategory": " Agri. Busin. & Rural Dev.",
+    "total_budget": "4680691.14",
+    "total_expenditure": "4086822.85",
+    "recipient_country_details": [
+        {
+            "recipient-country-code": "PK",
+            "recipient-country": "Pakistan",
+            "ldc-indicator": "-",
+            "region": "ASIA AND PACIFIC"
+        }
+    ],
+    "donor_details": [
+        {
+            "donor": "Japan International Cooperation Agency (",
+            "donor-type": "Member States",
+            "donor-country-code": "JP",
+            "donor-country": "Japan"
+        }
+    ],
+    "classification_results": {
+        "ZeroShot": {
+            "UsedModel": "https://api-inference.huggingface.co/models/facebook/bart-large-mnli",
+            "SDGs": [
+                [
+                    "SDG 8: Decent work and economic growth: SDG8 \u201cDecent work and economic growth\u201d aims to promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all. It seeks to facilitate structural transformation and economic growth by increasing the capacities of local industries for value addition, economic diversification, and export promotion, as well as supports the creation of decent jobs in industry and industry-related services",
+                    0.27280381321907043
+                ],
+                [
+                    "SDG 5: Gender equality: SDG 5 'Gender equality' aims to achieve gender equality and empower all women and girls. It aims to support women in acquiring skills and gaining access to productive and financial resources that allow them to compete effectively in the economic life of their communities. It aims to solve unequal access to education, healthcare, economic opportunities, and resources.",
+                    0.21580451726913452
+                ],
+                [
+                    "SDG 12: Responsible consumption and production: Ensure sustainable consumption and production patterns. Promote green industries, resource efficient management, cleaner production, and introduce environmental sustainability policies.",
+                    0.1759379804134369
+                ],
+                [
+                    "SDG 1: No poverty: SDG 1 'No Poverty' aims to end poverty in all its forms everywhere. It seeks to ensure that the benefits of industrialization are shared by all, that the living conditions of all are sustainably improved, and that no one is left behind.",
+                    0.175850510597229
+                ],
+                [
+                    "SDG 9: Industry, innovation, and infrastructure: SDG 9 \u201cIndustry, innovation, and infrastructure\u201d aims to build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation. Building trade capacities in industries, ensuring all countries benefit from international trade and technological progress",
+                    0.08754604309797287
+                ],
+                [
+                    "SDG 14: Life below water: Conserve and sustainably use the oceans, seas and marine resources for sustainable development. Sound water management methodologies and system introduction, strategic partnerships protect coastal and marine habitats and ecosystems, and improve fisheries incomes.",
+                    0.07205716520547867
+                ]
+            ],
+            "Focus_Areas": [
+                [
+                    "Focus area 2: Innovation and Technology Absorption: Promoting technology adoption and innovative solutions across diverse areas such as smart energy and industrial resilience. This encompasses technology promotion, innovative financing, and developing quality infrastructure to tackle multifaceted development challenges and enhance global industrial competitiveness",
+                    0.35494932532310486
+                ],
+                [
+                    "Focus area 4: Climate Change Mitigation and Adaptation Industry: Accelerating the development of renewable energy and energy efficiency initiatives to decarbonize industrial activities and power low-carbon, resilient industrialization. It equips stakeholders with the knowledge to leverage digital technologies for sustainable industry and to develop climate-positive, resilient industrial systems across various sectors.",
+                    0.3098503351211548
+                ],
+                [
+                    "Focus area 3: Circularity, Waste and Pollutants Reduction: Promote the transition to circular economy models to minimize waste and pollutants across global and domestic value chains. This includes assisting countries in developing strategies to comply with environmental agreements and fostering innovation ecosystems that catalyze new industries focused on reducing the environmental footprint of industrial activities.",
+                    0.24544860422611237
+                ]
+            ],
+            "Priorities": [
+                [
+                    "Priority 3: Sustainable supply chains: Sustainable supply chains are systems of production and distribution that prioritize environmental, social, and economic responsibility throughout the entire process. This approach considers the impacts of sourcing, manufacturing, transportation, and consumption on people and the planet. It involves minimizing carbon emissions, reducing waste, conserving resources, and ensuring fair labor practices along. Sustainable supply chains prioritize ethical sourcing of materials, support local economies, and promote transparency and accountability among suppliers. Companies must identify, end, prevent and mitigate negative human rights and environmental impacts in the company\u2019s operations, those of their subsidiaries and their supply chains.",
+                    0.45785826444625854
+                ],
+                [
+                    "Priority 1: Ending Hunger: Ending hunger means that all people should have physical, social, and economic access to sufficient, safe and nutritious food. Reducing post-harvest loss and reducing food waste means that more food and agricultural products will be available for consumption. Increased food safety, quality control, and better farming techniques are also importantt. This can be supported through agri-business development and upgrading agro-food value chains.",
+                    0.2819780111312866
+                ],
+                [
+                    "Priority 2: Climate Action: Climate action refers to efforts aimed at mitigating and adapting to the impacts of climate change. It involves taking proactive measures to reduce greenhouse gas emissions, strengthening resilience, transitioning towards renewable energy sources, and implementing policies to limit global warming including the reduction of ozone depleting substances (ODS) such as Hydrochlorofluorocarbons (HCFC) and Chlorofluorocarbons (CFC). Ultimately, climate action aims to minimize environmental degradation, and promoting conservation. Companies have the potential to become leading providers of technological solutions, business models and green jobs to influence consumer behavior and lifestyles to mitigate climate change and resource depletion.",
+                    0.26016372442245483
+                ]
+            ]
+        },
+        "GenerativeAI": {
+            "UsedModel": "gpt-3.5-turbo",
+            "SDGs": "**Category Assignments:**\n- **Priority:** Ending Hunger\n- **Focus Area of Expertise:** Innovation and Technology Absorption\n- **Sustainable Development Goals (SDGs):**\n   1. SDG 2: Zero Hunger\n   2. SDG 12: Responsible Consumption and Production\n   3. SDG 1: No Poverty\n   4. SDG 8: Decent Work and Economic Growth\n\n**Justification:**\n- The text aligns with the theme of ending hunger through agricultural advancements, specifically focusing on enhancing livestock farming and value chains, which corresponds to SDG 2: Zero Hunger.\n- Emphasis on improving value chains and promoting responsible consumption links back to SDG 12: Responsible Consumption and Production.\n- The discussion of agricultural challenges in Pakistan and initiatives for economic growth through technological advancements relates to SDG 1: No Poverty and SDG 8: Decent Work and Economic Growth.\n- The mention of reducing environmental impacts and efforts towards sustainability in agricultural practices resonates with the broader goal of sustainable development embedded in the described SDGs.\n\nThis analysis clearly aligns the text with the specified Sustainable Development Goals and highlights how the discussed initiatives contribute to addressing hunger, poverty, responsible consumption, and economic growth within the framework of sustainable development.",
+            "Focus_Areas": "**Category Assignments:**\n1. Focus Area: Innovation and Technology Absorption\n\n**Justification:**\nThe text relates to the category of Innovation and Technology Absorption as it discusses initiatives aimed at enhancing livestock farming and the apple value chain in specific regions of Pakistan through technological advancements. These initiatives align with the promotion of technology adoption and innovative solutions, which are key aspects of this focus area as outlined in the criteria.\n\n**Structured Format:**\nThe text falls under the category of Innovation and Technology Absorption as it highlights projects concentrating on revitalizing agricultural value chains through improved practices and technological advancements, directly tying into the criteria's emphasis on promoting technology adoption and innovative solutions to enhance global industrial competitiveness.",
+            "Priorities": "**Category Assignments:**\n1. **Priority 1: Ending Hunger**\n\n**Justification:**\nThe text emphasizes initiatives to enhance livestock farming and the apple value chain in specific regions of Pakistan to address agricultural challenges and promote economic growth. It highlights a project focusing on revitalizing value chains through improved practices, aligning with the theme of ending hunger by improving food production and economic opportunities. References to reducing hunger, promoting economic growth, and enhancing value chains relate directly to Priority 1: Ending Hunger.\n\nThis categorization is further supported by the text's integration with the Sustainable Development Goals (SDGs), specifically SDG 2: Zero Hunger and SDG 12: Responsible Consumption and Production. The narrative connects to the United Nations Sustainable Development Framework for Pakistan 2018-2022 and aligns with the Ministry of National Food Security & Research of Pakistan's vision for promoting agricultural and agroindustry sectors with a focus on sustainable development goals. Efforts to reduce environmental impacts and establish market linkages for sustainability also contribute to addressing hunger through sustainable practices and economic growth.\n\nThe section underscores the importance of ownership transfer, sustainable practices, and market linkages to reduce environmental footprints and facilitate economic growth, reflecting a commitment to addressing hunger and promoting sustainable development."
+        }
+    }
+}
